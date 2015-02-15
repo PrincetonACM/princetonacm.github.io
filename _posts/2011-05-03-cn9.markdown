@@ -1,0 +1,56 @@
+---
+layout: post
+status: publish
+published: true
+title: C@N[9]
+author:
+  display_name: Jim
+  login: Jim
+  email: ''
+  url: ''
+author_login: Jim
+wordpress_id: 128
+wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=128
+date: '2011-05-03 21:13:36 -0400'
+date_gmt: '2011-05-04 02:13:36 -0400'
+categories:
+- Uncategorized
+- main
+tags: []
+comments: []
+---
+<br />
+<blockquote><p><code><br />
+fedora:~$ ptyhon acm.py ./sched.txt -debug<br />
+ptyhon: command not found<br />
+fedora:~$ python acm.py ./sched.txt -debug<br />
+IN MAKE_CANS<br />
+reading fiel: ./sched.txt<br />
+HERE<br />
+HERE<br />
+HERE<br />
+entering for loop<br />
+here 6 March 25<br />
+THEME: HackRU<br />
+6 good!!<br />
+here 7 April 15<br />
+THEME: Network Security<br />
+7 good!!<br />
+here 8 April 29<br />
+THEME: Using Eclipse<br />
+8 good!!<br />
+here 9 May 6<br />
+THEME: Combinatorial Game Theory<br />
+Traceback (most recent call last):<br />
+File "test.py", line 539202, in &lt;module&gt;<br />
+make_cans(filename)<br />
+File "test.py", line 496023, in make_cans<br />
+codeAtNights[last] = ('9pm Fri', 'May 6', '1pm Sat', 'May 7', '3rd Floor Sherrerd', 'Combinatorial Game Theory')<br />
+IndexError: list assignment index out of range<br />
+</code></p></blockquote>
+<p>THE LAST CODE@NIGHT OF THE SEMESTER<br />
+--&gt; so awesome that it breaks code!<br />
+9pm Fri 6 May - 10am Sat 7 May<br />
+3rd Floor Sherrerd Hall (CITP lounge)<br />
+Theme: Combinatorial Game Theory - Jarett Schwartz '11 will be giving a talk at 11pm. Be there!</p>
+<p>TL;DR: <a href="http://www.facebook.com/event.php?eid=219153108096379" target="_blank">http://www.facebook.com/event.php?eid=219153108096379</a></p>

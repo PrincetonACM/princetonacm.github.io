@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: InstaEDU
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
+wordpress_id: 368
+wordpress_url: http://princetonacm.com/?p=368
+date: '2013-09-17 03:54:00 -0400'
+date_gmt: '2013-09-17 03:54:00 -0400'
+categories:
+- broadcast
+tags: []
+comments: []
+---
+<p>My name is Sophie and I am the community manager at an online tutoring company called InstaEDU which provides a great part-time job opportunity for students at Princeton.</p>
+<p>InstaEDU tutors earn money by teaching online at any time of the day or night. Whenever you’re online, we send student requests your way. If you're available, just accept and you’ll instantly launch into a tutoring session. You can also set up scheduled lessons when it's convenient for you. We track your hours tutored -- $20/hr -- and pay you every day.</p>
+<p>Signing up is easy. Just visit <a href="http://instaedu.com/become-a-tutor" target="_blank">http://instaedu.com/become-a-<wbr />tutor</a> and follow a few simple steps. The whole process will take you less than 10 minutes.</p>

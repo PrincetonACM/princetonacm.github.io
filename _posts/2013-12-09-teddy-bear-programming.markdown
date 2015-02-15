@@ -1,0 +1,79 @@
+---
+layout: post
+status: publish
+published: true
+title: Teddy Bear Programming
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
+wordpress_id: 399
+wordpress_url: http://princetonacm.com/?p=399
+date: '2013-12-09 00:28:56 -0500'
+date_gmt: '2013-12-09 00:28:56 -0500'
+categories:
+- main
+tags: []
+comments: []
+---
+<p dir="ltr">Story time. Fiction. Based on real life.</p>
+<p dir="ltr">Once there was a badass lab TA. Her skill was known far and wide. People from all over would come to her for help. And always they would leave bug-free.</p>
+<p dir="ltr">"Please, I have a bug. Help me!" they would say.</p>
+<p dir="ltr">And the lab TA would do this: She would hand them a teddy bear, and before she would so much as glance at their code, she would have them explain their problem out loud to the floofy bear. Most of the time, the bear found the solution on its own and the TA never even had to read the source.</p>
+<p dir="ltr">The end.</p>
+<p dir="ltr">
+<p dir="ltr">Introducing <strong>Teddy Bear Programming</strong>, the latest and greatest Princeton ACM initiative.</p>
+<p dir="ltr">Teddy Bear Programming aims to foster learning experiences and friendships centered around building cool things.</p>
+<p dir="ltr">You can sign up for Teddy Bear Programming here: <a href="http://goo.gl/ZIO6JA" target="_blank">http://goo.gl/ZIO6JA</a></p>
+<p dir="ltr">
+<p dir="ltr">What is it? It works like this: Two people get together and program something. One person serves as the main programmer and does most of the programming. The main programmer explains what they're doing and why they are doing it as they program. If you're the main programmer, keep in mind that your partner hasn't seen your code before and it may look like magic to them. The secondary programmer sits back and watches. As the secondary programmer, ask lots of questions and make lots of suggestions. Don't hold back; if you see the main programmer making a bug or don't understand why they're doing something or have an idea, no matter how silly, let the main programmer know.</p>
+<p dir="ltr">We hope lots of Teddy Bear Programming pairs blossom from this experiment, and we hope it’s fun and a good experience for all involved.</p>
+<p dir="ltr">Sign up for Teddy Bear Programming here: <a href="http://goo.gl/ZIO6JA" target="_blank">http://goo.gl/ZIO6JA</a></p>
+<p dir="ltr">
+<p dir="ltr"><strong>Teddy Bear Programming FAQ:</strong></p>
+<p dir="ltr">
+<p dir="ltr">What is the role of the main programmer?</p>
+<p dir="ltr">The main programmer does most of the programming and explains what they do as they do it. It’s their project that you’re working on. They should answer any questions that the secondary programmer has. And they will take into consideration suggestions the secondary programmer makes. They will be supremely grateful for the eyes and ears of the secondary programmer.</p>
+<p dir="ltr">
+<p dir="ltr">What is the role of the secondary programmer?</p>
+<p dir="ltr">The secondary programmer watches as the primary programmer programs. It’s their job to have questions and suggestions as the two of you pair program. They also take on the role of pointing out silly typos the main programmer might make as they program.</p>
+<p dir="ltr">
+<p dir="ltr">Don’t you think the term “secondary programmer” sounds inferior to “primary programmer”?</p>
+<p dir="ltr">Maybe a little, but it’s not. I promise.</p>
+<p dir="ltr">
+<p dir="ltr">Can we call secondary programmers “teddy bears”?</p>
+<p dir="ltr">Sure, I guess. Cuddling is optional.</p>
+<p dir="ltr">
+<p dir="ltr">How will we decide what to work on?</p>
+<p dir="ltr">When people <a href="http://goo.gl/ZIO6JA" target="_blank">sign up</a> to be the main programmer they will say what project they are working on. Then, we’ll send out the list of possible projects to all the secondary programmers and we’ll work together to try and find matches that are a good fit.</p>
+<p dir="ltr">
+<p dir="ltr">How long are Teddy Bear Programming sessions?</p>
+<p dir="ltr">You should set aside 60 minutes for your Teddy Bear Programming session. But if you both want to keep programming for more (or less) time, by all means, please do so.</p>
+<p dir="ltr">
+<p dir="ltr"><a href="https://docs.google.com/forms/d/1LNuXgMR072OE7hWghJm3fLK1sBxzUvGgqmtT3rnSpt0/viewform" target="_blank">Should I be a</a> main programmer or a secondary programmer?</p>
+<p dir="ltr">Be a main programmer if you have a project that you want to work on already. Be a main programmer if you enjoy teaching. Be a main programmer if you want motivation to spend an hour working on a side project. Be a main programmer if you want practice programming while being watched, perhaps for interviews. Be a main programmer if you want feedback on your style of programming or on your project. Be a main programmer if you want a second pair of eyes and ears to catch your bugs. Be a main programmer if you want to meet cool people interested in CS. Be a main programmer if you want to help someone learn.</p>
+<p dir="ltr">
+<p dir="ltr">Be a secondary programmer if you want to see how someone else programs. Be a secondary programmer if you want to help someone with their project. Be a secondary programmer if you’ve always known you were a teddy bear. Be a secondary programmer if you want to get to know an interesting CS person better. Be a secondary programmer if you want to be exposed to a new language or a new type of programming. Be a secondary programmer if you want to know what’s possible in the world of programming. Be a secondary programmer if you want inspiration for your own side projects, or want to have a side project but don’t know where to start.</p>
+<p dir="ltr">
+<p dir="ltr">You’re welcome to be both a main programmer and a secondary programmer.</p>
+<p dir="ltr">
+<p dir="ltr">Who learns more, primary programmers or secondary programmers?</p>
+<p dir="ltr">If I had to guess, I’d say secondary programmers. But it’s hard to say and probably varies from team to team.</p>
+<p dir="ltr">
+<p dir="ltr">Isn’t this just pair programming?</p>
+<p dir="ltr">Yes. There are lots of types of pair programming though, and this is just one.</p>
+<p dir="ltr">
+<p dir="ltr">Will ACM pay for me to have coffee with my Teddy Bear Programming partner? Will you supply us with a real teddy bear?</p>
+<p dir="ltr">We’re still working out the details here. Stay tuned.</p>
+<p dir="ltr">
+<p dir="ltr">Do you have any tips for how to be a good main programmer?</p>
+<p>Always make sure you're on the same page as your partner as much as possible. For instance, make sure they know what you are trying to do at all times by being explicit about what you are trying to accomplish.</p>
+<div></div>
+<p dir="ltr">What does all this have to do with overfishing?</p>
+<p dir="ltr">It’s an ACM event. All ACM events have to do with overfishing. This makes searching for ACM events really easy; you just search your email for overfishing and *poof*, there they are.</p>
+<p dir="ltr">
+<p dir="ltr">How can I sign up for Teddy Bear Programming?</p>
+<div>Sign up here. <a href="http://goo.gl/ZIO6JA" target="_blank">http://goo.gl/ZIO6JA</a></div>

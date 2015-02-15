@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: C@N[8]
+author:
+  display_name: Jim
+  login: Jim
+  email: ''
+  url: ''
+author_login: Jim
+wordpress_id: 115
+wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=115
+date: '2011-04-27 19:00:11 -0400'
+date_gmt: '2011-04-27 19:00:11 -0400'
+categories:
+- main
+tags: []
+comments: []
+---
+<p>this friday 9PM - saturday 1PM<br />
+3rd floor sherrerd hall (citp lounge)</p>
+<p>we'll be briefly discussing eclipse &amp; helping you set it up / stop using<br />
+drjava</p>
+<p>come to code and learn about eclipse ALL NIGHT in the presence of pizza,<br />
+snacks, caffeine, power, mystery, and other human beings</p>

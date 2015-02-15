@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: C@N[1][6]
+author:
+  display_name: Raymond
+  login: admin
+  email: raymondz@princeton.edu
+  url: ''
+author_login: admin
+author_email: raymondz@princeton.edu
+wordpress_id: 4
+wordpress_url: http://princetonacm.com/?p=4
+date: '2012-04-14 01:37:11 -0400'
+date_gmt: '2012-04-14 01:37:11 -0400'
+categories:
+- Uncategorized
+- main
+tags: []
+comments:
+- id: 44
+  author: anonymous
+  author_email: ptonacm@princeton.edu
+  author_url: ''
+  date: '2012-04-20 03:03:04 -0400'
+  date_gmt: '2012-04-20 03:03:04 -0400'
+  content: this was a nice code at night.
+---
+<p>Bridgewater, the $120bn hedge fund, is presenting a tech talk and cool goodies.</p>
+<p>Come meet the new board. We're also unveiling the redesign of the all new ACM website!</p>
+<p>Friday at 9pm, Sherrerd Hall conference room - see you there.</p>

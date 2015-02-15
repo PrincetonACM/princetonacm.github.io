@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: C@N[7]
+author:
+  display_name: Jim
+  login: Jim
+  email: ''
+  url: ''
+author_login: Jim
+wordpress_id: 112
+wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=112
+date: '2011-04-20 18:24:19 -0400'
+date_gmt: '2011-04-20 23:24:19 -0400'
+categories:
+- Uncategorized
+- main
+tags: []
+comments: []
+---
+<div>
+<p>The 7th Princeton ACM Code@Night was on 4/15. Prefrosh came!</p>
+<p>We provided food, liquids, caffeine, snacks, chairs, tables, heating, bathrooms, air, doors, couches, and outlets.</p>
+<p>This episode of C@N had a theme of:<br />
+NETWORK SECURITY!</p>
+<p>At 11 pm, Hao Lian presented his talk on Dan Kaminsky's 2008 DNS cache poisoning attack.</p>
+<p>Sponsored by USG. Who likes us. And gave us money. To get you food. So you can code. And be happy.</p>
+</div>

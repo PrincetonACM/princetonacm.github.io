@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Jeffrey Yan
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
+wordpress_id: 377
+wordpress_url: http://princetonacm.com/?p=377
+date: '2013-09-25 16:40:23 -0400'
+date_gmt: '2013-09-25 16:40:23 -0400'
+categories:
+- broadcast
+tags: []
+comments: []
+---
+<p>Hi,</p>
+<p>My name is Jeffrey Yan and I am an ORFE major. I am looking for a Web/App developer for my startup. I have already done a decent amount of work on it.</p>
+<p>I would like to get a minimum viable product (basic app/website testing product) out before November in time for restaurant week in Princeton. I am looking for someone who is adept at javascript, html, css, php (or any other server-side language), or objective c. This app has to do with food, so if you like food and enjoy coding, you should definitely message me. The startup will be a big task, so I need someone who can devote a considerable amount of time to this. It will also be extremely rewarding.</p>
+<p>If you're interested, please email me at jy6@princeton.edu. We will have a one on one meeting to discuss more specific details. Thanks!</p>
+<p>Best Regards, Jeffrey Yan</p>
