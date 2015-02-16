@@ -3,6 +3,14 @@ layout: post
 status: publish
 published: true
 title: Enterra Code@Night
+author:
+  display_name: cstedman
+  login: cstedman
+  email: cstedman@princeton.edu
+  url: http://collinstedman.com
+author_login: cstedman
+author_email: cstedman@princeton.edu
+author_url: http://collinstedman.com
 wordpress_id: 396
 wordpress_url: http://princetonacm.com/?p=396
 date: '2013-12-01 06:51:19 -0500'

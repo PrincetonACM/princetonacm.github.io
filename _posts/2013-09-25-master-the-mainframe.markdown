@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Master the Mainframe
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 379
 wordpress_url: http://princetonacm.com/?p=379
 date: '2013-09-25 16:41:03 -0400'

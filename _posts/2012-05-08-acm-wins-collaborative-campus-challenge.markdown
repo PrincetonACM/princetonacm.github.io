@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: ACM wins Collaborative Campus Challenge
+author:
+  display_name: Raymond
+  login: admin
+  email: raymondz@princeton.edu
+  url: ''
+author_login: admin
+author_email: raymondz@princeton.edu
 wordpress_id: 3
 wordpress_url: http://princetonacm.com/?p=3
 date: '2012-05-08 02:48:44 -0400'

@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Code@Night with Codecademy in Sherrerd Hall
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 389
 wordpress_url: http://princetonacm.com/?p=389
 date: '2013-10-09 17:54:09 -0400'

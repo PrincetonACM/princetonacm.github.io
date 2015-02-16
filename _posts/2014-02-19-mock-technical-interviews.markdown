@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Mock Technical Interviews (&&&) A Story about Overfishing
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 417
 wordpress_url: http://princetonacm.com/?p=417
 date: '2014-02-19 06:20:10 -0500'

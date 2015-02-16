@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: 2013 Elections
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 268
 wordpress_url: http://princetonacm.com/?p=268
 date: '2013-03-07 20:40:49 -0500'

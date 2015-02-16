@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Pearson Contest
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 335
 wordpress_url: http://princetonacm.com/?p=335
 date: '2013-09-11 14:36:14 -0400'

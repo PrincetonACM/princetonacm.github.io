@@ -3,6 +3,12 @@ layout: post
 status: publish
 published: true
 title: Movie@Night!
+author:
+  display_name: Jim
+  login: Jim
+  email: ''
+  url: ''
+author_login: Jim
 wordpress_id: 123
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=123
 date: '2011-05-01 22:57:51 -0400'

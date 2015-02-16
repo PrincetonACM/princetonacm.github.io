@@ -3,6 +3,12 @@ layout: post
 status: publish
 published: true
 title: Facebook Trivia Night!
+author:
+  display_name: Dana
+  login: Dana
+  email: ''
+  url: ''
+author_login: Dana
 wordpress_id: 37
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=37
 date: '2010-11-16 11:09:27 -0500'

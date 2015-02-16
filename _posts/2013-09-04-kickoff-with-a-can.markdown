@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Kickoff with a C@N
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 320
 wordpress_url: http://princetonacm.com/?p=320
 date: '2013-09-04 04:23:53 -0400'

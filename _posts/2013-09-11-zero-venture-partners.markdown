@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Zero Venture Partners
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 337
 wordpress_url: http://princetonacm.com/?p=337
 date: '2013-09-11 14:39:07 -0400'

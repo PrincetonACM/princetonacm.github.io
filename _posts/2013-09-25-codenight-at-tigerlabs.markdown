@@ -3,6 +3,13 @@ layout: post
 status: publish
 published: true
 title: Code@Night at TigerLabs
+author:
+  display_name: dbieber
+  login: dbieber
+  email: dbieber@princeton.edu
+  url: ''
+author_login: dbieber
+author_email: dbieber@princeton.edu
 wordpress_id: 385
 wordpress_url: http://princetonacm.com/?p=385
 date: '2013-09-25 18:34:23 -0400'
