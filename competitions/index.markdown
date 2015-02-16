@@ -2,13 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Competition
-author:
-  display_name: Dana
-  login: Dana
-  email: ''
-  url: ''
-author_login: Dana
+title: Competitions
 wordpress_id: 76
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?page_id=76
 date: '2011-02-24 15:56:09 -0500'
