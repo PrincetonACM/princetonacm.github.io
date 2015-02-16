@@ -3,12 +3,6 @@ layout: page
 status: publish
 published: true
 title: Calendar
-author:
-  display_name: Dana
-  login: Dana
-  email: ''
-  url: ''
-author_login: Dana
 wordpress_id: 13
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?page_id=7
 date: '2010-11-11 14:06:45 -0500'

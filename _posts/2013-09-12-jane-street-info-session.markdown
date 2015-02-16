@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Jane Street Info Session
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 339
 wordpress_url: http://princetonacm.com/?p=339
 date: '2013-09-12 00:51:46 -0400'

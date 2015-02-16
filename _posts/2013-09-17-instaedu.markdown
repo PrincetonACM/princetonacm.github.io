@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: InstaEDU
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 368
 wordpress_url: http://princetonacm.com/?p=368
 date: '2013-09-17 03:54:00 -0400'

@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Bain & Company
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 366
 wordpress_url: http://princetonacm.com/?p=366
 date: '2013-09-17 03:50:13 -0400'

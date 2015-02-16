@@ -3,12 +3,6 @@ layout: post
 status: publish
 published: true
 title: C@N[1][4]
-author:
-  display_name: Jim
-  login: Jim
-  email: ''
-  url: ''
-author_login: Jim
 wordpress_id: 162
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=162
 date: '2012-01-12 08:01:01 -0500'

@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Tower Research
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 370
 wordpress_url: http://princetonacm.com/?p=370
 date: '2013-09-17 03:59:06 -0400'

@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Code@Night, Friday Night!
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 247
 wordpress_url: http://princetonacm.com/?p=247
 date: '2013-02-24 19:41:52 -0500'

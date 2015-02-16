@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Microsoft Programming Competition
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 410
 wordpress_url: http://princetonacm.com/?p=410
 date: '2014-02-11 15:01:59 -0500'

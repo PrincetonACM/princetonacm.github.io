@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: CKM Advisors
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 333
 wordpress_url: http://princetonacm.com/?p=333
 date: '2013-09-12 00:52:04 -0400'

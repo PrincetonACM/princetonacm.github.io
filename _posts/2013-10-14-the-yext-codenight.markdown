@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: The Yext Code@Night
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 392
 wordpress_url: http://princetonacm.com/?p=392
 date: '2013-10-14 00:20:19 -0400'

@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: SQL on Steroids
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 372
 wordpress_url: http://princetonacm.com/?p=372
 date: '2013-09-18 02:08:37 -0400'

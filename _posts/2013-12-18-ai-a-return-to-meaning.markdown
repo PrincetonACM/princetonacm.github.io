@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'AI: A Return to Meaning'
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 402
 wordpress_url: http://princetonacm.com/?p=402
 date: '2013-12-18 19:50:25 -0500'

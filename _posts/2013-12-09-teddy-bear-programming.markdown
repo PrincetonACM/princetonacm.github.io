@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Teddy Bear Programming
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 399
 wordpress_url: http://princetonacm.com/?p=399
 date: '2013-12-09 00:28:56 -0500'

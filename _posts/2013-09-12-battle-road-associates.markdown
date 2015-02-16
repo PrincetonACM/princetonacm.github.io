@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: Battle Road Associates
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 327
 wordpress_url: http://princetonacm.com/?p=327
 date: '2013-09-12 00:52:44 -0400'

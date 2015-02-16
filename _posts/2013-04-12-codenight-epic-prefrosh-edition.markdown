@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'Code@Night: Epic Prefrosh Edition'
-author:
-  display_name: dbieber
-  login: dbieber
-  email: dbieber@princeton.edu
-  url: ''
-author_login: dbieber
-author_email: dbieber@princeton.edu
 wordpress_id: 275
 wordpress_url: http://princetonacm.com/?p=275
 date: '2013-04-12 22:25:30 -0400'

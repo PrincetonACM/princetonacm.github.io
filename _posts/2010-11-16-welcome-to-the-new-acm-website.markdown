@@ -3,12 +3,6 @@ layout: post
 status: publish
 published: true
 title: Welcome to the new ACM website!
-author:
-  display_name: Dana
-  login: Dana
-  email: ''
-  url: ''
-author_login: Dana
 wordpress_id: 35
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=35
 date: '2010-11-16 11:05:09 -0500'

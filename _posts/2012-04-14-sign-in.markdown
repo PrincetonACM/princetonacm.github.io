@@ -3,13 +3,6 @@ layout: post
 status: publish
 published: true
 title: C@N[1][6]
-author:
-  display_name: Raymond
-  login: admin
-  email: raymondz@princeton.edu
-  url: ''
-author_login: admin
-author_email: raymondz@princeton.edu
 wordpress_id: 4
 wordpress_url: http://princetonacm.com/?p=4
 date: '2012-04-14 01:37:11 -0400'

@@ -3,12 +3,6 @@ layout: post
 status: publish
 published: true
 title: Elections!
-author:
-  display_name: Dana
-  login: Dana
-  email: ''
-  url: ''
-author_login: Dana
 wordpress_id: 64
 wordpress_url: http://webscript.princeton.edu/~ptonacm/?p=64
 date: '2011-02-24 04:52:26 -0500'
