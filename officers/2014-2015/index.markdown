@@ -18,7 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p>The 2014-2015 Princeton ACM Student Chapter is run by the following muggles.</p>
+<p>The 2014-2015 Princeton ACM Student Chapter was run by the following muggles.</p>
 <p>David Dohan (Chair)<br />
 Walker Davis (Vice Chair)<br />
 Katherine Lee (Secretary and Treasurer)<br />

@@ -15,7 +15,7 @@ wordpress_url: http://princetonacm.com/?p=416
 date: '2014-02-21 17:04:17 -0500'
 date_gmt: '2014-02-21 17:04:17 -0500'
 categories:
-- Uncategorized
+- main
 tags: []
 comments: []
 ---

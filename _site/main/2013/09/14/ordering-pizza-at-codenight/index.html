@@ -6,7 +6,7 @@
     <title>Ordering Pizza at Code@Night &mdash; Princeton ACM</title>
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/assets/main.css">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
     <link rel="apple-touch-icon" href="/images/logo.png"/>
     <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
     <meta name="title" content="Ordering Pizza at Code@Night ">
@@ -16,38 +16,19 @@
     <meta property="og:title" content="Ordering Pizza at Code@Night "/>
     <meta property="og:url" content="http://princetonacm.com/main/2013/09/14/ordering-pizza-at-codenight/"/>
     
-    
-    <meta property="og:description" content="<p>Every Code@Night we order a solid amount of pizza. 8, 10, 12 pies. Depends on the size of the crowd.</p>
-<p>Tonight, we collaboratively programmed a <a href="https://github.com/dbieber/acmpizza">pizza ordering script</a>. We hooked my computer up to the giant monitor in the CITP space in Sherrerd and made this script that would go through the whole pizza ordering process. Selenium allowed us to control the browser programmatically. Having the Selenium driven browser deal with JavaScript was difficult, so we ordered our programmatic pizza through Papa John's mobile site. There were no JavaScript issues there. The process was mostly <em>look up an xpath in chrome</em>, <em>do stuff on that element</em>, repeat. Pretty exciting to watch the script go through and order all our pizza all on its own.</p>
-<p>How does programmatic pizza taste compared to your ordinary Code@Night pizza? Couldn't tell you. It's Yom Kippur.</p>
-<p>As a side note to those planning future Code@Nights, these events will slow down sooner on Yom Kippur. Generally a good idea to plan around this.</p>
-<p>Next steps? Have our script order a completely random pizza. Or take preferences, and order the utility-maximizing combination of pizzas. Or expand to non-Papa-Johns foods. Or... get this... we turn pizza ordering into a one-button process with a Raspberry Pi, which we would of course affectionately name our Raspberry Pizza Pie.</p>
-<p>Want to actually implement some of these "next steps"? Dig into <a href="https://github.com/dbieber/acmpizza">the code on Github</a>.</p>
-<p>&nbsp;</p>
-
-"/>
-    <meta name="description" content="<p>Every Code@Night we order a solid amount of pizza. 8, 10, 12 pies. Depends on the size of the crowd.</p>
-<p>Tonight, we collaboratively programmed a <a href="https://github.com/dbieber/acmpizza">pizza ordering script</a>. We hooked my computer up to the giant monitor in the CITP space in Sherrerd and made this script that would go through the whole pizza ordering process. Selenium allowed us to control the browser programmatically. Having the Selenium driven browser deal with JavaScript was difficult, so we ordered our programmatic pizza through Papa John's mobile site. There were no JavaScript issues there. The process was mostly <em>look up an xpath in chrome</em>, <em>do stuff on that element</em>, repeat. Pretty exciting to watch the script go through and order all our pizza all on its own.</p>
-<p>How does programmatic pizza taste compared to your ordinary Code@Night pizza? Couldn't tell you. It's Yom Kippur.</p>
-<p>As a side note to those planning future Code@Nights, these events will slow down sooner on Yom Kippur. Generally a good idea to plan around this.</p>
-<p>Next steps? Have our script order a completely random pizza. Or take preferences, and order the utility-maximizing combination of pizzas. Or expand to non-Papa-Johns foods. Or... get this... we turn pizza ordering into a one-button process with a Raspberry Pi, which we would of course affectionately name our Raspberry Pizza Pie.</p>
-<p>Want to actually implement some of these "next steps"? Dig into <a href="https://github.com/dbieber/acmpizza">the code on Github</a>.</p>
-<p>&nbsp;</p>
-
-"/>
-    
     <meta property="og:site_name" content="Princeton ACM">     
 </head>
 <body>
-<br>
-    
+    <br>
+
+<!--
 <section class="site-nav">
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <img src="/images/logo.png" alt="Inc">
+                <img src="/images/logo.png" alt="ACM">
             </a>
-            <a href="/" class="home">News</a>
+            <a href="/" class="home">Home</a>
             <a href="/about/index.html">About</a>
             <a href="/calendar/index.html">Calendar</a>
             <a href="/officers/index.html">Officers</a>
@@ -56,6 +37,44 @@
             <a href="/competitions/index.html">Competitions</a>
             <a href="/events/teddy/index.html">Teddy Bear Programming</a>
             <a href="/events/coffee/index.html">Coffee Chat</a>
+        </nav>
+    </header>
+</section>
+-->
+
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="ACM">
+            </a>
+            <div id='cssmenu'>
+                <ul>
+                    <li><a href='/'>Home</a></li>
+                    <li class='has-sub'><a href='/about/index.html'>About</a>
+                        <ul>
+                            <li><a href='/about/constitution/index.html'>Constitution</a></li>
+                        </ul>
+                    </li>
+                    <li><a href='/calendar/index.html'>Calendar</a></li>
+                    <li class='has-sub'><a href='/officers/index.html'>Officers</a>
+                        <ul>
+                            <li><a href='/officers/2015-2016/index.html'>2015-2016</a></li>
+                            <li><a href='/officers/2014-2015/index.html'>2014-2015</a></li>
+                            <li><a href='/officers/2013-2014/index.html'>2013-2014</a></li>
+                            <li><a href='/officers/2012-2013/index.html'>2012-2013</a></li>
+                            <li><a href='/officers/2011-2012/index.html'>2011-2012</a></li>
+                            <li><a href='/officers/elections/index.html'>Elections</a></li>
+                        </ul>
+                    </li>
+                    <li><a>//</a></li>
+                    <li><a href="/events/code-at-night/index.html">Code@Night</a></li>
+                    <li><a href="/competitions/index.html">Competitions</a></li>
+                    <li><a href="/events/teddy/index.html">Teddy Bear Programming</a></li>
+                    <li><a href="/events/coffee/index.html">Coffee Chat</a></li>
+                </ul>
+            </div>
+        </nav>
     </header>
 </section>
 
@@ -95,6 +114,7 @@
         <nav>
             <a href="http://princetonacm.com/">Princeton ACM</a> &middot;
             <a href="/about/index.html">About</a>
+            <a href="https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm" target="_blank">Listserv</a>
         </nav>
         
         <nav class="social">

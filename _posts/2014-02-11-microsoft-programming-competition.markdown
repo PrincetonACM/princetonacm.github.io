@@ -26,4 +26,3 @@ Compete to win $300<br />
 Make sure to bring your laptop, power cord, and your A-GAME!<br />
 February 17th, 2014 @ 7:00 PM CITP in Sherrard Hall<br />
 All contestants will be entered to win a SURFACE just for participating! Maximum participants will be capped at 50 people, so don’t be late!</p>
-<p><a href="http://princetonacm.com/wp-content/uploads/2014/02/2-17-Princeton-Coding-Competition-Ad.pdf">2-17 Princeton Coding Competition Ad</a></p>

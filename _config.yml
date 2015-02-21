@@ -2,7 +2,7 @@ inc:
   # Blog Information
   title:        "Princeton ACM"
   subtitle:     "The official website for the Princeton University student chapter of the Association for Computing Machinery."
-  cover_image:  blog-cover.jpg
+  cover_image:  cover.jpg # Source: http://i.huffpost.com/gen/1401227/thumbs/o-PRINCETON-UNIVERSITY-facebook.jpg
   logo:         logo.png
   
   # Company information
@@ -10,6 +10,7 @@ inc:
   url:          http://princetonacm.com/
   facebook:     /groups/princetonacm
   about_link:   /about/index.html
+  listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
   
   # Comments
   disqus:

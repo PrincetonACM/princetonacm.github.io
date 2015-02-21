@@ -6,7 +6,7 @@
     <title>Princeton ACM &mdash; The official website for the Princeton University student chapter of the Association for Computing Machinery.</title>
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/assets/main.css">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
     <link rel="apple-touch-icon" href="/images/logo.png"/>
     <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
     <meta name="title" content="Princeton ACM">
@@ -16,19 +16,19 @@
     <meta property="og:title" content="Princeton ACM"/>
     <meta property="og:url" content="http://princetonacm.com/page9/"/>
     
-    
     <meta property="og:site_name" content="Princeton ACM">     
 </head>
 <body>
-<br>
-    
+    <br>
+
+<!--
 <section class="site-nav">
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <img src="/images/logo.png" alt="Inc">
+                <img src="/images/logo.png" alt="ACM">
             </a>
-            <a href="/" class="home">News</a>
+            <a href="/" class="home">Home</a>
             <a href="/about/index.html">About</a>
             <a href="/calendar/index.html">Calendar</a>
             <a href="/officers/index.html">Officers</a>
@@ -37,10 +37,48 @@
             <a href="/competitions/index.html">Competitions</a>
             <a href="/events/teddy/index.html">Teddy Bear Programming</a>
             <a href="/events/coffee/index.html">Coffee Chat</a>
+        </nav>
+    </header>
+</section>
+-->
+
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="ACM">
+            </a>
+            <div id='cssmenu'>
+                <ul>
+                    <li><a href='/'>Home</a></li>
+                    <li class='has-sub'><a href='/about/index.html'>About</a>
+                        <ul>
+                            <li><a href='/about/constitution/index.html'>Constitution</a></li>
+                        </ul>
+                    </li>
+                    <li><a href='/calendar/index.html'>Calendar</a></li>
+                    <li class='has-sub'><a href='/officers/index.html'>Officers</a>
+                        <ul>
+                            <li><a href='/officers/2015-2016/index.html'>2015-2016</a></li>
+                            <li><a href='/officers/2014-2015/index.html'>2014-2015</a></li>
+                            <li><a href='/officers/2013-2014/index.html'>2013-2014</a></li>
+                            <li><a href='/officers/2012-2013/index.html'>2012-2013</a></li>
+                            <li><a href='/officers/2011-2012/index.html'>2011-2012</a></li>
+                            <li><a href='/officers/elections/index.html'>Elections</a></li>
+                        </ul>
+                    </li>
+                    <li><a>//</a></li>
+                    <li><a href="/events/code-at-night/index.html">Code@Night</a></li>
+                    <li><a href="/competitions/index.html">Competitions</a></li>
+                    <li><a href="/events/teddy/index.html">Teddy Bear Programming</a></li>
+                    <li><a href="/events/coffee/index.html">Coffee Chat</a></li>
+                </ul>
+            </div>
+        </nav>
     </header>
 </section>
 
-<div class="blog-cover" style="background-image:url(/images/blog-cover.jpg);">
+<div class="blog-cover" style="background-image:url(/images/cover.jpg);">
     
     <section>
         <div class="container">
@@ -57,6 +95,29 @@
 
 <article class="container">
 
+  
+    <section class="index">
+        <!-- -->
+        <div>
+            <h2 class="title"><a href="/uncategorized/main/2011/04/20/cn7/" rel="prefetch">C@N[7]</a></h2>
+            <p><div>
+<p>The 7th Princeton ACM Code@Night was on 4/15. Prefrosh came!</p>
+<p>We provided food, liquids, caffeine, snacks, chairs, tables, heating, bathrooms, air, doors, couches, and outlets.</p>
+<p>This episode of C@N had a theme of:<br />
+NETWORK SECURITY!</p>
+<p>At 11 pm, Hao Lian presented his talk on Dan Kaminsky's 2008 DNS cache poisoning attack.</p>
+<p>Sponsored by USG. Who likes us. And gave us money. To get you food. So you can code. And be happy.</p>
+</div>
+
+</p>
+            <div class="meta">
+                <time pubdate datetime="2011-20-April" title="April 20, 2011">April 20, 2011</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    
+    
   
     <section class="index">
         <!-- -->
@@ -152,6 +213,7 @@ Link to pcal event: <a href="http://cal.tigerapps.org/events/2836">http://cal.ti
         <nav>
             <a href="http://princetonacm.com/">Princeton ACM</a> &middot;
             <a href="/about/index.html">About</a>
+            <a href="https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm" target="_blank">Listserv</a>
         </nav>
         
         <nav class="social">
