@@ -8,7 +8,7 @@ inc:
   # Company information
   company:      Princeton ACM
   url:          http://princetonacm.com/
-  facebook:     /groups/princetonacm
+  facebook:     groups/princetonacm
   about_link:   /about/index.html
   listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
   
@@ -49,7 +49,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-highlighter:    true
+highlighter:    pygments
 
 relative_permalinks: true
 
