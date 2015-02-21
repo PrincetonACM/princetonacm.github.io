@@ -17,4 +17,4 @@ Check us out by coming to one of our events!
 
 We send out periodic notifications to all ACM members to inform them of upcoming events, job opportunities, and other things we feel you guys should know. To sign up, visit the link to our Listserv in the top menu bar.
 
-For detailed information about how ACM is run, see our [constitution](http://princetonacm.com/about/constitution/).
+For detailed information about how ACM is run, see our [constitution](/about/constitution/).

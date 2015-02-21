@@ -1,86 +1,86 @@
 .site-nav {
-    background:#fff;
+  background:#fff;
+  height:80px;
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  box-shadow:0 0 1px 1px rgba(0,0,0,0.1);
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+  transition:all 0.35s ease;
+  z-index:100;
+  
+  .caret {
+    opacity:0.2;
+  }
+  
+  .brand img {
+    height:40px;
+    margin-right:10px;
+    margin-top:-2px;
+  }
+  
+  .dropdown {
+    display:inline-block;
+  }
+  
+  nav {
+    padding:22px 30px;
     height:80px;
-    position:absolute;
-    left:0;
-    right:0;
-    top:0;
-    box-shadow:0 0 1px 1px rgba(0,0,0,0.1);
-    -webkit-backface-visibility: hidden;
-    -webkit-perspective: 1000;
-    transition:all 0.35s ease;
-    z-index:100;
+    display:table-cell;
+  }
+  
+  #navigation {
+    padding-right:0;
     
-    .caret {
-        opacity:0.2;
+    a {
+      border:0;
+      margin:0 0.9em;
+      display:inline-block;
+      
+      &:hover {
+        color:$accent;
+      }
     }
     
-    .brand img {
-        height:40px;
-        margin-right:10px;
-        margin-top:-2px;
+    > a, .dropdown-toggle  {
+      color:#444;
+      border:0;
+      font-weight:600;
+      font-size:15px;
+      display:inline-block;
     }
     
-    .dropdown {
-        display:inline-block;
+    .dropdown-toggle {
+      padding: 6px 0.5em;
+      text-align: center;
+      
+      &:hover {
+        background:#eee;
+      }
     }
+  }
+  
+  .tagline {
+    float:right;
+    text-align:right;
+    font-size:15px;
+    font-weight:600;
     
-    nav {
-        padding:22px 30px;
-        height:80px;
-        display:table-cell;
+    span {
+      line-height:0;
+      padding-right:20px;
     }
-    
-    #navigation {
-        padding-right:0;
-        
-        a {
-            border:0;
-            margin:0 0.9em;
-            display:inline-block;
-            
-            &:hover {
-                color:$accent;
-            }
-        }
-        
-        > a, .dropdown-toggle  {
-            color:#444;
-            border:0;
-            font-weight:600;
-            font-size:15px;
-            display:inline-block;
-        }
-        
-        .dropdown-toggle {
-            padding: 6px 0.5em;
-            text-align: center;
-            
-            &:hover {
-                background:#eee;
-            }
-        }
-    }
-    
-    .tagline {
-        float:right;
-        text-align:right;
-        font-size:15px;
-        font-weight:600;
-        
-        span {
-            line-height:0;
-            padding-right:20px;
-        }
-    }
+  }
 }
 
 body.nav-hidden {
-    .site-nav {
-        top:-100px;
-        transition:all 0.35s ease;
-        -webkit-transform: translate3d(0px, 0, 0px);
-    }
+  .site-nav {
+    top:-100px;
+    transition:all 0.35s ease;
+    -webkit-transform: translate3d(0px, 0, 0px);
+  }
 }
 
 /* Dropdown menu */
@@ -275,69 +275,69 @@ body.nav-hidden {
 @media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
   #cssmenu {
     width: 100%;
-}
-#cssmenu ul {
+  }
+  #cssmenu ul {
     width: 100%;
     display: none;
-}
-#cssmenu.align-center > ul,
-#cssmenu.align-right ul ul {
+  }
+  #cssmenu.align-center > ul,
+  #cssmenu.align-right ul ul {
     text-align: left;
-}
-#cssmenu ul li,
-#cssmenu ul ul li,
-#cssmenu ul li:hover > ul > li {
+  }
+  #cssmenu ul li,
+  #cssmenu ul ul li,
+  #cssmenu ul li:hover > ul > li {
     width: 100%;
     height: auto;
     border-top: 1px solid rgba(120, 120, 120, 0.15);
-}
-#cssmenu ul li a,
-#cssmenu ul ul li a {
+  }
+  #cssmenu ul li a,
+  #cssmenu ul ul li a {
     width: 100%;
-}
-#cssmenu > ul > li,
-#cssmenu.align-center > ul > li,
-#cssmenu.align-right > ul > li {
+  }
+  #cssmenu > ul > li,
+  #cssmenu.align-center > ul > li,
+  #cssmenu.align-right > ul > li {
     float: none;
     display: block;
-}
-#cssmenu ul ul li a {
+  }
+  #cssmenu ul ul li a {
     padding: 20px 20px 20px 30px;
     font-size: 12px;
     color: #000000;
     background: none;
-}
-#cssmenu ul ul li:hover > a,
-#cssmenu ul ul li a:hover {
+  }
+  #cssmenu ul ul li:hover > a,
+  #cssmenu ul ul li a:hover {
     color: #000000;
-}
-#cssmenu ul ul ul li a {
+  }
+  #cssmenu ul ul ul li a {
     padding-left: 40px;
-}
-#cssmenu ul ul,
-#cssmenu ul ul ul {
+  }
+  #cssmenu ul ul,
+  #cssmenu ul ul ul {
     position: relative;
     left: 0;
     right: auto;
     width: 100%;
     margin: 0;
-}
-#cssmenu > ul > li.has-sub > a::after,
-#cssmenu ul ul li.has-sub > a::after {
+  }
+  #cssmenu > ul > li.has-sub > a::after,
+  #cssmenu ul ul li.has-sub > a::after {
     display: none;
-}
-#menu-line {
+  }
+  #menu-line {
     display: none;
-}
-#cssmenu #menu-button {
+  }
+  #cssmenu #menu-button {
     display: block;
     padding: 20px;
     color: #000000;
     cursor: pointer;
     font-size: 12px;
     text-transform: uppercase;
-}
-#cssmenu #menu-button::after {
+  }
+  #cssmenu #menu-button::after {
     content: '';
     position: absolute;
     top: 20px;
@@ -346,8 +346,8 @@ body.nav-hidden {
     width: 15px;
     height: 2px;
     background: #000000;
-}
-#cssmenu #menu-button::before {
+  }
+  #cssmenu #menu-button::before {
     content: '';
     position: absolute;
     top: 25px;
@@ -357,8 +357,8 @@ body.nav-hidden {
     height: 3px;
     border-top: 2px solid #000000;
     border-bottom: 2px solid #000000;
-}
-#cssmenu .submenu-button {
+  }
+  #cssmenu .submenu-button {
     position: absolute;
     z-index: 10;
     right: 0;
@@ -368,8 +368,8 @@ body.nav-hidden {
     height: 52px;
     width: 52px;
     cursor: pointer;
-}
-#cssmenu .submenu-button::after {
+  }
+  #cssmenu .submenu-button::after {
     content: '';
     position: absolute;
     top: 21px;
@@ -379,8 +379,8 @@ body.nav-hidden {
     height: 11px;
     background: #000000;
     z-index: 99;
-}
-#cssmenu .submenu-button::before {
+  }
+  #cssmenu .submenu-button::before {
     content: '';
     position: absolute;
     left: 21px;
@@ -390,8 +390,8 @@ body.nav-hidden {
     height: 1px;
     background: #000000;
     z-index: 99;
-}
-#cssmenu .submenu-button.submenu-opened:after {
+  }
+  #cssmenu .submenu-button.submenu-opened:after {
     display: none;
-}
+  }
 }

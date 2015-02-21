@@ -9,7 +9,7 @@ categories: []
 tags: []
 comments: []
 ---
-"Coffee chats are a way to meet your fellow CS students.
+Coffee chats are a way to meet your fellow CS students.
 
 They're a way to find out what classes are swell, and what classes will give you warm bubbly feelings.
 

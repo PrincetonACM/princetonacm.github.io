@@ -2,6 +2,8 @@
 layout: page
 title: Come to the First Code@Night of the Semester!
 date: '2015-02-20'
+categories:
+- main
 ---
 Time: 9:00 PM  
 Place: 3rd floor of Frist
