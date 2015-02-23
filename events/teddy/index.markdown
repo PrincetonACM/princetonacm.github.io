@@ -17,6 +17,6 @@ To much success, we have held numerous Teddy hack sessions and even the great fi
 
 How does Teddy Bear Programming work? You sign up to be either a main programmer or a secondary programmer.
 
-The main programmer does most of the programming and explains what they're doing. It’s their project that you’re working on. They gratefully responds to the secondary programmer's questions and suggestions. Meanwhile the secondary programmer watches the primary programmer and provides helpful feedback, questions, and suggestions.
+The main programmer does most of the programming and explains what they're doing. It’s their project that you’re working on. They gratefully respond to the secondary programmer's questions and suggestions. Meanwhile the secondary programmer watches the primary programmer and provides helpful feedback, questions, and suggestions.
 
 Interested? Join the Teddy Bear hype train! Email us at [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu) to learn more and get involved with Teddy Bear Programming.

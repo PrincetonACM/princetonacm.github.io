@@ -222,11 +222,11 @@ body.nav-hidden {
   transition: height .2s ease;
 }
 #cssmenu ul li:hover > ul > li {
-  height: 32px;
+  height: 40px;
 }
 #cssmenu ul ul li a {
-  padding: 10px 20px;
-  width: 160px;
+  padding: 14px 20px;
+  width: 140px;
   font-size: 12px;
   background: #333333;
   text-decoration: none;
@@ -272,7 +272,7 @@ body.nav-hidden {
 #cssmenu ul ul li.has-sub:hover > a::after {
   border-color: #ffffff;
 }
-@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 768px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 768px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 768px), only screen and (min-device-pixel-ratio: 2) and (max-width: 768px), only screen and (min-resolution: 192dpi) and (max-width: 768px), only screen and (min-resolution: 2dppx) and (max-width: 768px) {
   #cssmenu {
     width: 100%;
   }
