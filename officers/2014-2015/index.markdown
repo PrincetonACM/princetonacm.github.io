@@ -20,6 +20,4 @@ Mike Zhang (Competitions Chair)
 Aditya Agarwalla (Career Chair)  
 Kenny Lin (Historian)  
 Collin Stedman (Webmaster)  
-Mouse Lee (Webmaster)  
-
-You can reach the current ACM board at [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu).
+Mouse Lee (Webmaster)

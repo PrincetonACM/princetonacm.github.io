@@ -11,18 +11,18 @@
     <link href="{{ site_url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
     <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %} 
-    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}       
+    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %}
+    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% if page.cover_image %}
     <meta property="og:image" content="{{ site.url }}/images/{{ page.cover_image }}"/>
     {% if page.main_image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>  
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.main_image }}"/>
     {% endif %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>   
+    <meta property="og:image" content="{{ site.url }}/images/{{ site.inc.logo }}"/>
     {% endif %}
-    <meta property="og:site_name" content="{{ site.inc.title }}">     
+    <meta property="og:site_name" content="{{ site.inc.title }}">
 </head>
 <body>
     <br>
@@ -40,7 +40,7 @@
                         <ul>
                             <li><a href="/events/code-at-night/index.html">Code@Night</a></li>
                             <li><a href="/competitions/index.html">Competitions</a></li>
-                            <li><a href="/events/teddy/index.html">Teddy Bear Programming</a></li>
+                            <li><a href="/events/teddy/index.html">Teddy Bear Prog.</a></li>
                             <li><a href="/events/coffee/index.html">Coffee Chat</a></li>
                         </ul>
                     </li>
@@ -52,6 +52,7 @@
                             <li><a href='/officers/2013-2014/index.html'>2013-2014</a></li>
                             <li><a href='/officers/2012-2013/index.html'>2012-2013</a></li>
                             <li><a href='/officers/2011-2012/index.html'>2011-2012</a></li>
+                            <li><a href='/officers/2010-2011/index.html'>2010-2011</a></li>
                             <li><a href='/officers/elections/index.html'>Elections</a></li>
                         </ul>
                     </li>
@@ -70,14 +71,14 @@
 
 <footer class="site-footer">
     <div class="container">
-        &copy; {{ site.time | date: "%Y" }} 
-        
+        &copy; {{ site.time | date: "%Y" }}
+
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
             {% if site.inc.listserv_link %}<a href="{{ site.inc.listserv_link }}" target="_blank">Listserv</a>{% endif %}
         </nav>
-        
+
         <nav class="social">
             {% if site.inc.facebook %}
             <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>

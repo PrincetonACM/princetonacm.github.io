@@ -15,8 +15,8 @@ comments: []
 
 *   Chair
 *   Vice Chair
-*   Secsurer
-*   Competition Chair
+*   Secretary/Treasurer
+*   Competitions Chair
 *   Career Chair
 *   Historian
 
@@ -46,7 +46,7 @@ comments: []
 *   Recruit new members of the club by reaching out to students in large classes and at the activities fairs
 *   Serve as point of contact for everybody (both within the school and from external sources)
 
-### Secsurer (Secretary/Treasurer)
+### Secretary/Treasurer
 
 *   Take notes during meetings
 *   Keep track of expenses for each event

@@ -10,40 +10,40 @@
   -webkit-perspective: 1000;
   transition:all 0.35s ease;
   z-index:100;
-  
+
   .caret {
     opacity:0.2;
   }
-  
+
   .brand img {
     height:40px;
     margin-right:10px;
     margin-top:-2px;
   }
-  
+
   .dropdown {
     display:inline-block;
   }
-  
+
   nav {
     padding:22px 30px;
     height:80px;
     display:table-cell;
   }
-  
+
   #navigation {
     padding-right:0;
-    
+
     a {
       border:0;
       margin:0 0.9em;
       display:inline-block;
-      
+
       &:hover {
         color:$accent;
       }
     }
-    
+
     > a, .dropdown-toggle  {
       color:#444;
       border:0;
@@ -51,23 +51,23 @@
       font-size:15px;
       display:inline-block;
     }
-    
+
     .dropdown-toggle {
       padding: 6px 0.5em;
       text-align: center;
-      
+
       &:hover {
         background:#eee;
       }
     }
   }
-  
+
   .tagline {
     float:right;
     text-align:right;
     font-size:15px;
     font-weight:600;
-    
+
     span {
       line-height:0;
       padding-right:20px;
@@ -222,10 +222,10 @@ body.nav-hidden {
   transition: height .2s ease;
 }
 #cssmenu ul li:hover > ul > li {
-  height: 40px;
+  height: 32px;
 }
 #cssmenu ul ul li a {
-  padding: 14px 20px;
+  padding: 10px 20px;
   width: 140px;
   font-size: 12px;
   background: #333333;
