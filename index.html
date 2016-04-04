@@ -2,7 +2,6 @@
 layout: base
 ---
 <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
-    
     <section>
         <div class="container">
             <h1>{{ site.inc.title }}</h1>
@@ -11,10 +10,13 @@ layout: base
             {% if site.inc.facebook %}
             <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
             {% endif %}
+
+            {% if site.inc.listserv_link %}
+            <a href="{{ site.inc.listserv_link }}" title="Subscribe to our Listserv" target="_blank"><i class="fa fa-envelope-o"></i></a>
+            {% endif %}
         </div>
     </section>
 </div>
-
 
 <article class="container">
 {% for post in paginator.posts %}
