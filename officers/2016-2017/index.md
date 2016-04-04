@@ -5,7 +5,8 @@ title: 2016-2017 Board
 The 2016-2017 Princeton ACM Student Chapter is run by these swiggity-swaggity people:
 
 **President:** Katherine Lee  
-Very happy individual!
+Hi everyone! I'm a junior here and have been coding at night with ACM for the past three years! You can ask me about processing images, optimizations research, neural data, and K-6 education. In my spare time, you can find me teaching debate, working on vision and data analytics projects, belly dancing, and crocheting. I'm excited to be working with this awesome team to foster Princeton's cs community and make it more inclusive. Please say hi at a Code@Night! I'm looking forward to meeting all of you!  
+<img src="/images/2016-2017/Katherine.png" width="256">
 
 **Vice President:** Rohan Doshi  
 Founder of JusText. Incoming Microsoft Software Intern. TigerTrek 2015 alum. Machine Learning Researcher & Enthusiast [github.com/RohanDoshi2018](http://github.com/RohanDoshi2018). Dancer for Princeton Bhangra (competitive South Asian dance team). You will often find me at the local hackathon working on my latest side project.  
@@ -28,4 +29,4 @@ Hello everyone! I am a freshman and prospective computer science major, here at 
 <img src="/images/2016-2017/Antony.jpg" width="256">
 
 
-You can reach the current ACM board at [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu)
+You can reach the current ACM board at [kl9@princeton.edu](mailto:kl9@princeton.edu).
