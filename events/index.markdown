@@ -20,4 +20,4 @@ Teddy Bear Programming is when two people, a main programmer and a secondary pro
 ### Coffee Chats
 Coffee chats are a way to meet your fellow CS students, find out what classes/professors you should take, and get free coffee, hot chocolate, or some other drink. They are usually held at the beginning of each semester.
 
-Do you have event suggestions or feedback? Email us at [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu).
+Do you have event suggestions or feedback? Email us at [kl9@princeton.edu](mailto:kl9@princeton.edu).

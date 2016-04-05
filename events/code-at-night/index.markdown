@@ -14,6 +14,4 @@ Code@Night (C@N) is a bi-to-tri-weekly all-night-long hacking session to let stu
 
 <iframe src="//www.youtube.com/embed/7l_yY4_-QPM" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 
-Have any ideas of how we could improve C@N? Let the officers know! Send us an email at [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu).
-
-Interested in sponsoring a Code@Night? Get in touch: [ptonacm@princeton.edu](mailto:ptonacm@princeton.edu)
+Interested in sponsoring a Code@Night, or have suggestions on how to improve it? Get in touch: [kl9@princeton.edu](mailto:kl9@princeton.edu)
