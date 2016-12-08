@@ -9,7 +9,7 @@ categories: []
 tags: []
 ---
 **List of Code@Nights for the semester:**  
-(They all start at 8pm in the Butler iSpace (Wu basement))
+(They all start at 8pm in the Studio Lab (Basement of Fine Hall))
 
 * Friday, Oct 7
 * Friday, Oct 21

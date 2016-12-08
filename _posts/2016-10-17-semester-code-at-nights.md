@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Code@Night with JavaScript/CSS
-date: '2016-10-17'
+title: React@Night
+date: '2016-12-07'
 categories:
 - main
 ---
-We're learning about Javascript/CSS at the next **Code@Night, Oct 21st** from **8pm 'til late** in the **Butler iSpace (basement of Wu)**. We'll also have project leads introducing their projects. This is a great way to get started using that Git knowledge!
+Our last Code@Night of the year is coming up this **Friday, December 9th at 8pm** in the **Studio Lab (Basement of Fine Hall)**!
 
-Here are a list of dates for upcoming Code@Nights for the semester:
+Swing through for an introduction to React JS. 
+React is a JavaScript library for building interactive user interfaces. Together with React Native, you can write powerful mobile apps. In the workshop, we will cover React design philosophy and walk through examples that feature the library's capabilities. If you want to build UIs but don't like fidgeting with HTML and jQuery, this workshop is for you!
 
-* Friday, October 21st
-* Friday, November 18th
-* Friday, December 2nd
-* Friday, December 9th
-
-Hope to see you there!
+Let us know you're coming [here](https://www.facebook.com/events/694787527364822/)!
