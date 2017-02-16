@@ -8,17 +8,6 @@ date_gmt: '2011-02-24 16:04:23 -0500'
 categories: []
 tags: []
 ---
-**List of Code@Nights for the semester:**  
-(They all start at 8pm in the Studio Lab (Basement of Fine Hall))
-
-* Friday, Oct 7
-* Friday, Oct 21
-* Friday, Nov 18
-* Friday, Dec 2
-* Friday, Dec 9
-
-**Description:**
-
 Some Princeton students choose to go out to the street on Friday nights. Others do homework. Others catch up on sleep. Princeton ACM members are far more hardcore. WE CODE. AT NIGHT.
 
 Code@Night (C@N) is a bi-to-tri-weekly all-night-long hacking session to let students that like to code come together and work on fun projects, eat pizza and pop tarts, and geek out.
