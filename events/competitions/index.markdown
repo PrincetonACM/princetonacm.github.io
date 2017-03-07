@@ -20,7 +20,7 @@ We typically perform very well. Recent placings at the ACM Regional Collegiate 
 
 Anyone is welcome to join (freshman to grad students). No prior experience necessary! If you have done USACO or other competitions, that's great too!
 
-Please contact us ([kl9@princeton.edu](mailto:kl9@princeton.edu)) if you want to participate.
+Please contact us at [{{ site.inc.chair_email }}](mailto:{{ site.inc.chair_email }}) if you want to participate.
 
 We recommend Individual Practice in online competitions such as:
 

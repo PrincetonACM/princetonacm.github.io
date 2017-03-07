@@ -3,8 +3,6 @@ layout: page
 status: publish
 published: true
 title: Elections
-date: '2011-02-24 04:49:13 -0500'
-date_gmt: '2011-02-24 04:49:13 -0500'
 categories: []
 tags: []
 comments: []
@@ -16,71 +14,80 @@ comments: []
 *   Chair
 *   Vice Chair
 *   Secretary/Treasurer
-*   Competitions Chair
+*   Workshops Coordinator
+*   Projects Coordinator
 *   Career Chair
-*   Historian
-
-**By-application officers include:**
-
+*   ICPC Chair
 *   Outreach Chair
-*   Webmaster
+*   Publicity Chair
 
 **All elected officers are required to:**
 
-*   Make ACM awesome -- this includes often going beyond the rigid role description
-*   Help out with any events, including Code@Nights
-    *   Each event will be the responsibility of some single officer
+*   Make ACM awesome! This often includes going beyond the rigid role description
+*   Help out with any events, including Code@Nights - each event will be the responsibility of some officer(s)
 *   Attend board meetings
 *   Actively contribute ideas for future events
 *   Contribute to the advertising of each event by designing posters or putting up posters around campus or sending emails and making Facebook events
 
-### Chair and Vice Chair
+### Chair
 
+*   Set a vision for ACM in both the short-term and the long-term
+*   Act as a liaison to all other student groups, departments and outside sponsors
+*   Coordinate among all officers, help distribute tasks, and help out with what is needed
 *   Schedule and run board meetings
-*   Ensure the board is functioning and help out in all areas
-*   Designate one person in charge of each event
-    *   This includes bi-weekly Code@Nights and getting off-campus sources (companies) to fund events
-    *   Often will be the Chair or Vice Chair
+*   Find and write content for the weekly newsletter, as well as send it out
 *   Organize next election of officers
-*   Arrange for speakers to come talk to ACM members
-*   Recruit new members of the club by reaching out to students in large classes and at the activities fairs
-*   Serve as point of contact for everybody (both within the school and from external sources)
+
+### Vice Chair
+
+*   Responsible for logistics and for aiding the chair with additional tasks
+*   Ensure the board is functioning and help out with what is needed
+*   Responsibilities may include: logistics and transportation for ICPC and Outreach, food at Code@Nights, booking rooms, putting events on the school calendar, and working closely with all other officers
 
 ### Secretary/Treasurer
 
-*   Take notes during meetings
+*   Help the club and other officers apply for grants and work with sponsors to help fund ACM projects
 *   Keep track of expenses for each event
 *   Handle reimbursements for all ACM events
 *   Raise money from on-campus sources (ODUS, alcohol initiative, etc.)
 
-### Competition Chair
+### Workshops Coordinator
+
+*   Plan the year-long workshop schedule
+*   Find presenters and working with companies
+*   Make the material for classes available online
+
+### Projects Coordinator
+
+*   In charge of finding and helping project leads
+*   Make sure all projects have the requisite resources (ex. funding for database hosting, hardware)
+*   Check in to make sure projects are progressing
+*   Help people who want to get involved find a project with a good fit for them
+
+### Career Chair
+
+*   Help students get ready for, apply to, and negotiate job offers
+*   Organize mock technical interviews twice per year for both full-time and internship interview preparation
+*   Host career information events for companies
+*   Arrange Coffee Chats (with departmental funding)
+*   Find and post job and internship opportunities in the newsletter
+
+### ICPC Chair
 
 *   Organize regular practices for competitions
 *   Prepare transportation for and manage all aspects of ACM-ICPC
 *   There is one **required competition**: ACM-ICPC Regional (http://acmgnyr.org/)
 *   Many other competitions take place throughout the year: Google Games, University Hacker Olympics, HackerRank, TopCoder, Windward
 
-### Career Chair
-
-*   Organize mock technical interviews twice per year for both full-time and internship interview preparation
-*   Host career information events for companies
-*   Arrange Coffee Chats (with departmental funding)
-
 ### Outreach Chair
 
-*   After-school course at Princeton High School (PHS)
-*   In progress: seminars at West-Windsor Plainsboro (WWP)
+*   Help introduce students to computer science
 *   Organize outreach activities in the community
 *   Organize service activities
 
-### Webmaster
+### Publicity Chair
 
-*   Update the website frequently
-    *   Add events in list form even before dates are set
-*   Maintain and publicize ACM’s public calendar
+*   Get the word out in channels such as the Facebook page and group, Listserv emails, physical publicity (ex. posters, tri-folds), and the website
+*   Collaborate with other officers (Chair, Vice Chair, and Career Chair) to find and write content for the newsletter
+*   Maintain the website and update it regularly with events
 *   Manage list subscription and maintenance
-
-### Historian
-
-*   Photograph ACM events
-*   Write summaries of ACM events for the website and blog

@@ -19,4 +19,4 @@ We send out periodic notifications to all ACM members to inform them of upcoming
 
 For detailed information about how ACM is run, see our [constitution](/about/constitution/).
 
-You can reach the current ACM board at [kl9@princeton.edu](mailto:kl9@princeton.edu).
+You can reach the current ACM board at [{{ site.inc.chair_email }}](mailto:{{ site.inc.chair_email }}).

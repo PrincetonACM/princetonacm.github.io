@@ -25,16 +25,16 @@ comments: []
 <div>If you don't sign up for Mock Technical Interviews, it will be harder for you to get a job. And without a job, you wont have any money. Without money, no house. You'll be living on the streets. Where you'll probably catch malaria or be run over by a bus. Or something less morbid but equally negative in nature. Yep.</div>
 <div></div>
 <div>Sign up for Mock Technical Interviews; don't be run over by a bus! <a href="https://docs.google.com/spreadsheets/d/1amAHUBWdVEGgoiUQwDBhS6R4nmRS_xrTBeB8TSx11YE/edit#gid=1228484453" target="_blank">Sign up here.</a></div>
-<div></div>
+<br>
 <div><i>What are the actual benefits of Mock Technical Interviews?</i></div>
 <div>Technical interviews are at the heart of the job and internship search. If you're applying for a job that relates to programming, you'll have to go through a series of technical interviews. They usually involve whiteboard programming -- solving some problem by writing some code on the spot on a whiteboard -- and practicing this makes a huge difference in your performance. Yep, you get better with practice. Crazy, eh?</div>
-<div><i> </i></div>
+<br>
 <div><i>When are these Mock Technical Interviews?</i></div>
 <div><b>Various times on 2/28, 3/1, and 3/2 (Friday, Saturday, Sunday)</b></div>
 <div><b>They're in various rooms in the CS Building.</b></div>
 <div></div>
 <div>If you'd rather be the interviewer rather than the interviewee, go to <a href="https://docs.google.com/spreadsheets/d/1amAHUBWdVEGgoiUQwDBhS6R4nmRS_xrTBeB8TSx11YE/edit#gid=0" target="_blank">the same spreadsheet</a> and add yourself to the times you'd like to interview on the sheet called "Interviewers".</div>
-<div></div>
+<br>
 <div><i>Tell us a story?</i></div>
 <div></div>
 <div>There once was a small but well respected fisherman in the village of Thimble. Every morning he would go off to the Finger Lakes, and that was where he would spend his day. In the evening he would come home to his family, hug his tiny children, play the lute, write some code, and then lay down his bucket full of the day's catch: hundreds of little fish. Why he did things in this order is a mystery to all.</div>
