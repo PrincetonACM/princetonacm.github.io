@@ -2,30 +2,29 @@
 # Copyright 2013 Kippt, Inc.
 # Licensed under MIT (https://github.com/kippt/jekyll-incorporated/blob/master/LICENSE)
 
-inc:
-  # Blog Information
-  title:        "Princeton ACM"
-  subtitle:     "The official website for the Princeton University student chapter of the Association for Computing Machinery."
-  # Source for cover image: http://i.huffpost.com/gen/1401227/thumbs/o-PRINCETON-UNIVERSITY-facebook.jpg
-  cover_image:  cover.jpg
-  logo:         logo.png
+# Blog Information
+title:        "Princeton ACM"
+subtitle:     "The official website for the Princeton University student chapter of the Association for Computing Machinery."
+# Source for cover image: http://i.huffpost.com/gen/1401227/thumbs/o-PRINCETON-UNIVERSITY-facebook.jpg
+cover_image:  cover.jpg
+logo:         logo.png
 
-  # Company information
-  company:      Princeton ACM
-  url:          http://princetonacm.com/
-  facebook:     groups/princetonacm
-  about_link:   /about/index.html
-  listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
+# Company information
+company:      Princeton ACM
+url:          http://princetonacm.com/
+facebook:     groups/princetonacm
+about_link:   /about/index.html
+listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
 
- # Analytics
-  analytics:
-    google: true # Add tracking code in _includes/_google-analytics.html
+# Analytics
+analytics:
+  google: true # Add tracking code in _includes/_google-analytics.html
 
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
+# Google Fonts
+# eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+google_font: 'Droid+Sans:400,700'
 
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
+# Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://princetonacm.com
 source:      .
