@@ -67,6 +67,19 @@ a {
     }
 }
 
+article {
+    p {
+        white-space: pre;           /* CSS 2.0 */
+        white-space: pre-wrap;      /* CSS 2.1 */
+        white-space: pre-line;      /* CSS 3.0 */
+        white-space: -pre-wrap;     /* Opera 4-6 */
+        white-space: -o-pre-wrap;   /* Opera 7 */
+        white-space: -moz-pre-wrap; /* Mozilla */
+        white-space: -hp-pre-wrap;  /* HP Printers */
+        word-wrap: break-word;      /* IE 5+ */
+    }
+}
+
 .index {
     margin:0 5em;
 
@@ -117,7 +130,7 @@ a {
         	color-stop(0, rgba(0,0,0,0.15)),
         	color-stop(1, rgba(0,0,0,0))
         );
-        padding: 100px 0;
+        padding: 40px 0 40px 0;
         z-index:10;
 
         a:last-child {
@@ -168,7 +181,7 @@ a {
     h1, h3 {
         color:#fff;
         margin:0;
-        font-weight:600;
+        font-weight:500;
     }
 
 }
