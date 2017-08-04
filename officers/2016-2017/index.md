@@ -29,4 +29,4 @@ Hello everyone! I am a freshman and prospective computer science major, here at 
 <img src="/images/2016-2017/Antony.jpg">
 
 
-You can reach the current ACM board at [{{ site.inc.chair_email }}](mailto:{{ site.inc.chair_email }}).
+You can reach the current ACM board [here](/contact/index.html).

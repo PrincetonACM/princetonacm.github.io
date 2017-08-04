@@ -16,25 +16,10 @@ inc:
   facebook:     groups/princetonacm
   about_link:   /about/index.html
   listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
-  chair_email: ncate@princeton.edu
-
-  # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
-
-  # Sharing settings
-  sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
-    hn:         false
-
 
  # Analytics
   analytics:
     google: true # Add tracking code in _includes/_google-analytics.html
-
 
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
@@ -61,7 +46,7 @@ relative_permalinks: true
 
 permalink:     pretty
 paginate_path: 'page:num'
-paginate: 3
+paginate: 1
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md

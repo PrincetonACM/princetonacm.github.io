@@ -11,8 +11,6 @@
     <link href="{{ site_url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.inc.title }}" />
     <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.inc.gplus }}">{% endif %}
-    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}
     <meta property="og:title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.inc.title }}{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     {% if page.cover_image %}
@@ -47,7 +45,6 @@
                             <li><a href="/events/coffee/index.html">Coffee Chat</a></li>
                         </ul>
                     </li>
-                    <li><a href='/calendar/index.html'>Calendar</a></li>
                     <li class='has-sub'><a href='/officers/2017-2018/index.html'>Officers</a>
                         <ul>
                             <li><a href='/officers/2017-2018/index.html'>2017-2018</a></li>
@@ -66,6 +63,7 @@
                             <li><a href='/about/constitution/index.html'>Constitution</a></li>
                         </ul>
                     </li>
+                    <li><a href="/contact/index.html">Contact</a></li>
                 </ul>
             </div>
         </nav>
@@ -81,7 +79,7 @@
         <nav>
             <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
-            {% if site.inc.listserv_link %}<a href="{{ site.inc.listserv_link }}" target="_blank">Listserv</a>{% endif %}
+            {% if site.inc.listserv_link %}<a href="{{ site.inc.listserv_link }}" target="_blank">Subscribe to our Listserv</a>{% endif %}
         </nav>
 
         <nav class="social">

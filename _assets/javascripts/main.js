@@ -5,7 +5,7 @@ $(".full img").on("click", function() {
 (function($) {
 
   $.fn.menumaker = function(options) {
-      
+
       var cssmenu = $(this), settings = $.extend({
         title: "Menu",
         format: "dropdown",
@@ -17,7 +17,7 @@ $(".full img").on("click", function() {
         $(this).find("#menu-button").on('click', function(){
           $(this).toggleClass('menu-opened');
           var mainmenu = $(this).next('ul');
-          if (mainmenu.hasClass('open')) { 
+          if (mainmenu.hasClass('open')) {
             mainmenu.hide().removeClass('open');
           }
           else {
@@ -101,7 +101,7 @@ $("#cssmenu > ul > li").hover(function() {
   linePosition = activeElement.position().left;
   menuLine.css("width", lineWidth);
   menuLine.css("left", linePosition);
-}, 
+},
 function() {
   menuLine.css("left", defaultPosition);
   menuLine.css("width", defaultWidth);

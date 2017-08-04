@@ -33,4 +33,4 @@ Daniel Leung (’20), from Sacramento, California, is pursuing a BSE degree in C
 Richard is a junior from New Jersey studying computer science. He will be an intern at Amazon during the summer of 2017, and was previously a hackNY Fellow '15 and an intern at BuzzFeed. In his free time, he enjoys reading novels, writing short stories, taking walks, and playing video games. In the future, he wants to pursue work in artificial intelligence and machine learning, and help bring about the first superintelligent AI.  
 <img src="/images/2017-2018/richard.jpg">
 
-You can reach the current ACM board at [{{ site.inc.chair_email }}](mailto:{{ site.inc.chair_email }}).
+You can reach the current ACM board [here](/contact/index.html).
