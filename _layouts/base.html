@@ -79,15 +79,12 @@
         <nav>
             <a href="{{ site.url }}">{{ site.company }}</a> &middot;
             {% if site.about_link %}<a href="{{ site.about_link }}">About</a>{% endif %}
-            {% if site.listserv_link %}<a href="{{ site.listserv_link }}" target="_blank">Subscribe to our Listserv</a>{% endif %}
+            {% if site.newsletter_link %}<a href="{{ site.newsletter_link }}" target="_blank">Subscribe to our newsletter</a>{% endif %}
         </nav>
 
         <nav class="social">
             {% if site.facebook %}
             <a href="http://facebook.com/{{ site.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-            {% endif %}
-            {% if site.listserv_link %}
-            <a href="{{ site.listserv_link }}" title="Subscribe to our Listserv" target="_blank"><i class="fa fa-envelope-o"></i></a>
             {% endif %}
         </nav>
     </div>

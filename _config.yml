@@ -12,9 +12,9 @@ logo:         logo.png
 # Company information
 company:      Princeton ACM
 url:          http://princetonacm.com/
-facebook:     groups/princetonacm
+facebook:     acmprinceton
 about_link:   /about/index.html
-listserv_link: https://lists.princeton.edu/cgi-bin/wa?A0=princetonacm
+newsletter_link: http://eepurl.com/c3FpVf
 
 # Analytics
 analytics:
