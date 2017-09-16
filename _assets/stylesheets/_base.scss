@@ -9,8 +9,15 @@ body {
     font-size:17px;
 }
 
-.is-visible {
+.home-title {
+    text-align: center;
+}
 
+.news-sub {
+    margin-top: 20px;
+}
+
+.is-visible {
     .site-nav {
         top:100px;
     }
@@ -168,7 +175,7 @@ article {
 .btn {
     color:#fff;
     font-weight:bold;
-    background-color:#54b89d;
+    background-color:#f58025;
     font-size:1em;
     padding: 0.6em 1.2em;
     display: inline-block;
@@ -184,16 +191,13 @@ article {
     text-rendering: optimizeLegibility;
     border-radius: 2px;
     vertical-align:middle;
-    font-family:"proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     border-radius:2px;
-    background:#4dab7d;
-    border:2px solid #4dab7d;
-    text-transform: uppercase;
+    background:#f58025;
     white-space:nowrap;
 
     &:hover {
-        background:darken(#4dab7d, 10%);
-        border-color:darken(#4dab7d, 10%);
+        background:darken(#f58025, 10%);
+        border-color:darken(#f58025, 10%);
         color:#fff;
     }
 
