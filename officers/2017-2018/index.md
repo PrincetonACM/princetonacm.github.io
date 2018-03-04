@@ -15,7 +15,7 @@ Perry Cate '19 is lucky enough to have been programming for some time now, and h
 Hector Solis ‘19 is from Manassas, Virginia. He is studying Computer Science and has a passion for startups and entrepreneurship. In his free time, Hector likes to do long distance runs while taking in the scenery. For the second year in a row, he will be Treasurer/Secretary of ACM. He deals with funding for our Code@Nights and has helped organize bringing a team to ICPC 2017. This summer 2017 he has a tech internship with Capital One near his home in Virginia. He hopes to keep expanding upon the efforts of last year to make Princeton ACM a better community for all Princeton students.  
 <img src="/images/2017-2018/hector.jpg">
 
-**Workshops Coordinators:** Rohan Doshi, Andrew Wonnacott  
+**Workshops Coordinators:** Andrew Wonnacott, Rohan Doshi (Spring 2017)  
 *[No bios]*
 
 **Projects Coordinator:** Daniel Stanley  
@@ -30,7 +30,7 @@ Daniel Leung (’20), from Sacramento, California, is pursuing a BSE degree in C
 <img src="/images/2017-2018/danleung.jpg">
 
 **Publicity Chair:** Richard Chu  
-Richard is a junior from New Jersey studying computer science. He will be an intern at Amazon during the summer of 2017, and was previously a hackNY Fellow '15 and an intern at BuzzFeed. In his free time, he enjoys reading novels, writing short stories, taking walks, and playing video games. In the future, he wants to pursue work in artificial intelligence and machine learning, and help bring about the first superintelligent AI.  
+Richard is from New Jersey and is studying computer science. He will be an intern at Amazon during the summer of 2017, and was previously a hackNY Fellow '15 and an intern at BuzzFeed. In his free time, he enjoys reading novels, writing short stories, taking walks, and playing video games. In the future, he wants to pursue work in artificial intelligence and machine learning, and help bring about the first superintelligent AI.  
 <img src="/images/2017-2018/richard.jpg">
 
 You can reach the current ACM board [here](/contact/index.html).
