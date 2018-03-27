@@ -2,7 +2,7 @@
 layout: page
 title: 2018-2019 Board
 ---
-The 2018-2019 Princeton ACM Student Chapter is run by these history makers:
+The 2018-2019 Princeton ACM Student Chapter is run by these fools:
 
 **Chair:** Theodore Ando
 Theodore Ando ('20) is a Canada-born, California-made Chicagoan studying COS. Ask him anything about algorithm design or natural language processing. Outside of ACM, which was the first club he joined at Princeton, he plays table tennis alongside Pton Olympians, watches Netflix Marvel shows, and enjoys excessively using his Nespresso machine (he’s always looking for tips to improve his amateur latte art). He loves hearing ideas to make ACM more fun, accessible, and inclusive--so stop by Code@Night to make a suggestion, have a chat, or just to say hi!
