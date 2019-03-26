@@ -46,8 +46,9 @@
                             <li><a href="/events/coffee/index.html">Coffee Chat</a></li>
                         </ul>
                     </li>
-                    <li class='has-sub'><a href='/officers/2018-2019/index.html'>Officers</a>
+                    <li class='has-sub'><a href='/officers/2019-2020/index.html'>Officers</a>
                         <ul>
+                            <li><a href='/officers/2019-2020/index.html'>2019-2020</a></li>
                             <li><a href='/officers/2018-2019/index.html'>2018-2019</a></li>
                             <li><a href='/officers/2017-2018/index.html'>2017-2018</a></li>
                             <li><a href='/officers/2016-2017/index.html'>2016-2017</a></li>
@@ -79,9 +80,9 @@
         &copy; {{ site.time | date: "%Y" }}
 
         <nav>
-            <a href="{{ site.url }}">{{ site.company }}</a> &middot;
-            {% if site.about_link %}<a href="{{ site.about_link }}">About</a>{% endif %}
-            {% if site.newsletter_link %}<a href="{{ site.newsletter_link }}" target="_blank">Subscribe to our newsletter</a>{% endif %}
+            <a href="{{ site.url }}">{{ site.company }}</a>
+            {% if site.about_link %}&middot;<a href="{{ site.about_link }}">About</a>{% endif %}
+            {% if site.newsletter_link %}&middot;<a href="{{ site.newsletter_link }}" target="_blank">Subscribe to our newsletter</a>{% endif %}
         </nav>
 
         <nav class="social">
