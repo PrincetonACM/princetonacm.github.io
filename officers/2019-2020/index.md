@@ -38,8 +38,8 @@ I’m a math-loving ORFE major from ATL. On campus, I am a dancer, dabbler in co
 
 **Competitions:** Sahan Paliskara ’21, Sacheth Sathyanarayanan ’22
 *[see above for Sahan]*
-*[no image for Sacheth]*
-*[no bio for Sacheth]*
+<img src="/images/2019-2020/sacheth.jpg">
+Sacheth Sathyanarayanan is a freshman from India planning to major in Computer Science. He loves solving problems and has a passion for algorithms. This summer, he will be an Image Analysis Intern at the Children's National Health System in Washington D.C. On campus, Sacheth is also involved with the Princeton Puzzle Hunt, the Princeton Entrepreneurship Club, the Table Tennis Club, the Robotics Club and the Mathematics Club. Feel free to stop by at any Code@Night event to say hi!
 
 <hr>
 

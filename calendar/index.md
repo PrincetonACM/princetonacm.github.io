@@ -9,4 +9,4 @@ categories: []
 tags: []
 comments: []
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=7n25kr8p2b49bmjhjpftqaeerk%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=princeton.edu_kpjeq94qmd9ld0rumihqeivq24%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
