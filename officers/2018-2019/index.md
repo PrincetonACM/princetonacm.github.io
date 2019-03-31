@@ -62,4 +62,10 @@ David Wu ('19) is an MAE major specializing in existential crises planning to ge
 
 <hr>
 
+**Design:** Emma Thomas ’20
+*[no image]*
+*[no bio]*
+
+<hr>
+
 You can reach the current ACM board [here](/contact/index.html).
