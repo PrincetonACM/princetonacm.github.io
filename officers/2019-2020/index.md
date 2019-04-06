@@ -55,8 +55,8 @@ Sacheth Sathyanarayanan is a freshman from India planning to major in Computer S
 <hr>
 
 **Design:** Emma Thomas ’20
-*[no image]*
-*[no bio]*
+<img src="/images/2019-2020/emmathomas.jpg">
+Emma Thomas ’20 is a COS major from Marietta, GA with a proclivity for studying Spanish, Portuguese, and Latin American culture. She is involved with SIFP, Tiger Challenge, and is Vice President of the Quadrangle Club. Emma is passionate about communication, social entrepreneurship, and ramen.
 
 <hr>
 

@@ -63,8 +63,8 @@ David Wu ('19) is an MAE major specializing in existential crises planning to ge
 <hr>
 
 **Design:** Emma Thomas ’20
-*[no image]*
-*[no bio]*
+<img src="/images/2018-2019/emmathomas.jpg">
+Emma Thomas ’20 is a COS major from Marietta, GA with a proclivity for studying Spanish, Portuguese, and Latin American culture. She is involved with SIFP, Tiger Challenge, and is Vice President of the Quadrangle Club. Emma is passionate about communication, social entrepreneurship, and ramen.
 
 <hr>
 
