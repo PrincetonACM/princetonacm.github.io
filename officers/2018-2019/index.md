@@ -58,7 +58,7 @@ Frankie Lam (’21) is a freshman from Hong Kong who can’t make up his mind be
 
 **Tech:** David Wu '19
 <img src="/images/2018-2019/davidwu.jpg">
-David Wu ('19) is an MAE major specializing in existential crises planning to get a certificate in Applications of Computing. He believes in technology's ability to empower everyone and hopes ACM can bring more people into its community. He is from Charlotte, NC and enjoys annoying people in his co-op and wandering around abandoned churches. He is an Army ROTC cadet and Chore Manager at the Scullery Food Co-op.
+David Wu ('19) is an MAE major specializing in existential crises. He believes in technology's ability to empower everyone and hopes ACM can bring more people into its community. He is from Charlotte, NC and enjoys annoying people in his co-op and wandering around abandoned churches. He is an Army ROTC cadet and Chore Manager at <a href="https://www.scullycoop.com">Scully Co-op</a>.
 
 <hr>
 
