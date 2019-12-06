@@ -25,8 +25,8 @@ Frankie Lam ’21 is a sophomore from Hong Kong who can’t make up his mind bet
 <hr>
 
 **Workshops:** Lucas Salvador ’21
-*[No image]*
-*[No bio]*
+<img src="/images/2019-2020/lucas.jpg">
+Lucas Salvador '20 is a Computer Science student from the great, far-away land of Argentina! Lucas is very passionate about the two ends of computing: algorithm and system design. In his free time, he plays more video games than he physically has time to (we are not sure how this works either).
 
 <hr>
 
