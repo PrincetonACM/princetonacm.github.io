@@ -24,9 +24,9 @@ Frankie Lam ’21 is a junior from Hong Kong. He particularly enjoys algorithms 
 
 <hr>
 
-**Workshops:** Lachlan McCarty ’21
+**Workshops:** Lachlan McCarty ’22
 *[no image]*
-*[no bio]*
+*[no bio]* 
 
 <hr>
 
@@ -36,7 +36,7 @@ I'm a freshman studying computer science and I’m from Dallas. I have always en
 
 <hr>
 
-**Competitions:** Sam Liang '23, Henry Tang
+**Competitions:** Sam Liang '23, Henry Tang '23
 *[see above for Sam]*
 <img src="/images/2020-2021/henrytang.jpg">
 Henry Tang ’23 is a COS freshman from Canada. He is particularly interested in algorithms and machine learning and believes future research in these two areas will greatly spur technological innovation. He also enjoys physics and rereading the Harry Potter books for the 20th time.
