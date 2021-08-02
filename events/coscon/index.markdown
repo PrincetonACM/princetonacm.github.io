@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Competitions
+title: Princeton's Computer Science Contest (COSCON)
 categories: []
 tags: []
 comments: []
