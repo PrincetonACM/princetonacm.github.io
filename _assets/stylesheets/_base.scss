@@ -230,7 +230,14 @@ article {
     }
 }
 
-.officer-image {
-    max-width: 40%;
-    align: center;
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+officer-image {
+    max-width: 50%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 3%;
 }
