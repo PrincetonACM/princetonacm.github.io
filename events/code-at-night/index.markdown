@@ -12,6 +12,6 @@ Some Princeton students choose to go out to the street on Friday nights. Others 
 
 Code@Night (C@N) is a bi-to-tri-weekly all-night-long hacking session to let students that like to code come together and work on fun projects, eat pizza and pop tarts, and geek out.
 
-<iframe src="//www.youtube.com/embed/7l_yY4_-QPM" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/7l_yY4_-QPM" height="315" width="560" allowfullscreen="" frameborder="0" align="center"></iframe>
 
 Interested in sponsoring a Code@Night, or have suggestions on how to improve it? Please [let us know](/contact/index.html)!
