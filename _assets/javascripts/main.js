@@ -22,9 +22,9 @@ $(".full img").on("click", function() {
           }
           else {
             mainmenu.show().addClass('open');
-            if (settings.format === "dropdown") {
-              mainmenu.find('ul').show();
-            }
+            //if (settings.format === "dropdown") {
+            //  mainmenu.find('ul').show();
+            //}
           }
         });
 
@@ -49,11 +49,11 @@ $(".full img").on("click", function() {
         if (settings.sticky === true) cssmenu.css('position', 'fixed');
 
         resizeFix = function() {
-          if ($( window ).width() > 768) {
-            cssmenu.find('ul').show();
+          if ($( window ).width() > 1024) {
+            cssmenu.find('ul').show().addClass('open');
           }
 
-          if ($(window).width() <= 768) {
+          if ($(window).width() <= 1024) {
             cssmenu.find('ul').hide().removeClass('open');
           }
         };

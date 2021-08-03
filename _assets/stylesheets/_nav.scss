@@ -1,7 +1,6 @@
 .site-nav {
   background:#fff;
-  height:80px;
-  position:absolute;
+  position:relative;
   left:0;
   right:0;
   top:0;
@@ -10,15 +9,19 @@
   -webkit-perspective: 1000;
   transition:all 0.35s ease;
   z-index:100;
+  padding-bottom: 1%;
 
   .caret {
     opacity:0.2;
   }
 
+  .brand {
+    padding-left: 10%;
+  }
+
   .brand img {
-    height:40px;
-    margin-right:10px;
-    margin-top:-2px;
+    width: 48%;
+    display: block;
   }
 
   .dropdown {
@@ -26,18 +29,23 @@
   }
 
   nav {
-    padding:22px 30px;
-    height:80px;
-    display:table-cell;
+    padding: 1% 0 0;
+  }
+
+  #cssmenu {
+    padding-right: 10%;
   }
 
   #navigation {
     padding-right:0;
+    position: relative;
+    width: 100%;
 
     a {
       border:0;
       margin:0 0.9em;
       display:inline-block;
+      font-size: medium;
 
       &:hover {
         color:$accent;
@@ -120,6 +128,7 @@ body.nav-hidden {
   font-family: 'Open Sans', sans-serif;
   line-height: 1;
   background: #ffffff;
+  padding-top: 0.25%;
 }
 #menu-line {
   position: absolute;
@@ -272,7 +281,7 @@ body.nav-hidden {
 #cssmenu ul ul li.has-sub:hover > a::after {
   border-color: #ffffff;
 }
-@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 768px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 768px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 768px), only screen and (min-device-pixel-ratio: 2) and (max-width: 768px), only screen and (min-resolution: 192dpi) and (max-width: 768px), only screen and (min-resolution: 2dppx) and (max-width: 768px) {
+@media all and (max-width: 1024px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
   #cssmenu {
     width: 200px;
   }
