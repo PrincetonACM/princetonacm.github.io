@@ -17,6 +17,7 @@
 
   .brand {
     padding-left: 10%;
+    padding-right: min(350px, 23%);
   }
 
   .brand img {
@@ -33,7 +34,8 @@
   }
 
   #cssmenu {
-    padding-right: 10%;
+    display: inline-block;
+    width: 700px;
   }
 
   #navigation {
@@ -123,7 +125,7 @@ body.nav-hidden {
   display: none;
 }
 #cssmenu {
-  float:right;
+  /*float:left;*/
   width: auto;
   font-family: 'Open Sans', sans-serif;
   line-height: 1;
