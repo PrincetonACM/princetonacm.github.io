@@ -2,20 +2,19 @@
 layout: page
 status: publish
 published: true
-title: Constitution
+title: Princeton ACM Student Chapter Constitution
 date: '2011-02-24 15:44:14 -0500'
 date_gmt: '2011-02-24 20:44:14 -0500'
 categories: []
 tags: []
 comments: []
 ---
-# Princeton University ACM Student Chapter
 
 ## ARTICLE I
 
 _Name_
 
-1. This organization shall be called: Princeton University ACM Student Chapter.  In these Bylaws it is referred to as the Chapter; the Association for Computing Machinery is referred to as the ACM.
+1. This organization shall be referred to as the "Princeton University ACM Student Chapter."  In these bylaws it is referred to as "the Chapter"; the Association for Computing Machinery is referred to as "the ACM."
 
 ## ARTICLE II
 

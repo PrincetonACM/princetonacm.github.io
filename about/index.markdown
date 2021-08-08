@@ -2,15 +2,97 @@
 layout: page
 status: publish
 published: true
-title: About
+title: About Us
 categories: []
 tags: []
 comments: []
 ---
-The Princeton ACM is the student chapter of the world's largest educational and scientific computing society, the [Association for Computing Machinery (ACM)](http://acm.org).
+Founded in 2010 by a group of CS (COS) geeks, Princeton ACM is Princeton's student chapter of the world's largest educational and scientific computing society, the [Association for Computing Machinery (ACM)](http://acm.org). We are advised by the one and only [Professor Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/).
 
-The Princeton ACM aims to connect and create a community for Princeton students of all majors interested in computer science. We hold regular events, such as Code@Nights, programming competitions, and coffee chats. We also hold a variety of career events, such as resume workshops or mock technical interviews.
+We're so much more than a geek squad, though. **Our mission is to promote the ACM's goal of "advancing computing as a science and a profession" amongst Princeton students** (undergraduate or graduate). To this end, we hold a variety of events to engage our fellow students, including mini-hackathons (which we affectionately refer to as [Code@Nights](/events/code-at-night)), a Princeton-wide computer science competition ([COSCON](/events/coscon)), [advising](/events/advising) over coffee, [interview prep](/events/interview_prep), talks with professors, and more. If you'd like to stay in the loop on all that we're doing, [join us](https://forms.gle/MXidbe4AvtaXKLbg9) today! To join, you must be a Princeton student, but that's it -- after all, the challenges, promises, and beauties of computer science cut across disciplines, experience levels, and social backgrounds. We'd love to have you on board!
 
-We send out periodic notifications to all ACM members to inform them of upcoming events, job opportunities, and other useful information. If you would like to receive these emails, please [subscribe to our email list!](http://eepurl.com/c3FpVf)
+ACM is fundamentally run by its members, as detailed in our [constitution](/about/constitution/). However, we do have a board that oversees the day-to-day operations, heads outreach/sponsorship, and plans events over the course of its term. But don't forget that **the board works for you** -- we work on your feedback so please let us know [here](/contact/) if there's something we could be doing better, or if you'd like to see a particular event happen. You can meet the board members for this school year below:
 
-For detailed information about how ACM is run, take a look at our [constitution](/about/constitution/). If you would like to contact us, you can do so [here](/contact/index.html).
+<div class="grid officer-grid">
+<div class="row pb-lg-5">
+  <div class="col-lg-4">
+    <div class="card">
+      <img src=".jpg" alt="Nalin" style="width:100%">
+      <div class="container">
+        <h2>Nalin Ranjan '22</h2>
+        <p class="title">Chair</p>
+        <p><button class="button"><a href="mailto: nranjan@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4">
+    <div class="card">
+      <img src=".jpg" alt="Howard" style="width:100%">
+      <div class="container">
+        <h2>Howard Yen '23</h2>
+        <p class="title">Vice Chair</p>
+        <p><button class="button"><a href="mailto: hyen@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4">
+    <div class="card">
+      <img src=".jpg" alt="Sacheth" style="width:100%">
+      <div class="container">
+        <h4>Sacheth Sathyanarayanan '22</h4>
+        <p class="title">Advisor and Treasurer</p>
+        <p><button class="button"><a href="mailto: sacheths@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-3">
+    <div class="card">
+      <img src=".jpg" alt="Henry" style="width:100%">
+      <div class="container">
+	<h2>Henry Tang '23</h2>
+	<p class="title">Competitions Chair</p>
+        <p><button class="button"><a href="mailto: hrtang@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-3">
+    <div class="card">
+      <img src=".jpg" alt="Michael" style="width:100%">
+      <div class="container">
+	<h2>Michael Tang '24</h2>
+	<p class="title">Outreach Chair</p>
+        <p><button class="button"><a href="mailto: mwtang@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-3">
+    <div class="card">
+      <img src=".jpg" alt="Austen" style="width:100%">
+      <div class="container">
+	<h2>Austen Mazenko '24</h2>
+	<p class="title">Careers Chair</p>
+        <p><button class="button"><a href="mailto: atmazenko@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-lg-3">
+    <div class="card">
+      <img src=".jpg" alt="Dangely" style="width:100%">
+      <div class="container">
+	<h2>Dangely Canabal '23</h2>
+	<p class="title">Tech/Design Chair</p>
+        <p><button class="button"><a href="mailto: dcanabal@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>

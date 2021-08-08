@@ -2,9 +2,11 @@ article {
     background:#fff;
     padding:60px 0;
     font-size:18px;
+    text-align: justify;
 
     .container > header, .container > section, .container > footer {
-        margin:0 4em;
+        margin:0 0 0 2.5em;
+        max-width: 1035px;
     }
 
     .social {

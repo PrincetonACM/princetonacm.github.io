@@ -30,8 +30,8 @@ body {
 .home-header-img {
     display: inline-block;
     position: absolute; 
-    width: 475px;
-    padding-top: 50px;
+    width: 500px;
+    padding-top: 45px;
     padding-left: 125px;
 }
 
@@ -171,7 +171,7 @@ a {
 }
 
 .container {
-    max-width: 1350px;
+    max-width: 1300px;
     padding-left: 12%;
     float: left;
 }
@@ -360,6 +360,141 @@ iframe {
   .announcements h2 {
     border-bottom: none;
   }
+}
+
+/* CSS for sponsorship banner */
+.sponsorship-banner {
+  height: 350px;
+  width: 100%;
+  background-image: linear-gradient(#d3d3d3, #ffffff);
+}
+
+/* CSS for the homepage gallery */
+
+$white: #fff;
+$black: #2e2e2e;
+$gray: #787878;
+$highlight: #ea8478;
+$footer: #f7f7f7;
+
+.homepage-gallery {
+  margin-top: 50px;
+  height: 1260px;
+
+* {
+  box-sizing: border-box;
+  &::before, &::after {
+    box-sizing: border-box;
+  }
+}
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: $gray;
+  background: $white;
+  text-rendering: optimizeLegibility;
+}
+
+ul li {
+  margin: 0 1.5rem 0 0;
+}
+
+a {
+  color: $gray;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  &:hover {
+    color: $black;
+  }
+  &.active {
+    color: $black;
+  }
+}
+
+#highlight {
+  color: $highlight;
+  font-size: 1.25rem;
+}
+
+.gallery {
+  padding: 0 0 4rem 0;
+}
+
+.img-container {
+  width: 100%;
+  height: 400px;
+  cursor: pointer;
+  overflow: hidden;
+  &:hover .img-content-hover {
+    display: block;
+  }
+}
+
+img {
+	width: 100%;
+  height: 500px;
+	object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.img-content-hover {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  display: none;
+  padding: 1rem;
+  background: $white;
+  font-weight: 400;
+  margin-top: 1.25rem;
+  margin-left: -2rem;
+}
+
+.title {
+  color: $black;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.category {
+  font-size: 1rem;
+  color: $gray;
+}
+
+.img-content {
+  display: none;
+}
+
+@supports (display: grid) {
+  .gallery .grid {
+    grid-gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  img:hover {
+    transform: none;
+  }
+  
+  .img-container {
+    height: 100%;
+    &:hover .img-content-hover {
+      display: none;
+    }
+  }
+
+  .img-content {
+    display: block;
+    padding: 1rem 0;
+  }
+}
 }
 
 /* CSS for the announcements section */
@@ -671,6 +806,54 @@ time.icon span
   }
 }
 
-.text-charcoal {
-  color: #36454f;
+.officer-grid {
+
+  text-align: left !important;
+
+.color-white { color: white !important; }
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #2b2d2f;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
 }

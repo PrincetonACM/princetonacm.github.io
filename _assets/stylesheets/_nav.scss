@@ -17,13 +17,14 @@
 
   .brand {
     padding-left: 10%;
-    padding-right: min(350px, 23%);
+    padding-right: min(270px, 16.5%);
     display: inline-block;
   }
 
   .brand img {
-    width: 48%;
+    width: 62px;
     display: block;
+    margin-top: -63px;
   }
 
   .dropdown {
@@ -36,7 +37,7 @@
 
   #cssmenu {
     display: inline-block;
-    width: 700px;
+    width: 1000px;
   }
 
   #navigation {
