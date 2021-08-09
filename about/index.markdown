@@ -7,13 +7,16 @@ categories: []
 tags: []
 comments: []
 ---
-Founded in 2010 by a group of CS (COS) geeks, Princeton ACM is Princeton's student chapter of the world's largest educational and scientific computing society, the [Association for Computing Machinery (ACM)](http://acm.org). We are advised by the one and only [Professor Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/).
+
+<img src="/images/acm_at_princeton.png">
+
+~~Founded in 2010 by a group of computer science geeks,~~ Princeton ACM is Princeton's student chapter of the world's largest educational and scientific computing society, the [Association for Computing Machinery (ACM)](http://acm.org). We are advised by the one and only [Professor Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/).
 
 We're so much more than a geek squad, though. **Our mission is to promote the ACM's goal of "advancing computing as a science and a profession" amongst Princeton students** (undergraduate or graduate). To this end, we hold a variety of events to engage our fellow students, including mini-hackathons (which we affectionately refer to as [Code@Nights](/events/code-at-night)), a Princeton-wide computer science competition ([COSCON](/events/coscon)), [advising](/events/advising) over coffee, [interview prep](/events/interview_prep), talks with professors, and more. If you'd like to stay in the loop on all that we're doing, [join us](https://forms.gle/MXidbe4AvtaXKLbg9) today! To join, you must be a Princeton student, but that's it -- after all, the challenges, promises, and beauties of computer science cut across disciplines, experience levels, and social backgrounds. We'd love to have you on board!
 
 ACM is fundamentally run by its members, as detailed in our [constitution](/about/constitution/). However, we do have a board that oversees the day-to-day operations, heads outreach/sponsorship, and plans events over the course of its term. But don't forget that **the board works for you** -- we work on your feedback so please let us know [here](/contact/) if there's something we could be doing better, or if you'd like to see a particular event happen. You can meet the board members for this school year below:
 
-<div class="grid officer-grid">
+<div class="grid officer-grid pt-lg-3">
 <div class="row pb-lg-5">
   <div class="col-lg-4">
     <div class="card">
