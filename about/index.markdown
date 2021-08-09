@@ -8,7 +8,7 @@ tags: []
 comments: []
 ---
 
-<img src="/images/acm_at_princeton.png">
+<img src="/images/acm_at_princeton.PNG">
 
 ~~Founded in 2010 by a group of computer science geeks,~~ Princeton ACM is Princeton's student chapter of the world's largest educational and scientific computing society, the [Association for Computing Machinery (ACM)](http://acm.org). We are advised by the one and only [Professor Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/).
 
