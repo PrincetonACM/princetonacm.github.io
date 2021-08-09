@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Getting Involved with Princeton ACM
+title: Get Involved with Princeton ACM
 date: '2021-07-23 20:18:42 -0400'
 date_gmt: '2021-07-23 20:18:42 -0400'
 categories: []
