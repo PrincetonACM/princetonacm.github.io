@@ -2,6 +2,12 @@ $(".full img").on("click", function() {
   $(this).toggleClass("zoom");
 });
 
+$(".option").click(function(){
+  $(".option").removeClass("active");
+  $(this).addClass("active");
+  
+});
+
 const imgContent = document.querySelectorAll('.img-content-hover');
 
 function showImgContent(e) {

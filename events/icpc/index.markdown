@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Competitions
+title: Competitive Intercollegiate Programming (ICPC)
 categories: []
 tags: []
 comments: []
