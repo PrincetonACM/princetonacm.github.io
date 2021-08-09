@@ -56,7 +56,7 @@ comments: []
 <a name="calendar"></a>
 <iframe src="https://calendar.google.com/calendar/embed?src=c_061botek697vvcsnulcv4lvms8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" class="pt-lg-3 pb-lg-5"></iframe>
       
-Here are a list of the events that ACM organizes:
+Here is a list of the events that ACM organizes:
 
 ### Code@Night
 Code@Night (C@N) is a bi-to-tri-weekly all-night-long hacking session to let students that like to code come together and work on fun projects, eat pizza and pop tarts, and geek out.
