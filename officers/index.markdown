@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Elections
+title: Officer Roles and Elections
 categories: []
 tags: []
 comments: []

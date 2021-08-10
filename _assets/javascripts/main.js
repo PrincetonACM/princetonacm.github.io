@@ -2,10 +2,24 @@ $(".full img").on("click", function() {
   $(this).toggleClass("zoom");
 });
 
-$(".option").click(function(){
-  $(".option").removeClass("active");
+// Animations for the galleries on the "Get Involved" page
+$(".student-gallery").children().mouseup(function() {
+  const toActivate = $(this);
+  const toDeactivate = $(".student-gallery").children();
+  const currentlyActive = toActivate.hasClass("active");
+
+  toDeactivate.removeClass("active");
+  toDeactivate.removeAttr("href");
+
+  if (currentlyActive) {
+    toActivate.attr("href", $(this).attr("data"));
+  }
+  toActivate.addClass("active");
+});
+
+$(".org-gallery").children().click(function(){
+  $(".org-gallery").children().removeClass("active");
   $(this).addClass("active");
-  
 });
 
 const imgContent = document.querySelectorAll('.img-content-hover');
