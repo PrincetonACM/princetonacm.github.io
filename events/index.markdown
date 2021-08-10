@@ -41,7 +41,7 @@ comments: []
           <a href="/events/icpc/index.html">
             <img src="/images/icpc_yuping.jpeg" style="height: 400px" />
             <h3 class="gallery-caption-2" style="margin-top:-95px">
-              Collegiate Programming
+              Intercollegiate Coding
             </h3>
           </a>
         </figure>
