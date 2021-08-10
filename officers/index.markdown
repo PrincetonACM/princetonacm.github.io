@@ -7,6 +7,8 @@ categories: []
 tags: []
 comments: []
 ---
+#### Officer Elections are usually held in late spring, but we're always receptive to ideas -- so [contact us](/contact) if you have one! If we think that you're idea is a good one, we can offer you a spot on the board, along with access to some of our resources, to help you implement it.
+
 ## ACM Officer Roles
 
 **Elected officers include:**
