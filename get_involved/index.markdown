@@ -84,7 +84,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
 
 <div class="accordion-gallery">
     <div class="options org-gallery">
-    <div class="option active" style="--optionBackground:url(https://66.media.tumblr.com/6fb397d822f4f9f4596dff2085b18f2e/tumblr_nzsvb4p6xS1qho82wo1_1280.jpg);" href="/events/code-at-night#sponsor" data="/events/code-at-night#sponsor">
+    <a class="option active" style="--optionBackground:url(https://66.media.tumblr.com/6fb397d822f4f9f4596dff2085b18f2e/tumblr_nzsvb4p6xS1qho82wo1_1280.jpg);" href="/events/code-at-night#sponsor" data="/events/code-at-night#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -94,8 +94,8 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <div class="main"><h2 style="color: white; font-weight: bold">Lead a Code@Night</h2></div>
             </div>
         </div>
-    </div>
-    <div class="option" style="--optionBackground:url(/images/COSCON_white_background.png);" data="/events/coscon#sponsor">
+    </a>
+    <a class="option" style="--optionBackground:url(/images/COSCON_white_background.png);" data="/events/coscon#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -105,8 +105,8 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <div class="main"><h2 style="color: white; font-weight: bold">Support COSCON Financially</h2></div>
             </div>
         </div>
-    </div>
-    <div class="option" style="--optionBackground:url(/images/resume.jpg);">
+    </a>
+    <a class="option" style="--optionBackground:url(/images/resume.jpg);" data="/sponsors/sponsor_info#resume">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -116,8 +116,8 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <div class="main"><h2 style="color: white; font-weight: bold">Buy ACM's Resume Book</h2></div>
             </div>
         </div>
-    </div>
-    <div class="option" style="--optionBackground:url(/images/nyc.jpg);">
+    </a>
+    <a class="option" style="--optionBackground:url(/images/nyc.jpg);" data="/sponsors/sponsor_info#hq">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -127,8 +127,8 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <div class="main"><h2 style="color: white; font-weight: bold">Organize an HQ Tour</h2></div>
             </div>
         </div>
-    </div>
-    <div class="option" style="--optionBackground:url(/images/code_at_night_3.png);">
+    </a>
+    <a class="option" style="--optionBackground:url(/images/code_at_night_3.png);" data="/sponsors/sponsor_info#advertising">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -138,7 +138,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <div class="main"><h2 style="color: white; font-weight: bold">Advertise through ACM</h2></div>
             </div>
         </div>
-    </div>
+    </a>
     </div>
 </div>
 

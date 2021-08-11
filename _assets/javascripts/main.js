@@ -17,9 +17,18 @@ $(".student-gallery").children().mouseup(function() {
   toActivate.addClass("active");
 });
 
-$(".org-gallery").children().click(function(){
-  $(".org-gallery").children().removeClass("active");
-  $(this).addClass("active");
+$(".org-gallery").children().mouseup(function() {
+  const toActivate = $(this);
+  const toDeactivate = $(".org-gallery").children();
+  const currentlyActive = toActivate.hasClass("active");
+
+  toDeactivate.removeClass("active");
+  toDeactivate.removeAttr("href");
+
+  if (currentlyActive) {
+    toActivate.attr("href", $(this).attr("data"));
+  }
+  toActivate.addClass("active");
 });
 
 const imgContent = document.querySelectorAll('.img-content-hover');

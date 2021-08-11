@@ -72,9 +72,9 @@ comments: []
 <a name="calendar"></a>
 # Calendar of Events
 <div style="margin-top: -20px"></div>
-#### All of ACM's events/important dates will be posted on the calendar below!
+All of ACM's events/important dates will be posted on the calendar below:
 <div style="margin-top: -10px"></div>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_061botek697vvcsnulcv4lvms8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" class="pt-lg-5 pb-lg-5"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_061botek697vvcsnulcv4lvms8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" class="pt-lg-4 pb-lg-5"></iframe>
 
-#### Do you have event suggestions or feedback? Please [contact us](/contact/index.html).
+Do you have event suggestions or feedback? Please [contact us](/contact).

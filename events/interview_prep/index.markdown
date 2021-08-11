@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Coffee Chat
+title: Student-to-Student Interview Prep
 date: '2014-07-23 20:14:28 -0400'
 date_gmt: '2014-07-23 20:14:28 -0400'
 categories: []
