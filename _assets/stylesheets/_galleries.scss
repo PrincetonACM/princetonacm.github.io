@@ -169,7 +169,6 @@ $footer: #f7f7f7;
     overflow:hidden;
     margin-top: 50px;
     margin-bottom: 65px;
-    margin-left: 60px;
     
     font-family: 'Roboto', sans-serif;
 
@@ -187,7 +186,7 @@ $footer: #f7f7f7;
         overflow:hidden;
 
         min-width:600px;
-        max-width:900px;
+        max-width:1000px;
         width:calc(100% - 100px);
         
         height:400px;
@@ -199,6 +198,10 @@ $footer: #f7f7f7;
                 display:none;
                 }
             }
+        }
+
+        &.student-gallery {
+            width: calc(100% - 50px);
         }
         
         .option {

@@ -9,16 +9,27 @@ categories: []
 tags: []
 comments: []
 ---
-#### So you wanna get involved with ACM? Great -- we'd love to have you on board! 
+So you wanna get involved with ACM? Great -- we'd love to have you on board! 
 
-<div style="height: 40px"></div>
+<div style="height: 20px"></div>
 
 ### **If you're a student:** 
 The first step is to become a member by filling out <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9">this form</a>. After that, see the world of opportunities for getting involved that opens up below! You'll notice none of them require hard-and-fast qualifications or force you to go through an interview process. That's because anyone, regardless of class year, major, opinion on Twilight, or anything else is <em>always</em> welcome. Click on a specific opportunity to learn more.
 
-<div class="accordion-gallery">
+<div class="accordion-gallery" style="margin-left: 50px">
     <div class="options student-gallery">
-        <a class="option active" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: -5px 15px" href="/announcements#cosconwriting" data="/announcements#cosconwriting">
+        <a class="option active" style="--optionBackground:url(/images/code_at_night_4.png); background-position: -5px 15px" href="/code-at-night" data="/events/code-at-night">
+            <div class="shadow"></div>
+            <div class="label">
+                <div class="icon">
+                    <i class="fa fa-exclamation-circle"></i>
+                </div>
+                <div class="info">
+                    <div class="main"><h2 style="color: white; font-weight: bold">Attend a Code@Night</h2></div>
+                </div>
+            </div>
+        </a>
+        <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: -5px 15px" data="/announcements#cosconwriting">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
@@ -78,24 +89,15 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
 
 **Note**: An exclamation point next to an opportunity means that it is quite active at this time of the year, so there's quite a high chance you'll get to be involved. Have any questions or want to see other opportunities for involvement? Please [contact us](/contact/index.html).
 
+<div style="height: 1px"></div>
+
 <a name="orgs"></a>
 ### **If you're an organization:** 
 We'd love to plan some amazing events with you! See below for some ideas -- you can click on the individual sponsorship opportunities to learn more. Note that in general, we will charge an access fee to host an event with our students if your event involves any form of networking (see the [sponsors](/sponsors/sponsor_info)) tab for more information. The best policy, as always, is to [ask us](/contact) if you still have questions!
 
-<div class="accordion-gallery">
+<div class="accordion-gallery" style="margin-left: 80px">
     <div class="options org-gallery">
-    <a class="option active" style="--optionBackground:url(https://66.media.tumblr.com/6fb397d822f4f9f4596dff2085b18f2e/tumblr_nzsvb4p6xS1qho82wo1_1280.jpg);" href="/events/code-at-night#sponsor" data="/events/code-at-night#sponsor">
-        <div class="shadow"></div>
-        <div class="label">
-            <div class="icon">
-                <i class="fas fa-exclamation-circle"></i>
-            </div>
-            <div class="info">
-                <div class="main"><h2 style="color: white; font-weight: bold">Lead a Code@Night</h2></div>
-            </div>
-        </div>
-    </a>
-    <a class="option" style="--optionBackground:url(/images/COSCON_white_background.png);" data="/events/coscon#sponsor">
+    <a class="option active" style="--optionBackground:url(/images/COSCON_white_background.png);" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -103,6 +105,17 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
             </div>
             <div class="info">
                 <div class="main"><h2 style="color: white; font-weight: bold">Support COSCON Financially</h2></div>
+            </div>
+        </div>
+    </a>
+    <a class="option" style="--optionBackground:url(https://66.media.tumblr.com/6fb397d822f4f9f4596dff2085b18f2e/tumblr_nzsvb4p6xS1qho82wo1_1280.jpg);" data="/events/code-at-night#sponsor">
+        <div class="shadow"></div>
+        <div class="label">
+            <div class="icon">
+                <i class="fas fa-exclamation-circle"></i>
+            </div>
+            <div class="info">
+                <div class="main"><h2 style="color: white; font-weight: bold">Lead a Code@Night</h2></div>
             </div>
         </div>
     </a>
