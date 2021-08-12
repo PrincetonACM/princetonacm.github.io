@@ -29,7 +29,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
                 </div>
             </div>
         </a>
-        <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: -5px 15px" data="/announcements#cosconwriting">
+        <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: -5px 15px" data="/announcements#coscon-writing-1">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">

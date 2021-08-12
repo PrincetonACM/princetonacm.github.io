@@ -31,7 +31,7 @@ Code@Nights are usually held on a biweekly basis on Thursday/Friday evenings, bu
 <a name="advertising"></a>
 - **Advertising.** ACM is also a good place to advertise through our website and our listserv (which boasts 450+ recipients). We offer the following options:
     - Send an approved one-time message to all listserv recipients and have a corresponding announcement posted on ACM's website for $100.
-    - Get listserv access and your logo posted on ACM's website for the entire school year for $500. Note that listserv access is restricted to at most 1 message per three-week period, so as to prevent spamming.
+    - Get listserv access and your logo posted on ACM's website for the entire school year for $500. Note that listserv access is restricted to at most 1 message per two-week period, so as to prevent spamming.
 
   We will waive the listserv access cost if the message sender is an academic organization or a fellow Princeton student group.
 
