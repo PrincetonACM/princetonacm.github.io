@@ -12,8 +12,10 @@ logo:         logo.png
 company:      ACM Student Chapter of Princeton University
 url:          http://princetonacm.com/
 facebook:     acmprinceton
+github:       PrincetonACM
 about_link:   /about/index.html
 newsletter_link: http://eepurl.com/c3FpVf
+signup_link: https://forms.gle/7HcG9zUtD7wPj9Rc9
 
 # Analytics
 analytics:
