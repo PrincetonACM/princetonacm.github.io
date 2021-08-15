@@ -20,7 +20,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row pb-lg-5">
   <div class="col-lg-4">
     <div class="card">
-      <img src=".jpg" alt="Nalin" style="width:100%">
+      <img src="/images/officers/2021-2022/nalinranjan.jpg" alt="Nalin" style="width:100%">
       <div class="container">
         <h2>Nalin Ranjan '22</h2>
         <p class="title">Chair</p>
@@ -31,7 +31,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-4">
     <div class="card">
-      <img src=".jpg" alt="Howard" style="width:100%">
+      <img src="/images/officers/2021-2022/howardyen.jpg" alt="Howard" style="width:100%">
       <div class="container">
         <h2>Howard Yen '23</h2>
         <p class="title">Vice Chair</p>
@@ -42,7 +42,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-4">
     <div class="card">
-      <img src=".jpg" alt="Sacheth" style="width:100%">
+      <img src="/images/officers/2021-2022/sacheth.jpg" alt="Sacheth" style="width:100%">
       <div class="container">
         <h4>Sacheth Sathyanarayanan '22</h4>
         <p class="title">Advisor and Treasurer</p>
@@ -55,7 +55,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row">
   <div class="col-lg-3">
     <div class="card">
-      <img src=".jpg" alt="Henry" style="width:100%">
+      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Henry" style="width:100%">
       <div class="container">
 	<h2>Henry Tang '23</h2>
 	<p class="title">Competitions Chair</p>
@@ -66,7 +66,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src=".jpg" alt="Michael" style="width:100%">
+      <img src="/images/officers/2021-2022/michaeltang.jpg" alt="Michael" style="width:100%">
       <div class="container">
 	<h2>Michael Tang '24</h2>
 	<p class="title">Outreach Chair</p>
@@ -77,7 +77,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src=".jpg" alt="Austen" style="width:100%">
+      <img src="/images/officers/2021-2022/austenmazenko.jpg" alt="Austen" style="width:100%">
       <div class="container">
 	<h2>Austen Mazenko '24</h2>
 	<p class="title">Careers Chair</p>
@@ -88,7 +88,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
   
   <div class="col-lg-3">
     <div class="card">
-      <img src=".jpg" alt="Dangely" style="width:100%">
+      <img src="/images/officers/2021-2022/dangelycanabal.jpg" alt="Dangely" style="width:100%">
       <div class="container">
 	<h2>Dangely Canabal '23</h2>
 	<p class="title">Tech/Design Chair</p>

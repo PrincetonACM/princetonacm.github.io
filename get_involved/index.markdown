@@ -108,7 +108,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
             </div>
         </div>
     </a>
-    <a class="option" style="--optionBackground:url(https://66.media.tumblr.com/6fb397d822f4f9f4596dff2085b18f2e/tumblr_nzsvb4p6xS1qho82wo1_1280.jpg);" data="/events/code-at-night#sponsor">
+    <a class="option" style="--optionBackground:url(/images/code-at-night_logo_dark.png); background-size: contain" data="/events/code-at-night#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
