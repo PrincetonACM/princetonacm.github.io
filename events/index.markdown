@@ -24,7 +24,7 @@ comments: []
       </div>
       <div class="col-xs-12 col-md-6 small-side-pad">
         <figure class="img-container">
-          <a href="/events/icpc/index.html">
+          <a href="/events/code-at-night/index.html">
             <img src="/images/code-at-night_logo_dark_tall.png" style="object-fit: fill; border: 18px #000 solid" />
             <h3 class="gallery-caption-1" style="margin-top:-214px">
               Code@Nights: Fun Biweekly Speaker/Mini-Hackathon Events 
@@ -48,7 +48,7 @@ comments: []
       </div>
       <div class="col-xs-12 col-md-4 small-side-pad">
         <figure class="img-container">
-          <a href="/events/advising/index.html">
+          <a href="/events/interview_prep/index.html">
             <img src="/images/interview_prep.jpg" style="height: 450px" />
             <h3 class="gallery-caption-2" style="margin-top:-145px">
               Interview Prep
