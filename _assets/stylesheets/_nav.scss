@@ -16,8 +16,10 @@
   }
 
   .brand {
-    padding-left: 10%;
-    padding-right: min(270px, 16.5%);
+    // padding-left: 10%;
+    // padding-right: min(270px, 16.5%);
+    padding-left: calc(var(--default-left-padding) - 56px);
+    padding-right: 283px;
     display: inline-block;
   }
 
