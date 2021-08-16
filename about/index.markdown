@@ -20,10 +20,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row pb-lg-5">
   <div class="col-lg-4">
     <div class="card">
-      <img src="/images/officers/2021-2022/nalinranjan.jpg" alt="Nalin" style="width:100%">
+      <img src="/images/officers/2021-2022/nalinranjan.png" alt="Nalin" style="width:100%; height: 350px">
       <div class="officer-container">
         <h2>Nalin Ranjan '22</h2>
-        <p class="title">Chair</p>
+        <p class="title" style="margin-top: -30px; margin-bottom: 30px">Chair</p>
         <p><button class="button"><a href="mailto: nranjan@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -31,10 +31,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-4">
     <div class="card">
-      <img src="/images/officers/2021-2022/howardyen.jpg" alt="Howard" style="width:100%">
+      <img src="/images/officers/2021-2022/howardyen.jpg" alt="Howard" style="width:100%; height: 350px">
       <div class="officer-container">
         <h2>Howard Yen '23</h2>
-        <p class="title">Vice Chair</p>
+        <p class="title" style="margin-top: -30px; margin-bottom: 30px">Vice Chair</p>
         <p><button class="button"><a href="mailto: hyen@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -42,10 +42,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-4">
     <div class="card">
-      <img src="/images/officers/2021-2022/sacheth.jpg" alt="Sacheth" style="width:100%">
+      <img src="/images/officers/2021-2022/sacheth.jpg" alt="Sacheth" style="width:100%; height: 350px">
       <div class="officer-container">
-        <h4>Sacheth Sathyanarayanan '22</h4>
-        <p class="title">Advisor and Treasurer</p>
+        <h4 style="margin-top: 18px">Sacheth Sathyanarayanan '22</h4>
+        <p class="title" style="margin-top: -10px; margin-bottom: 33px;">Advisor and Treasurer</p>
         <p><button class="button"><a href="mailto: sacheths@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -55,10 +55,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row">
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Henry" style="width:100%">
+      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Henry" style="width:100%; height: 320px">
       <div class="officer-container">
-	<h2>Henry Tang '23</h2>
-	<p class="title">Competitions Chair</p>
+        <h2>Henry Tang '23</h2>
+        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Competitions Chair</p>
         <p><button class="button"><a href="mailto: hrtang@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -66,10 +66,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/michaeltang.jpg" alt="Michael" style="width:100%">
+      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Michael" style="width:100%; height: 320px">
       <div class="officer-container">
-	<h2>Michael Tang '24</h2>
-	<p class="title">Outreach Chair</p>
+        <h2>Michael Tang '24</h2>
+        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Outreach Chair</p>
         <p><button class="button"><a href="mailto: mwtang@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -77,10 +77,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/austenmazenko.jpg" alt="Austen" style="width:100%">
+      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Austen" style="width:100%; height: 320px">
       <div class="officer-container">
-	<h2>Austen Mazenko '24</h2>
-	<p class="title">Careers Chair</p>
+        <h3 style="margin-top: 16px">Austen Mazenko '24</h3>
+        <p class="title" style="margin-top: -10px; margin-bottom: 20px">Careers Chair</p>
         <p><button class="button"><a href="mailto: atmazenko@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
@@ -88,10 +88,10 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
   
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/dangelycanabal.jpg" alt="Dangely" style="width:100%">
+      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Dangely" style="width:100%; height: 320px">
       <div class="officer-container">
-	<h2>Dangely Canabal '23</h2>
-	<p class="title">Tech/Design Chair</p>
+        <h4 style="font-size: 23px; margin-top: 16px">Dangely Canabal '23</h4>
+        <p class="title" style="margin-top: -9px; margin-bottom: 20px">Tech/Design Chair</p>
         <p><button class="button"><a href="mailto: dcanabal@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
