@@ -1,7 +1,7 @@
 ---
 layout: page
-status: publish
-published: true
+status: draft
+published: false
 title: "COSCON: Princeton's Computer Science Contest"
 categories: []
 tags: []
