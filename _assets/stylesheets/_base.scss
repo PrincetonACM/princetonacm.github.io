@@ -1,3 +1,7 @@
+:root {
+    --default-left-padding: 180px;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -27,7 +31,8 @@ body {
     color: #2b2d2f;
     top: 50%;
     padding-top: 75px;
-    padding-left: calc(10% + min(5%, 80px));
+    //padding-left: calc(10% + min(5%, 80px));
+    padding-left: calc(var(--default-left-padding) + 10px);
     display: inline-block;
 }
 
@@ -118,8 +123,29 @@ body {
     color: #2b2d2f;
 }
 
+.homepage-btn-primary-inverted {
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+    border: 1px solid #f58025;
+    font-size: 20px;
+    background: transparent;
+    background-color: transparent;
+    padding: 0.7em 1.4em;
+    color: #f58025;
+}
+
 .arrow {
     border: solid #2b2d2f;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3.5px;
+    position: relative;
+    top: -2px;
+}
+
+.arrow-orange {
+    border: solid #f58025;
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 3.5px;
@@ -176,7 +202,7 @@ a {
 
 .container {
     max-width: 1300px;
-    padding-left: 12%;
+    padding-left: var(--default-left-padding);
     float: left;
 }
 
@@ -372,4 +398,12 @@ iframe {
   height: 350px;
   width: 100%;
   background-color: #3f3f3f;
+}
+
+.normal-size {
+    font-size: 20px;
+}
+
+.no-justify {
+    text-align: left;
 }

@@ -3,13 +3,13 @@ layout: page
 status: publish
 published: true
 title: Get Involved with Princeton ACM
+subtitle: So you wanna get involved with us? Great — we'd love to have you on board! 
 date: '2021-07-23 20:18:42 -0400'
 date_gmt: '2021-07-23 20:18:42 -0400'
 categories: []
 tags: []
 comments: []
 ---
-So you wanna get involved with ACM? Great -- we'd love to have you on board! 
 
 <div style="height: 20px"></div>
 
@@ -18,7 +18,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
 
 <div class="accordion-gallery" style="margin-left: 50px">
     <div class="options student-gallery">
-        <a class="option active" style="--optionBackground:url(/images/code_at_night_4.png); background-position: -5px 15px" href="/code-at-night" data="/events/code-at-night">
+        <a class="option active" style="--optionBackground:url(/images/code_at_night_4.png);" href="/code-at-night" data="/events/code-at-night">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
@@ -29,7 +29,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
                 </div>
             </div>
         </a>
-        <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: -5px 15px" data="/announcements#coscon-writing-1">
+        <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: 20px 15px" data="/announcements#coscon-writing-1">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
@@ -40,7 +40,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
                 </div>
             </div>
         </a>
-        <a class="option" style="--optionBackground:url(/images/icpc_team.jpg);" data="/events/icpc">
+        <a class="option" style="--optionBackground:url(/images/icpc_team.jpg); background-size: 580px 420px;" data="/events/icpc">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
@@ -51,7 +51,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
                 </div>
             </div>
         </a>
-        <a class="option" style="--optionBackground:url(/images/interview_prep_cropped.png);" data="/events/interview_prep">
+        <a class="option" style="--optionBackground:url(/images/interview_prep_cropped.png); background-size: 580px 420px;" data="/events/interview_prep">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
@@ -62,14 +62,14 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
                 </div>
             </div>
         </a>
-        <a class="option" style="--optionBackground:url(/images/advising_pizza.png);" data="/events/advising">
+        <a class="option" style="--optionBackground:url(/images/advising_pizza.png); background-size: 580px 420px;" data="/events/advising">
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
                     <i class="fa fa-exclamation-circle"></i>
                 </div>
                 <div class="info">
-                    <div class="main"><h2 style="color: white; font-weight: bold">Advise on Course Selection</h2></div>
+                    <div class="main"><h2 style="color: white; font-weight: bold">Advise Others Academically</h2></div>
                 </div>
             </div>
         </a>
@@ -97,7 +97,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
 
 <div class="accordion-gallery" style="margin-left: 80px">
     <div class="options org-gallery">
-    <a class="option active" style="--optionBackground:url(/images/COSCON_white_background.png);" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
+    <a class="option active" style="--optionBackground:url(/images/COSCON_white_background.png); background-size: 520px 330px" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -119,7 +119,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
             </div>
         </div>
     </a>
-    <a class="option" style="--optionBackground:url(/images/resume.jpg);" data="/sponsors/sponsor_info#resume">
+    <a class="option" style="--optionBackground:url(/images/resume.jpg); background-size: 590px 420px;" data="/sponsors/sponsor_info#resume">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
@@ -130,7 +130,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
             </div>
         </div>
     </a>
-    <a class="option" style="--optionBackground:url(/images/nyc.jpg);" data="/sponsors/sponsor_info#hq">
+    <a class="option" style="--optionBackground:url(/images/nyc.jpg); background-size: 590px 420px;" data="/sponsors/sponsor_info#hq">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">

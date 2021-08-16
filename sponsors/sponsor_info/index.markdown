@@ -14,11 +14,11 @@ Contact us [here](/contact) if any of the opportunities below are a good fit and
 
 ## <a name="coscon"></a>COSCON: Princeton's Student-Run Computer Science Contest
 
-Barring any public health disruptions, COSCON will be held on **November 6, 2021 on Princeton's campus**. The competition will be accessible *virtually*, but we are hoping to hold in-person events for organizations and students to connect! See <a href="/sponsors/sponsor_info/docs/coscon_fall_contribution_tiers.pdf" target="_blank">this document</a> for COSCON's contribution tiers.
+Barring any public health disruptions, [COSCON](/events/coscon) will be held on **November 6, 2021 on Princeton's campus**. The competition will be accessible *virtually*, but we are hoping to hold in-person events for organizations and students to connect! See <a href="/sponsors/sponsor_info/docs/coscon_fall_contribution_tiers.pdf" target="_blank">this document</a> for COSCON's contribution tiers and benefits.
 
-## <a name="code-at-night"></a>Code@Night Sponsorship
+## <a name="code-at-night"></a>ACM Code@Nights: Biweekly Speaker/Mini-Hackathon Events
 
-Code@Nights are usually held on a biweekly basis on Thursday/Friday evenings, but this is not a hard and fast requirement. They almost always include some time for networking between students and the host, but we ask that there be some technical or career-building presentation beforehand. Check out our Code@Night contribution tiers <a href="/sponsors/sponsor_info/docs/code-at-night_tiers.pdf" target="_blank">here</a> --- we have a couple suggestions for how to make your Code@Night better in there!
+[Code@Nights](/events/code-at-night) are usually held on a biweekly basis on Thursday/Friday evenings, but this is not a hard and fast requirement. They almost always include some time for networking between students and the host, but we ask that there be some technical or career-building presentation beforehand. Check out our Code@Night contribution tiers <a href="/sponsors/sponsor_info/docs/code-at-night_tiers.pdf" target="_blank">here</a> --- we have a couple suggestions for how to make your Code@Night better in there!
 
 ## Miscellaneous
 
