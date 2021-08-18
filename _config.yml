@@ -10,7 +10,7 @@ logo:         logo.png
 
 # Company information
 company:      ACM Student Chapter of Princeton University
-url:          http://princetonacm.com/
+url:          https://princetonacm.github.io/
 facebook:     acmprinceton
 github:       PrincetonACM
 about_link:   /about/index.html

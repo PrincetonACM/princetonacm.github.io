@@ -103,7 +103,6 @@ body {
 .rotating-word-icpc span {
     position: absolute;
     overflow: hidden;
-    // animation-name: example;
     animation: animate 12s linear infinite;
     opacity: 0;
 }
@@ -233,11 +232,17 @@ a {
 }
 
 .container {
-    max-width: 1300px;
-    width: 1300px;
-    // padding-left: var(--default-left-padding);
+    max-width: 100%;
+    width: 1400px;
+    margin-left: 0;
     // float: left;
     // margin-left: var(--default-left-padding);
+}
+
+.container-footer {
+    width: 75%;
+    // float: left;
+    margin-left: var(--default-left-padding);
 }
 
 .article-cover {

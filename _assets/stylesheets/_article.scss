@@ -4,6 +4,10 @@ article {
     font-size:18px;
     text-align: justify;
 
+    .container {
+        padding-left: calc(var(--default-left-padding) - 20px);
+    }
+
     .container > header, .container > section, .container > footer {
         margin:0;
         max-width: 1120px;
@@ -399,4 +403,8 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--large {
     padding-bottom: 20px;
     // position: absolute;
     margin-top: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
 }
