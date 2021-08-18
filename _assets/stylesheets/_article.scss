@@ -4,6 +4,10 @@ article {
     font-size:18px;
     text-align: justify;
 
+    .container {
+        padding-left: calc(var(--default-left-padding) - 20px);
+    }
+
     .container > header, .container > section, .container > footer {
         margin:0;
         max-width: 1120px;
@@ -396,5 +400,5 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--large {
     width: max(100%, 2000px);
     background-color:rgba(#36454f, 1);
     position: relative;
-    margin-top: 520px;
+    float: left;
 }

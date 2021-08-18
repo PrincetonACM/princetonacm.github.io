@@ -1,0 +1,76 @@
+.c-a-n {
+    color: white;
+}
+
+.code-at-night-background {
+    height: 850px;
+    width: max(100%, 2000px);
+    background-color:rgba(#36454f, 1);
+    position: relative;
+    animation-name: backgroundfade;
+    animation-duration: 5s;
+}
+
+.code-at-night-heading {
+    vertical-align: top; 
+    padding-top: 30px; 
+    width: 1000px;
+    margin-left:50px;
+}
+
+@keyframes backgroundfade {
+    0% { background-color: #ffffff; };
+    100% { background-color:rgba(#36454f, 1); };
+}
+
+.delay-1 {
+    animation-name: fadein-1;
+    animation-duration: 5s;
+}
+
+@keyframes fadein-1 {
+    0% { color: white; }
+    // 25% { color: white; }
+    100% { color: #f58025; }
+}
+
+.delay-2 {
+    animation-name: fadein-2;
+    animation-duration: 5s;
+}
+
+@keyframes fadein-2 {
+    0% { opacity: 0; }
+    // 25% { color: white; }
+    100% { opacity: 1; }
+}
+
+.delay-3 {
+    animation-name: backgroundfade;
+    animation-duration: 5s;
+}
+
+.code-at-night-background-2 {
+    height: auto;
+    padding-bottom: 75px;
+    width: max(100%, 2000px);
+    background-color:rgba(#36454f, 1);
+    position: relative;
+    animation-name: backgroundfade;
+    animation-duration: 5s;
+    float: left;
+
+    .accordion {
+        label {
+            background: #36454f;
+            color: #ffffff;
+            border-bottom: 2px solid #ffffff;
+            box-shadow: none;
+
+            &:after {
+                line-height: 1em; 
+                box-shadow: none;
+              }
+        }
+    }
+}
