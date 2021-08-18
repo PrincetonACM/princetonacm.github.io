@@ -11,7 +11,7 @@ comments: []
 ---
 <section class="gallery picture-gallery">
     <div class="grid">
-      <div class="row">
+      <div class="row" style="flex-wrap: nowrap">
       <div class="col-xs-12 col-md-6 small-side-pad">
         <figure class="img-container">
           <a href="/events/coscon">
@@ -35,7 +35,7 @@ comments: []
     </div>
 
     </div>
-    <div class="row" style="margin-top: -15px">
+    <div class="row" style="margin-top: -15px; flex-wrap: nowrap">
       <div class="col-xs-12 col-md-4 small-side-pad">
         <figure class="img-container">
           <a href="/events/icpc/index.html">

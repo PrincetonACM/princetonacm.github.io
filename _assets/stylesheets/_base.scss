@@ -17,7 +17,7 @@ body {
 }
 
 .home-header {
-    width: 100%;
+    width: max(1450px, 100%);
     /*background-image: url('/images/cover.jpg');
     /*background-repeat: no-repeat;
     background-attachment: fixed;  
@@ -272,7 +272,7 @@ article {
     color:#aaa;
     font-size:0.8em;
     float: left;
-    width: 100%;
+    width: max(1450px, 100%);
 
     a {
         color:#777;
@@ -397,8 +397,9 @@ iframe {
 
 .sponsorship-banner {
   height: 350px;
-  width: 100%;
+  width: max(100%, 1450px);
   background-color: #3f3f3f;
+  float: left;
 }
 
 .normal-size {
