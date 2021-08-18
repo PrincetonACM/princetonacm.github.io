@@ -392,9 +392,11 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--large {
 }
 
 .section-background {
-    height: 370px;
-    width: max(100%, 2000px);
+    // height: 375px;
+    // width: max(100%, 2000px);
     background-color:rgba(#36454f, 1);
-    position: relative;
-    margin-top: 520px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    // position: absolute;
+    margin-top: 20px;
 }
