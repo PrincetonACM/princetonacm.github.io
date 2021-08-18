@@ -50,6 +50,7 @@ body {
     animation: animate 14s linear infinite;
     opacity: 0;
 }
+
 @keyframes animate {
     0% {
         opacity: 0;
@@ -96,6 +97,36 @@ body {
 }
 
 .rotating-word em {
+    color: white;
+}
+
+.rotating-word-icpc span {
+    position: absolute;
+    overflow: hidden;
+    animation: animate 12s linear infinite;
+    opacity: 0;
+}
+
+.rotating-word-icpc span:nth-child(1) {
+    animation-delay: 0;
+}
+.rotating-word-icpc span:nth-child(2) {
+    animation-delay: 2s;
+}
+.rotating-word-icpc span:nth-child(3) {
+    animation-delay: 4s;
+}
+.rotating-word-icpc span:nth-child(4) {
+    animation-delay: 6s;
+}
+.rotating-word-icpc span:nth-child(5) {
+    animation-delay: 8s;
+}
+.rotating-word-icpc span:nth-child(6) {
+    animation-delay: 10s;
+}
+
+.rotating-word-icpc em {
     color: white;
 }
 
@@ -201,10 +232,17 @@ a {
 }
 
 .container {
-    max-width: 1300px;
-    width: 1300px;
-    padding-left: var(--default-left-padding);
-    float: left;
+    max-width: 100%;
+    width: 1400px;
+    margin-left: 0;
+    // float: left;
+    // margin-left: var(--default-left-padding);
+}
+
+.container-footer {
+    width: 75%;
+    // float: left;
+    margin-left: var(--default-left-padding);
 }
 
 .article-cover {
@@ -408,4 +446,73 @@ iframe {
 
 .no-justify {
     text-align: left;
+}
+
+
+/* Image Slideshows */
+
+.mySlides {
+    display: none;
+    height: 15em;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; 
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+.visible
+{
+visibility: visible;
+opacity: 1;
+transition: opacity 2s linear;
+}
+
+/* Fade-Out Effect */
+.hidden
+{
+visibility: hidden;
+opacity: 0;
+transition: visibility 0s 2s, opacity 2s linear;
 }

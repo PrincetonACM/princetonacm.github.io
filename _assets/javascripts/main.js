@@ -86,7 +86,6 @@ function showImgContent(e) {
         else cssmenu.addClass('dropdown');
 
         if (settings.sticky === true) cssmenu.css('position', 'fixed');
-
         resizeFix = function() {
           if ($( window ).width() > 1024) {
             cssmenu.find('ul').show().addClass('open');
@@ -113,3 +112,25 @@ function showImgContent(e) {
 })(jQuery);
 
 document.addEventListener('mousemove', showImgContent);
+
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "block";
+    slides[i].className = slides[i].className.replace("visible", "hidden")
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  dots[slideIndex-1].className += " active";
+  slides[slideIndex-1].className = slides[slideIndex-1].className.replace("hidden", "visible")
+  // slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}

@@ -399,6 +399,12 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--large {
     height: 370px;
     width: max(100%, 1450px);
     background-color:rgba(#36454f, 1);
-    position: relative;
-    float: left;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    // position: absolute;
+    margin-top: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
 }
