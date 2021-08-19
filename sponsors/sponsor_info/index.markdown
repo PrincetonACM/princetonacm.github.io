@@ -26,7 +26,7 @@ Barring any public health disruptions, [COSCON](/events/coscon) will be held on 
 - **Resume Book.** Our resume book (which contains roughly 170 resumes) can be purchased for $750. It will be delivered electronically in Mid-September (so as to give us enough time to collect them). If you'd like access to the resumes we already have earlier than that, we are open to offering you incremental versions. Note also that we will be collecting resumes in COSCON (held in November), and that these additional resumes are available for purchase for $250 extra (with the purchase of the original resume book). 
 
 <a name="hq"></a>
-- **HQ Visits.** This year, we're looking to connect more with our sponsoring organizations! You can sponsor a trip to your headquarters for an access fee of $25 per attendee or $500 dollars (whichever is lower). We will also be willing to provide up to $300 in transportation fees.
+- **HQ Visits.** This year, we're looking to connect more with our sponsoring organizations! You can sponsor a trip to your headquarters for an access fee of $50 per attendee or $800 dollars (whichever is lower). We will also be willing to provide up to $300 in transportation fees.
 
 <a name="advertising"></a>
 - **Advertising.** ACM is also a good place to advertise through our website and our listserv (which boasts 450+ recipients). We offer the following options:
