@@ -9,7 +9,7 @@ categories: []
 tags: []
 comments: []
 ---
-<section class="gallery picture-gallery">
+<section class="gallery picture-gallery events-gallery">
     <div class="grid">
       <div class="row" style="flex-wrap: nowrap">
       <div class="col-xs-12 col-md-6 small-side-pad">

@@ -56,7 +56,7 @@ $footer: #f7f7f7;
 
     .img-container {
     width: 100%;
-    height: 400px;
+    height: 450px;
     cursor: pointer;
     overflow: hidden;
         &:hover .img-content-hover {
@@ -340,3 +340,9 @@ $footer: #f7f7f7;
         }
     }
 } 
+
+.events-gallery {
+    .img-container {
+        height: 400px;
+    }
+}

@@ -1,5 +1,6 @@
 :root {
     --default-left-padding: 180px;
+    --page-width: 1420px;
 }
 
 html {
@@ -233,10 +234,10 @@ a {
 
 .container {
     max-width: 100%;
-    width: 1400px;
+    width: 1300px;
     margin-left: 0;
-    // float: left;
-    // margin-left: var(--default-left-padding);
+    float: left;
+    //margin-left: var(--default-left-padding);
 }
 
 .container-footer {
@@ -453,7 +454,7 @@ iframe {
 
 .mySlides {
     display: none;
-    height: 15em;
+    height: 100%;
     width: 100%;
     position: absolute;
     top: 0;
@@ -465,6 +466,8 @@ iframe {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  margin-left: 50px;
+  height: 360px;
 }
 
 /* Caption text */
