@@ -9,7 +9,7 @@ categories: []
 tags: []
 comments: []
 ---
-<section class="gallery picture-gallery events-gallery">
+<section class="gallery picture-gallery events-gallery" style="width: var(--article-page-width)">
     <div class="grid">
       <div class="row" style="flex-wrap: nowrap">
       <div class="col-xs-12 col-md-6 small-side-pad">
@@ -75,6 +75,6 @@ comments: []
 All of ACM's events/important dates will be posted on the calendar below:
 <div style="margin-top: -10px"></div>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_061botek697vvcsnulcv4lvms8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" class="pt-lg-4 pb-lg-5"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_061botek697vvcsnulcv4lvms8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0; margin: 40px auto" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Do you have event suggestions or feedback? Please [contact us](/contact).

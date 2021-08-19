@@ -16,8 +16,8 @@ comments: []
 
 ACM is fundamentally run by its members, as detailed in our [constitution](/about/constitution/). However, we do have a board that oversees the day-to-day operations, heads outreach/sponsorship, and plans events over the course of its term. But don't forget that **the board works for you** -- we work on your feedback so please let us know [here](/contact/) if there's something we could be doing better, or if you'd like to see a particular event happen. You can meet the board members for this school year below:
 
-<div class="grid officer-grid pt-lg-3">
-<div class="row pb-lg-5">
+<div class="grid officer-grid pt-lg-3" style="width: var(--article-page-width)">
+<div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
   <div class="col-lg-4">
     <div class="card">
       <img src="/images/officers/2021-2022/nalinranjan.png" alt="Nalin" style="width:100%; height: 350px">
@@ -52,7 +52,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="flex-wrap: nowrap">
   <div class="col-lg-3">
     <div class="card">
       <img src="/images/officers/2021-2022/henrytang.jpg" alt="Henry" style="width:100%; height: 320px">
@@ -66,7 +66,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Michael" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/robot.png" alt="Michael" style="width:100%; height: 320px">
       <div class="officer-container">
         <h2>Michael Tang '24</h2>
         <p class="title" style="margin-top: -30px; margin-bottom: 20px">Outreach Chair</p>
@@ -77,7 +77,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Austen" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/austenmazenko.jpg" alt="Austen" style="width:100%; height: 320px">
       <div class="officer-container">
         <h3 style="margin-top: 16px">Austen Mazenko '24</h3>
         <p class="title" style="margin-top: -10px; margin-bottom: 20px">Careers Chair</p>
@@ -88,7 +88,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
   
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Dangely" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/robot.png" alt="Dangely" style="width:100%; height: 320px">
       <div class="officer-container">
         <h4 style="font-size: 23px; margin-top: 16px">Dangely Canabal '23</h4>
         <p class="title" style="margin-top: -9px; margin-bottom: 20px">Tech/Design Chair</p>

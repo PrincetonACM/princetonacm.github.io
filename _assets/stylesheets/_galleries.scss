@@ -191,14 +191,14 @@ $footer: #f7f7f7;
         
         height:400px;
         
-        @for $i from 1 through 4 {
-            @media screen and (max-width:798px - $i*80) {
-                min-width:600px - $i*80;
-                .option:nth-child(#{6-$i}) {
-                display:none;
-                }
-            }
-        }
+        // @for $i from 1 through 4 {
+        //     @media screen and (max-width:798px - $i*80) {
+        //         min-width:600px - $i*80;
+        //         .option:nth-child(#{6-$i}) {
+        //         display:none;
+        //         }
+        //     }
+        // }
 
         &.student-gallery {
             width: calc(100% - 50px);

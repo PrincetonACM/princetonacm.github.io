@@ -5,7 +5,9 @@ article {
     text-align: justify;
 
     .container {
-        padding-left: calc(var(--default-left-padding) - 20px);
+        margin-left: calc(var(--default-left-padding) - 20px);
+        width: var(--article-page-width);
+        max-width: unset;
     }
 
     .container > header, .container > section, .container > footer {
@@ -398,6 +400,10 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--med {
 input[name='panel']:checked ~ .accordion__content.accordion__content--large {
   height: 290px;
 }
+
+input[name='panel']:checked ~ .accordion__content.accordion__content--largest {
+    height: 325px;
+  }
 
 input[name='panel']:checked ~ .accordion__content.accordion__content--auto {
     height: auto;
