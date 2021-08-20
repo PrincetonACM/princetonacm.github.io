@@ -104,7 +104,7 @@ We'd love to plan some amazing events with you! See below for some ideas -- you 
                 <i class="fas fa-exclamation-circle"></i>
             </div>
             <div class="info">
-                <div class="main"><h2 style="color: white; font-weight: bold">Support COSCON Financially</h2></div>
+                <div class="main"><h2 style="color: white; font-weight: bold">Connect at/Support COSCON</h2></div>
             </div>
         </div>
     </a>
