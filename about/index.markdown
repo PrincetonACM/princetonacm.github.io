@@ -66,7 +66,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/robot.png" alt="Michael" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/michaeltang.jpg" alt="Michael" style="width:100%; height: 320px">
       <div class="officer-container">
         <h2>Michael Tang '24</h2>
         <p class="title" style="margin-top: -30px; margin-bottom: 20px">Outreach Chair</p>
