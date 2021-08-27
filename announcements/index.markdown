@@ -22,6 +22,22 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "media-360"></a>
+## **Mental Health Project Looking for NLP Interns!**
+*August 28, 2021 at 12:01 PM*
+
+Through it's media and technology products, Impact Media 360 powers social impact by driving awareness, attitude change and action. Motivated by success of The Real Deal reality TV series, the company is expanding into mental health tech. 
+
+The product being built is a platform that enables an individual to crowd source a positive sense of self for themselves or a loved one. With suicide, depression and anxiety on the rise, this product aims to socialize the well-being industry and disrupt digital models of self validation or self-esteem.
+
+The leadership of Impact Media 360 are looking to work with students interested in social impact, who have proficiency in NLP and are willing to complete the development of a working demonstration or prototype of the product. 
+
+The project may relate to course work or be integral to junior papers or senior theses. The leadership will work closely with the students to ensure the prototype is built according to the vision and completed within a four month time frame. Opportunities to join the organization in a full time or part time capacity are available.
+
+For more information, contact Shikha Uberoi Bajpai '13 founder and president of Impact Media 360 at [shikha@shikhauberoi.com](shikha@shikhauberoi.com).
+
+---
+
 <a name = "design-winners"></a>
 ## **The Winning Designs for Gear are Out!**
 *August 27, 2021 at 10:00 AM*
