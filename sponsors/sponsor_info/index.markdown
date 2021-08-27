@@ -29,10 +29,10 @@ Barring any public health disruptions, [COSCON](/events/coscon) will be held on 
 - **HQ Visits.** This year, we're looking to connect more with our sponsoring organizations! You can sponsor a trip to your headquarters for an access fee of $50 per attendee or $800 dollars (whichever is lower). We will also be willing to provide up to $300 in transportation fees.
 
 <a name="advertising"></a>
-- **Advertising.** ACM is also a good place to advertise through our website and our listserv (which boasts 450+ recipients). We offer the following options:
+- **Advertising.** ACM is also a good place to advertise through our website and our listserv (which boasts 450+ recipients). Listserv access is offered at no cost to sponsors of Code@Nights, COSCON, HQ trips, as well as those who buy the resume book. (In other words, with any other sponsorship opportunity!) However, if publicity through our website and listserv is all your organization seeks, we offer the following options:
     - Send an approved one-time message to all listserv recipients and have a corresponding announcement posted on ACM's website for $100.
     - Get listserv access and your logo posted on ACM's website for the entire school year for $500. Note that listserv access is restricted to at most 1 message per two-week period, so as to prevent spamming.
 
-  We will waive the listserv access cost if the message sender is an academic organization or a fellow Princeton student group.
+  We will waive the listserv access cost if the message sender is an academic organization, fellow student group, or an ACM alumnum.
 
 As always, [contact us](/contact) if you have any other sponsorship proposals -- we're always receptive to new ideas and are willing to negotiate.
