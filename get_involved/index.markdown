@@ -93,7 +93,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
 
 <a name="orgs"></a>
 ### **If you're an organization:** 
-We'd love to plan some amazing events with you! See below for some ideas -- you can click on the individual sponsorship opportunities to learn more. Note that in general, we will charge an access fee to host an event with our students if your event involves any form of networking (see the [sponsors](/sponsors/sponsor_info)) tab for more information. The best policy, as always, is to [ask us](/contact) if you still have questions!
+We'd love to plan some amazing events with you! See below for some ideas — you can click on the individual sponsorship opportunities to learn more. Note that in general, we will charge an access fee to host an event with our students if your event involves any form of networking (see the [sponsors](/sponsors/sponsor_info)) tab for more information. The best policy, as always, is to [ask us](/contact) if you still have questions!
 
 <div class="accordion-gallery" style="margin-left: 80px">
     <div class="options org-gallery">
