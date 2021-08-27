@@ -24,7 +24,7 @@ Announcement details
 
 <a name = "media-360"></a>
 ## **Mental Health Project Looking for NLP Interns!**
-*August 28, 2021 at 12:01 PM*
+*August 27, 2021 at 12:01 PM*
 
 Through it's media and technology products, Impact Media 360 powers social impact by driving awareness, attitude change and action. Motivated by success of The Real Deal reality TV series, the company is expanding into mental health tech. 
 
