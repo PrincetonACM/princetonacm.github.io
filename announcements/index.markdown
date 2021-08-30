@@ -26,7 +26,15 @@ Announcement details
 ## **Sign up for our beginning-of-the-year coffee chats!**
 *August 30, 2021 at 4:00 PM*
 
-<img src="/images/announcements/coffee.jpeg" style="margin: auto; display: block; width: 50%">
+
+<div class="row" style="margin-bottom: 30px">
+    <div class="col-lg-6">
+        <img src="/images/announcements/coffee.jpeg" style="width: 100%; height: 310px">
+    </div>
+    <div class="col-lg-6">
+        <img src="/images/boba.jpeg" style="height: 310px; width: 100%">
+    </div>
+</div>
 
 This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 7th and 14th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
 
