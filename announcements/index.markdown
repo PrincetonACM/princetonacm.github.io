@@ -22,6 +22,18 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "coffee-1"></a>
+## **Sign up for our beginning-of-the-year coffee chats!**
+*August 30, 2021 at 4:00 PM*
+
+<img src="/images/announcements/coffee.jpeg" style="margin: auto; display: block; width: 50%">
+
+This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 7th and 14th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
+
+To participate in these coffee chats, please become an ACM member first by filling out the <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9" target="_blank">registration form</a>. Then, you can sign up <a href="https://forms.gle/wcX8tmRmJo1ics3r8" target="_blank">here</a>! *Please fill out this form by this Friday, September 3 as we will need to have a head count for funding purposes.*
+
+---
+
 <a name = "media-360"></a>
 ## **Mental Health Project Looking for NLP Interns!**
 *August 27, 2021 at 12:01 PM*

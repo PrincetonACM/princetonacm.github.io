@@ -88,7 +88,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
   
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/robot.png" alt="Dangely" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/dangelycanabal.jpeg" alt="Dangely" style="width:100%; height: 320px">
       <div class="officer-container">
         <h4 style="font-size: 22px; margin-top: 16px">Dangely Canabal '23</h4>
         <p class="title" style="margin-top: -9px; margin-bottom: 20px">Tech/Design Chair</p>
