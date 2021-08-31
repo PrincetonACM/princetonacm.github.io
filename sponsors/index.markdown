@@ -28,12 +28,12 @@ Check out our wonderful sponsors below, whose support made many things possible:
     </div>
 </div>
 
-<div class="row" style="flex-wrap: nowrap;">
+<div class="row" style="flex-wrap: nowrap">
     <div class="col-lg-3" style="margin-top: 15px; margin-left: 35px">
     <a href="https://bloomberg.com" target="_blank"><img src="/images/logos/bloomberg.png" style="width: 90%"></a>
     </div>
     <div class="col-lg-3">
-    <a href="https://phy.princeton.edu" target="_blank"><img src="/images/logos/physics.png" style="width: 90%; margin-top: -10px"></a>
+    <a href="https://phy.princeton.edu" target="_blank"><img src="/images/logos/physics.png" style="width: 90%; margin-top: -10px; margin-left: 10px"></a>
     </div>
     <div class="col-lg-3">
     <a href="https://orfe.princeton.edu" target="_blank"><img src="/images/logos/orfe.png" style="width: 90%"></a>
@@ -43,7 +43,7 @@ Check out our wonderful sponsors below, whose support made many things possible:
     </div>
 </div>
 
-<div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
+<div class="row" style="flex-wrap: nowrap; margin-bottom: 50px">
     <div class="col-lg-7" style="margin-top: 35px; margin-left: 35px">
     <a href="https://csml.princeton.edu" target="_blank"><img src="/images/logos/csml.png" style="width: 100%"></a>
     </div>
