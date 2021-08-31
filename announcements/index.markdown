@@ -46,7 +46,7 @@ To participate in these coffee chats, please become an ACM member first by filli
 ## **Mental Health Project Looking for NLP Interns!**
 *August 27, 2021 at 12:01 PM*
 
-Through it's media and technology products, Impact Media 360 powers social impact by driving awareness, attitude change and action. Motivated by success of The Real Deal reality TV series, the company is expanding into mental health tech. 
+Through its media and technology products, Impact Media 360 powers social impact by driving awareness, attitude change and action. Motivated by success of The Real Deal reality TV series, the company is expanding into mental health tech. 
 
 The product being built is a platform that enables an individual to crowd source a positive sense of self for themselves or a loved one. With suicide, depression and anxiety on the rise, this product aims to socialize the well-being industry and disrupt digital models of self validation or self-esteem.
 
