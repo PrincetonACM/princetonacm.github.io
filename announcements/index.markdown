@@ -71,6 +71,8 @@ Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the win
         <img src="/images/announcements/winning_hoodie.png">
     </div>
 </div>
+If it isn't clear, the back of the hoodie design is a code for an "orange-black tree," which is a play on the <a href="https://en.wikipedia.org/wiki/Red-black_tree" target="_blank">Red-Black Search Tree</a>, which was invented by Leonidas Guibas and Princeton's own Bob Sedgewick.
+
 Stay tuned for updates — as a heads up, we're looking to subsidize around 50 t-shirts and 50 hoodies to a relatively cheap price. If those run out, gear will still be available for purchase at full price. 
 
 ---
