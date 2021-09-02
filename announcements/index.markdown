@@ -22,6 +22,25 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "design-winners"></a>
+## **The Winning Designs for Gear are Out!**
+*September 1, 2021 at 10:45 PM*
+
+Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the winning t-shirt and hoodie designs, respectively! Check them out below:
+<div class="row">
+    <div class="col-lg-6">
+        <img src="/images/announcements/winning_tshirt.jpg">
+    </div>
+    <div class="col-lg-6">
+        <img src="/images/announcements/winning_hoodie.png">
+    </div>
+</div>
+If it isn't clear, the back of the hoodie design is a code for an "orange-black tree," which is a play on the <a href="https://en.wikipedia.org/wiki/Red-black_tree" target="_blank">Red-Black Search Tree</a>, which was invented by Leonidas Guibas and Princeton's own Bob Sedgewick.
+
+The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request form</a> is now live! Order ASAP to maximize your chance at claiming subsidized gear! (Info and rules on who is eligible are in the form header.)
+
+---
+
 <a name = "coffee-1"></a>
 ## **Sign up for our beginning-of-the-year coffee chats!**
 *August 30, 2021 at 4:00 PM*
@@ -55,25 +74,6 @@ The leadership of Impact Media 360 are looking to work with students interested 
 The project may relate to course work or be integral to junior papers or senior theses. The leadership will work closely with the students to ensure the prototype is built according to the vision and completed within a four month time frame. Opportunities to join the organization in a full time or part time capacity are available.
 
 For more information, contact Shikha Uberoi Bajpai '13 founder and president of Impact Media 360 at [shikha@shikhauberoi.com](shikha@shikhauberoi.com).
-
----
-
-<a name = "design-winners"></a>
-## **The Winning Designs for Gear are Out!**
-*August 27, 2021 at 10:00 AM*
-
-Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the winning t-shirt and hoodie designs, respectively! Check them out below:
-<div class="row">
-    <div class="col-lg-6">
-        <img src="/images/announcements/winning_tshirt.jpg">
-    </div>
-    <div class="col-lg-6">
-        <img src="/images/announcements/winning_hoodie.png">
-    </div>
-</div>
-If it isn't clear, the back of the hoodie design is a code for an "orange-black tree," which is a play on the <a href="https://en.wikipedia.org/wiki/Red-black_tree" target="_blank">Red-Black Search Tree</a>, which was invented by Leonidas Guibas and Princeton's own Bob Sedgewick.
-
-Stay tuned for updates — as a heads up, we're looking to subsidize around 50 t-shirts and 50 hoodies to a relatively cheap price. If those run out, gear will still be available for purchase at full price. 
 
 ---
 
