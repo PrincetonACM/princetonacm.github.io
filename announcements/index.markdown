@@ -23,7 +23,7 @@ Announcement details
 {% endcomment %}
 
 <a name = "design-winners"></a>
-## **The Winning Designs for Gear are Out!**
+## **Our Gear Request Form is now Live!**
 *September 1, 2021 at 10:45 PM*
 
 Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the winning t-shirt and hoodie designs, respectively! Check them out below:
@@ -37,7 +37,7 @@ Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the win
 </div>
 If it isn't clear, the back of the hoodie design is a code for an "orange-black tree," which is a play on the <a href="https://en.wikipedia.org/wiki/Red-black_tree" target="_blank">Red-Black Search Tree</a>, which was invented by Leonidas Guibas and Princeton's own Bob Sedgewick.
 
-The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request form</a> is now live! Order ASAP to maximize your chance at claiming subsidized gear! (Info and rules on who is eligible are in the form header.)
+The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request form</a> is now live. T-shirts are $6 with a subsidy and $12 without; hoodies are $15 with a subsidy and $25 without. **We can only subsidize a limited amount, so order ASAP to maximize your chance at claiming subsidized gear!** More info and rules about who gets priority for a subsidy are in the Google Form.
 
 ---
 
