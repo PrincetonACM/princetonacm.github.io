@@ -57,7 +57,9 @@ The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request f
 
 This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 7th and 14th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
 
-To participate in these coffee chats, please become an ACM member first by filling out the <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9" target="_blank">registration form</a>. Then, you can sign up <a href="https://forms.gle/wcX8tmRmJo1ics3r8" target="_blank">here</a>! *Please fill out this form by this Friday, September 3 as we will need to have a head count for funding purposes.*
+To participate in these coffee chats, please become an ACM member first by filling out the <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9" target="_blank">registration form</a>. Then, you can sign up <a href="https://forms.gle/wcX8tmRmJo1ics3r8" target="_blank">here</a>! *Please fill out this form by this Monday, September 6.*
+
+**Update (September 3, 11:50 PM):** Our slots for free drinks filled up, but you can still be matched to meet another ACM member!  
 
 ---
 
