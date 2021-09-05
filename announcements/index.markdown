@@ -26,7 +26,7 @@ Announcement details
 ## **Our Gear Request Form is now Live!**
 *September 1, 2021 at 10:45 PM*
 
-Congrats to the Allison Lee '24 and Liam Esparraguera '24 for submitting the winning t-shirt and hoodie designs, respectively! Check them out below:
+Congrats to the Alison Lee '24 and Liam Esparraguera '24 for submitting the winning t-shirt and hoodie designs, respectively! Check them out below:
 <div class="row">
     <div class="col-lg-6">
         <img src="/images/announcements/winning_tshirt.jpg">
