@@ -2,6 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/princetonhosting/public_html/
+    - /bin/cd _site
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R about $DEPLOYPATH
     - /bin/cp -R get_involved $DEPLOYPATH
