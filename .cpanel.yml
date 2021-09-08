@@ -12,3 +12,4 @@ deployment:
     - /bin/cp -R _site/contact $DEPLOYPATH
     - /bin/cp -R _site/officers $DEPLOYPATH
     - /bin/cp -R _site/assets $DEPLOYPATH
+    - /bin/cp favicon.ico $DEPLOYPATH
