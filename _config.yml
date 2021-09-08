@@ -10,7 +10,7 @@ logo:         logo.png
 
 # Company information
 company:      ACM Student Chapter of Princeton, Inc.
-url:          https://princetonacm.github.io/
+url:          http://princeton.acm.org/
 facebook:     acmprinceton
 github:       PrincetonACM
 about_link:   /about/index.html
@@ -27,7 +27,7 @@ google_font: 'Droid+Sans:400,700'
 
 # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://princetonacm.com
+url:         http://princeton.acm.org
 source:      .
 destination: ./_site
 plugins_dir:     ./_plugins
