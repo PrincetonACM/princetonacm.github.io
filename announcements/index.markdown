@@ -39,6 +39,8 @@ If it isn't clear, the back of the hoodie design is a code for an "orange-black 
 
 The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request form</a> is now live. T-shirts are $6 with a subsidy and $12 without; hoodies are $15 with a subsidy and $25 without. **We can only subsidize a limited amount, so order ASAP to maximize your chance at claiming subsidized gear!** More info and rules about who gets priority for a subsidy are in the Google Form.
 
+**Update (September 7, 12:00 PM):** The gear order period has ended. We might have extras left over though, so let us know if you're still interested!
+
 ---
 
 <a name = "coffee-1"></a>
@@ -60,6 +62,7 @@ This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow m
 To participate in these coffee chats, please become an ACM member first by filling out the <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9" target="_blank">registration form</a>. Then, you can sign up <a href="https://forms.gle/wcX8tmRmJo1ics3r8" target="_blank">here</a>! *Please fill out this form by this Monday, September 6.*
 
 **Update (September 3, 11:50 PM):** Our slots for free drinks filled up, but you can still be matched to meet another ACM member!  
+**Update (September 9, 4:48 PM):** Coffee Chat assignments and free drink info should be out — let us know if you signed up but didn't get an email.  
 
 ---
 
