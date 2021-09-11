@@ -108,3 +108,7 @@ assets:
   debug: false
 
 plugins: [jekyll-paginate]
+
+plugins:
+  - jemoji
+  - jekyll-paginate

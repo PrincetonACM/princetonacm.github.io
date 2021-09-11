@@ -269,6 +269,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-assets
+  jemoji
   maruku
   rake
   sass

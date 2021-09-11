@@ -22,6 +22,36 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "correlation-one"></a>
+## **Citadel Fall 2021 Events Announcement**
+*September 9, 2021 at 10:45 AM*
+
+This fall, Correlation One and Citadel are partnering to bring you the biggest coding competitions of the school year.
+
+This season is a little different others — because our coding/ data science competitions are for the first time open for freshmen and sophomore year students! **This is a great learning opportunity** for those who have just started to get into coding/data science and also for those who are willing to showcase their skills in a team based setting. 
+
+Apply to both or either of the events now to meet like minded individuals, be considered for jobs/ internships with Citadel/ Citadel Securities, and for a chance to win $15k in cash prizes! 
+
+:video_game: :joystick: <span style="color: #8DD8FF; font-size: 28px">September 20-27: East Coast Regional Terminal (coding focused)</span> :video_game: :joystick:
+
+<a href="https://terminal.c1games.com/east" target="_blank">Terminal Live</a> is an online game where software engineers and computer scientists (or anyone else interested in coding!) build an algorithm to play a tower defense game in a team-based setting.
+
+This competition is suitable for both beginner level and more advanced coders as we provide starter algorithms for those who need a little more support! 
+
+<a href="https://terminal.c1games.com/east" target="_blank">APPLY FOR TERMINAL NOW!</a>
+
+:bar_chart: :computer: <span style="color: #f58025; font-size: 28px">Oct 25-Nov 1: East Coast Regional Datathon (data science focused)</span> :bar_chart: :computer:
+
+<a href="https://www.citadel.com/careers/the-data-open/apply/" target="_blank">Datathons</a> are world's #1 virtual data science competitions. This is a great opportunity for students to work on challenging problems while engaging with real-world data in a competitive, team-based setting. We provide a problem statement and students have a week to work on their analysis reports in a team of 4 people. 
+
+<a href="https://www.citadel.com/careers/the-data-open/apply/" target="_blank">APPLY FOR DATATHON NOW!</a>
+
+➡ Easy application! Submit a resume + take a quick skills assessment test (waived if you've competed with us before). Applications are reviewed on a first-come-first-serve basis-- so apply now and get an early invite. 
+
+For questions, please contact <a href="mailto: roysi@correlation-one.com">roysi@correlation-one.com</a>. 
+
+---
+
 <a name = "design-winners"></a>
 ## **Our Gear Request Form is now Live!**
 *September 1, 2021 at 10:45 PM*

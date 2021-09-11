@@ -23,16 +23,16 @@ Barring any public health disruptions, [COSCON](/events/coscon) will be held on 
 ## Miscellaneous
 
 <a name="resume"></a>
-- **Resume Book.** Our resume book (which contains roughly 170 resumes) can be purchased for $750. It will be delivered electronically in Mid-September (so as to give us enough time to collect them). If you'd like access to the resumes we already have earlier than that, we are open to offering you incremental versions. Note also that we will be collecting resumes in COSCON (held in November), and that these additional resumes are available for purchase for $250 extra (with the purchase of the original resume book). 
+- **Resume Book.** Our resume book (which contains roughly 300 resumes organized by class year) can be purchased for $1000. Note also that we will be collecting resumes in COSCON (held in November), and that these additional resumes are available for purchase for $250 extra (with the purchase of the original resume book). 
 
 <a name="hq"></a>
 - **HQ Visits.** This year, we're looking to connect more with our sponsoring organizations! You can sponsor a trip to your headquarters for an access fee of $50 per attendee or $800 dollars (whichever is lower). We will also be willing to provide up to $300 in transportation fees.
 
 <a name="advertising"></a>
 - **Advertising.** ACM is also a good place to advertise through our website and our listserv (which boasts 450+ recipients). Listserv access is offered at no cost to sponsors of Code@Nights, COSCON, HQ trips, as well as those who buy the resume book. (In other words, with any other sponsorship opportunity!) However, if publicity through our website and listserv is all your organization seeks, we offer the following options:
-    - Send an approved one-time message to all listserv recipients and have a corresponding announcement posted on ACM's website for $100.
-    - Get listserv access and your logo posted on ACM's website for the entire school year for $500. Note that listserv access is restricted to at most 1 message per two-week period, so as to prevent spamming.
+    - Send an approved one-time message to all listserv recipients and have a corresponding announcement posted on ACM's website for $200.
+    - Get listserv access and your logo posted on ACM's website for the entire school year for $750. Note that listserv access is restricted to at most 1 message per two-week period, so as to prevent spamming.
 
   We will waive the listserv access cost if the message sender is an academic organization, fellow student group, or an ACM alumnum.
 
-As always, [contact us](/contact) if you have any other sponsorship proposals -- we're always receptive to new ideas and are willing to negotiate.
+As always, [contact us](/contact) if you have any other sponsorship proposals — we're always receptive to new ideas and are willing to negotiate.
