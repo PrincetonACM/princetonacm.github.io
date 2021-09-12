@@ -48,8 +48,16 @@ Check out our wonderful sponsors below, whose support made many things possible:
     <a href="https://csml.princeton.edu" target="_blank"><img src="/images/logos/csml.png" style="width: 100%"></a>
     </div>
     <div class="col-lg-4" style="flex-wrap: nowrap; margin-top: 20px">
-    <a href="http://scm-lp.com" target="_blank"><img src="/images/logos/scm.svg" style="width: 80%; margin-left: 30px"></a>
+    <a href="/sponsors#stevens"><img src="/images/logos/scm.svg" style="width: 80%; margin-left: 30px"></a>
     </div>
 </div>
+
+# More About Our Sponsors
+
+<a name = "stevens"> </a>
+
+
+**Stevens Capital Management LP (SCM)** is a quantitative hedge fund manager specializing in the rigorous development and disciplined implementation of empirically based trading strategies.  Our flagship fund has been in business for more than 30 years. Our highly productive team works in a fast-paced collegial environment, utilizing extensive data sets, technology and the scientific method to devise and employ trading strategies throughout the world’s most liquid financial markets. SCM actively seeks candidates for career opportunities in quantitative financial research and C++ development. 
+
 
 If you are interested in supporting all the things we do here at ACM, check out some of our [opportunities](/get_involved#orgs) for organizations to get involved. You can also view sponsorship details for the coming cycle [here](/sponsors/sponsor_info).
