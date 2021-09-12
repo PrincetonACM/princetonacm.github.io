@@ -22,6 +22,28 @@ Announcement details
 
 {% endcomment %}
 
+
+<a name = "coffee-1"></a>
+## **ACM is holding beginning-of-the-year coffee chats!**
+*September 12, 2021 at 4:00 PM*
+
+
+<div class="row" style="margin-bottom: 30px">
+    <div class="col-lg-6">
+        <img src="/images/announcements/coffee.jpeg" style="width: 100%; height: 310px">
+    </div>
+    <div class="col-lg-6">
+        <img src="/images/boba.jpeg" style="height: 310px; width: 100%">
+    </div>
+</div>
+
+This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 8th and 15th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
+
+**Update (September 3, 11:50 PM):** Our slots for free drinks filled up, but you can still be matched to meet another ACM member!  
+**Update (September 9, 4:48 PM):** Coffee Chat assignments and free drink info should be out — let us know if you signed up but didn't get an email.  
+
+---
+
 <a name = "correlation-one"></a>
 ## **Citadel Fall 2021 Events Announcement**
 *September 9, 2021 at 10:45 AM*
@@ -70,29 +92,6 @@ If it isn't clear, the back of the hoodie design is a code for an "orange-black 
 The <a href="https://forms.gle/RpBLyi5Xfa4ZpMNcA" target="_blank">gear request form</a> is now live. T-shirts are $6 with a subsidy and $12 without; hoodies are $15 with a subsidy and $25 without. **We can only subsidize a limited amount, so order ASAP to maximize your chance at claiming subsidized gear!** More info and rules about who gets priority for a subsidy are in the Google Form.
 
 **Update (September 7, 12:00 PM):** The gear order period has ended. We might have extras left over though, so let us know if you're still interested!
-
----
-
-<a name = "coffee-1"></a>
-## **Sign up for our beginning-of-the-year coffee chats!**
-*August 30, 2021 at 4:00 PM*
-
-
-<div class="row" style="margin-bottom: 30px">
-    <div class="col-lg-6">
-        <img src="/images/announcements/coffee.jpeg" style="width: 100%; height: 310px">
-    </div>
-    <div class="col-lg-6">
-        <img src="/images/boba.jpeg" style="height: 310px; width: 100%">
-    </div>
-</div>
-
-This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 8th and 15th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
-
-To participate in these coffee chats, please become an ACM member first by filling out the <a href="https://forms.gle/7HcG9zUtD7wPj9Rc9" target="_blank">registration form</a>. Then, you can sign up <a href="https://forms.gle/wcX8tmRmJo1ics3r8" target="_blank">here</a>! *Please fill out this form by this Monday, September 6.*
-
-**Update (September 3, 11:50 PM):** Our slots for free drinks filled up, but you can still be matched to meet another ACM member!  
-**Update (September 9, 4:48 PM):** Coffee Chat assignments and free drink info should be out — let us know if you signed up but didn't get an email.  
 
 ---
 
