@@ -22,6 +22,23 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "icecreamsocial-1"></a>
+## **Ice cream social with ACM and PWiCS!**
+*September 18, 2021 at 2:00 PM*
+
+
+<div class="row" style="margin-bottom: 30px">
+    <div class="col-lg-6">
+        <img src="/images/announcements/unnamed.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+    </div>
+</div>
+
+Come and hang out with members of ACM and PWICS. This is the perfect chance to get to know the upperclassmen and the officers from both orgs!
+Make sure to bring your laptop if you would like officers to look at your resume and offer tips!
+Fill out this interest form if you are interested!
+(Or access it at this link: https://forms.gle/PhjnQvFGqnTQGNfN8) 
+
+---
 
 <a name = "coffee-1"></a>
 ## **ACM is holding beginning-of-the-year coffee chats!**
