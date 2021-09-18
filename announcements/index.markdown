@@ -35,8 +35,7 @@ Announcement details
 
 Come and hang out with members of ACM and PWICS. This is the perfect chance to get to know the upperclassmen and the officers from both orgs!
 Make sure to bring your laptop if you would like officers to look at your resume and offer tips!
-Fill out this interest form if you are interested!
-(Or access it at this link: https://forms.gle/PhjnQvFGqnTQGNfN8) 
+Fill out <a href="https://forms.gle/PhjnQvFGqnTQGNfN8">this</a> interest form if you are interested.
 
 ---
 
