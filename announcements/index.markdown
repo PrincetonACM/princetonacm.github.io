@@ -22,20 +22,48 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "chill-9-30"></a>
+## **Announcing ACM's First Code@Night Chill of the Year!**
+*September 25, 2021 at 11:56 AM*
+
+**TL;DR:** Join us in the **Butler iSpace at 9:30 PM Eastern on Thursday, September 30** to work on projects, socialize, play games, get advice, and/or do competitive programming practice. **FREE PIZZA PROVIDED, RSVP <a href="https://forms.gle/8MJFN5B3WUbpi28V6" target="_blank">HERE</a>**
+
+We'll be hosting a chill event where you can **bring a project**, **meet the board**, ask questions, **socialize with others**, hate on COS 217 together, play some **games**, and eat **FREE PIZZA** all night! We will also have some practice **competitive programming** problems for those interested, as well as **office hours from our awesome career mentors**! (You won't have to hear Nalin ramble about Python, and hopefully the food will be on time this time around...) We want this to be a space where you can both be productive and blow off steam, and hopefully make some new friends :) Come one, come all — sign up <a href="https://forms.gle/8MJFN5B3WUbpi28V6" target="_blank">here</a>! Also thanks to the Alcohol Initiative for sponsoring food!
+
+*Where's the Butler iSpace??* It's right under the Butler side of the WuCox dining hall. Enter Wu Hall as if going to the Butler dining hall, take a left, and go down the stairs. 
+
+<img src="/images/announcements/get_hype.gif" style="width: 70%; display: block; margin: auto; ">
+
+---
+
+<a name = "c@n-9-24"></a>
+## **Materials from the Python Workshop Posted**
+*September 25, 2021 at 11:56 AM*
+
+<div class="row" style="margin-bottom: 30px">
+    <div class="col-lg-6">
+        <img src="/images/code-at-night-nalin.jpeg" style="width: 100%; height: 390px">
+    </div>
+    <div class="col-lg-6">
+        <img src="/images/code-at-night-python.jpeg" style="height: 390px; width: 100%">
+    </div>
+</div>
+
+Thanks to all that came! We hope you were able to take something away from it, and reach out if you have questions. For those who want to review the materials, you can find them <a href="/events/code-at-night/archive/python_talk/gentle_intro_to_python.pdf" target="_blank">here (slides)</a>, <a href="/events/code-at-night/archive/python_talk/intro_to_python.ipynb" target="_blank">here (Jupyter notebook with exercises)</a>, and <a href="/events/code-at-night/archive/python_talk/intro_to_python_soln.ipynb" target="_blank">here (Jupyter notebook with solutions to exercises)</a>.
+
+If you weren't able to make it, you should still be able to do the exercises in the Jupyter notebook if you follow the slides. And again, please reach out either to Nalin personally at <a href="mailto: nranjan@princeton.edu">nranjan@princeton.edu</a> or to ACM at <a href="mailto: ptonacm@princeton.edu">ptonacm@princeton.edu</a>. **We promise we will respond!**
+
+---
+
 <a name = "icecreamsocial-1"></a>
 ## **Ice cream social with ACM and PWiCS!**
 *September 18, 2021 at 2:00 PM*
 
+<img src="/images/announcements/unnamed.gif" style="display: block; margin: auto; width: 40%">
 
-<div class="row" style="margin-bottom: 30px">
-    <div class="col-lg-6">
-        <img src="/images/announcements/unnamed.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
-    </div>
-</div>
+Come and hang out with members of ACM and PWICS (Princeton Women in Computer Science) on **Sunday, September 19** in the **Friend Atrium** at **3:00 PM Eastern**! This is the perfect chance to get to know the upperclassmen and the officers from both orgs! Make sure to bring your laptop if you would like officers to look at your resume and offer tips. Thanks also to Projects Board for sponsoring the ice cream!
 
-Come and hang out with members of ACM and PWICS. This is the perfect chance to get to know the upperclassmen and the officers from both orgs!
-Make sure to bring your laptop if you would like officers to look at your resume and offer tips!
-Fill out <a href="https://forms.gle/PhjnQvFGqnTQGNfN8">this</a> interest form if you are interested.
+Fill out <a href="https://forms.gle/PhjnQvFGqnTQGNfN8" target="_blank">this</a> form if you are interested.
 
 ---
 
@@ -53,7 +81,7 @@ Fill out <a href="https://forms.gle/PhjnQvFGqnTQGNfN8">this</a> interest form if
     </div>
 </div>
 
-This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 8th and 15th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.)
+This year we are reintroducing the ACM Coffee Chat as a new way to meet fellow members. They will take place between September 8th and 15th. In the medieval times (i.e. the past few years), they were known to be virtual and had ~no~ actual coffee, but this year we're changing that... because we are looking to match people with similar interests in ACM for a chat over free coffee/boba! (No, this isn't a dating service.) Thanks to USG Projects Board for sponsoring the drinks!
 
 **Update (September 3, 11:50 PM):** Our slots for free drinks filled up, but you can still be matched to meet another ACM member!  
 **Update (September 9, 4:48 PM):** Coffee Chat assignments and free drink info should be out — let us know if you signed up but didn't get an email.  

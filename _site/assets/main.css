@@ -6860,7 +6860,7 @@ iframe {
     border-bottom: none; } }
 /* CSS for sponsorship banner */
 .sponsorship-banner {
-  height: 530px;
+  height: 670px;
   width: max(100%, 1450px);
   background: #eeeeee;
   float: left; }
@@ -8112,7 +8112,7 @@ input[name='panel']:checked ~ .accordion__content.accordion__content--auto {
   color: white; }
 
 .code-at-night-background {
-  height: 850px;
+  height: 900px;
   width: max(100%, 1450px);
   background-color: #36454f;
   position: relative;
