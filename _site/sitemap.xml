@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://princeton.acm.org/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/about/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/coscon/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/code-at-night/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/icpc/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/interview_prep/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/advising/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/sponsors/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/sponsors/sponsor_info/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/get_involved/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/contact/index.html</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/get_involved/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/announcements/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/code-at-night/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/coscon/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/advising/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/interview_prep/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/about/constitution/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/contact/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/sponsors/sponsor_info/docs/coscon_fall_contribution_tiers.pdf</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/code-at-night/archive/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/sponsors/sponsor_info/docs/code-at-night_tiers.pdf</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/sponsors/</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/code-at-night/archive/python_talk/gentle_intro_to_python.pdf</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://princeton.acm.org/events/code-at-night/archive/design_kevin_feng/slides.pdf</loc>
+  <lastmod>2021-09-29T05:33:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
