@@ -22,6 +22,25 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "robustai"></a>
+## **Robust Intelligence @ Princeton 10/7 - 10/8**
+*September 30, 2021 at 3:30 PM*
+
+*Passing this message on for Jerry Liu '17:*
+
+<img src="/images/announcements/robust.png" style="width: 70%; display: block; margin: auto; ">
+
+Hi everyone! My name is Jerry Liu (class of 2017) and I'm currently a ML lead at Robust Intelligence. Robust Intelligence is a Sequoia-backed, Series A startup working on the cutting edge of advancing AI robustness, security, and monitoring. Our CEO is Yaron Singer, a Harvard professor in adversarial machine learning, and our team is composed of rockstars from Google, Kensho, Uber, Princeton, Harvard, and more! We're hiring for many different roles:
+
+- Software Engineers
+- Machine Learning Engineers
+- Sales Development Representatives
+- Front-end Engineers
+
+...and more! **We have a bunch of Princeton alums that will be on campus 10/7 - 10/8 for coffee chats and a Friday Happy Hour!** We have limited spots so if you're interested make sure to **RSVP** <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcsxrEfIeVk3-lYXjKbuyIt6WUZmUE20jf30ZWOgu_fh3CCQ/viewform?usp=sf_link" target="_blank">here</a>.
+
+---
+
 <a name = "chill-9-30"></a>
 ## **Announcing ACM's First Code@Night Chill of the Year!**
 *September 25, 2021 at 11:56 AM*
