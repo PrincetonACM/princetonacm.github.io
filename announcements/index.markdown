@@ -22,6 +22,22 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "interviews-1"></a>
+## **Let ACM help you with your tech interview prep!**
+*October 5, 2021 at 12:30 PM*
+
+Currently recruiting for tech positions? Are you looking for in-person practice for technical interviews or just some advice on the recruiting process? <a href="https://bit.ly/3meySxp" target="_blank">Sign up</a> for ACM's mock interviews!
+
+We will be matching those who sign up with mentors to do personalized mock interviews. We'll do our best to make the experience (difficulty, range of topics, interview format) as best for you as possible. This is your chance to practice your problem solving and communication skills in a setting closely mirroring that of a real interview!
+
+<span style="font-size: 30px; text-align: center">Here's the sign up link again: <a href="https://bit.ly/3meySxp" target="_blank">https://bit.ly/3meySx</a>
+
+You after your mock interview:
+
+<img src="/images/announcements/interview.gif" style="width: 60%; display: block; margin: auto">
+
+---
+
 <a name = "robustai"></a>
 ## **Robust Intelligence @ Princeton 10/7 - 10/8**
 *September 30, 2021 at 3:30 PM*

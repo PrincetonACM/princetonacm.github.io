@@ -10,4 +10,4 @@ tags: []
 comments: []
 ---
 
-### [We're still in the process of planning how the interview prep will go, but stay tuned for details. Feel free to [contact us](/contact) if you have any suggestions too. Thanks for your patience!]
+### Interview Prep is happening now! Sign up <a href="https://bit.ly/3meySxp" target="_blank">here</a> to be matched with a mentor to do a *personalized* interview!
