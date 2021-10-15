@@ -101,7 +101,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/robot.png" alt="Vicky" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/vickyfeng.png" alt="Vicky" style="width:100%; height: 320px">
       <div class="officer-container">
         <h2>Vicky Feng '24</h2>
         <p class="title" style="margin-top: -30px; margin-bottom: 20px">COSCON Advisor</p>
@@ -169,7 +169,7 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/robot.png" alt="Chloe" style="width:100%; height: 320px">
+      <img src="/images/officers/2021-2022/chloechen.jpg" alt="Chloe" style="width:100%; height: 320px">
       <div class="officer-container">
         <h4 style="font-size: 25px; margin-top: 16px">Chloe Chen '23</h4>
         <p class="title" style="margin-top: -10px; margin-bottom: 19px">Interview Tutor</p>
