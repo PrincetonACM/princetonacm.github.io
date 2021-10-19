@@ -6860,7 +6860,7 @@ iframe {
     border-bottom: none; } }
 /* CSS for sponsorship banner */
 .sponsorship-banner {
-  height: 670px;
+  height: 850px;
   width: max(100%, 1450px);
   background: #eeeeee;
   float: left; }

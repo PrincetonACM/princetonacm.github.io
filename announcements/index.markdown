@@ -22,6 +22,37 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "coscon-1"></a>
+## **COSCON is back — stake your claim in a prize stash worth over $15K!**
+*October 18, 2021 at 12:30 PM*
+<img src="/images/COSCON_white_background_nomargins.png" style="display: block; margin: auto; padding-bottom: 10px; width: 70%">
+<p>
+<span style="font-size:30px"><strong>What is COSCON?</strong></span><br>
+<span style="font-size:22px"><a href="https://coscon.princeton.edu" target="_blank" data-saferedirecturl="https://coscon.princeton.edu">COSCON</a> is Princeton University's Computer Science Contest!&nbsp;It is designed to get Princeton students of all walks excited and thinking about a variety of topics that arise in computer science.<br>
+Unlike hackathons or your run-of-the-mill programming competitions, our contest won’t solely focus on the “coding” aspect of computer science: some of our problems will require the creative insight of a theoretician, while others may require the guile of a seasoned systems specialist. All you need to be able to do is think!&nbsp;<strong>You don't need to be a computer science major to participate or do well.</strong></span>
+</p>
+
+<a href="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration" style="border-radius:40px;color:#d4414d;font-size:32px;text-align:center;font-family:sans-serif;background:linear-gradient(135deg,#fff5cb,#b6e3d4 50%,#33a7b5);border:.2rem solid currentColor;padding:calc(0.8em - .2rem) calc(1.25em - .2rem);display:block;margin:auto; width: 400px; font-weight: strong" target="_blank" data-saferedirecturl="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration">REGISTER NOW!</a>
+
+<p style="font-weight:normal"><span style="font-size:30px"><strong>When/where is it?</strong></span><br>
+<span style="font-size:22px">It's going to be held on <strong>November&nbsp;6th, 2021</strong> from <strong>12:30&nbsp;PM&nbsp;to 7:30&nbsp;PM ET</strong>. We'll host an intro session at&nbsp;<strong>11:30 AM</strong>&nbsp;the day of in Friend 101, but during the competition, you can work anywhere as the problems will be accessible online!</span><br>
+<span style="font-size:30px"><strong>Why should I participate?</strong></span><br>
+<span style="font-size:22px"><strong><em>Cool challenges. </em></strong>Problems are from many active areas in computer science: data structures and algorithms,&nbsp;machine learning, systems, crypto, complexity theory — you name it, we got it!<br>
+<em><strong>Very exciting <a href="https://coscon.princeton.edu/prizes/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://coscon.princeton.edu/prizes/&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNGY_btxiwq1Eas75nF1996c-Yt-tA">prizes</a>.</strong></em>&nbsp;We're giving away over <span style="color:#e67e22"><strong>$10,000</strong></span> to top teams. First place undergrad team gets&nbsp;<strong><span style="color:#e67e22">$3000</span>&nbsp;</strong>to spend, no questions asked! First place grad team gets&nbsp;<span style="color:#e67e22"><strong>$1500</strong></span>&nbsp;to spend!<br>
+<strong><em>You could attract your future employer.&nbsp;</em></strong>Our contributors (Facebook, IMC Trading, Susquehanna International Group, Bloomberg, and more) want to hire you and will be paying particular attention to the winners of this year's competition! They're always looking to hire smart people...<br>
+<strong><em>A plethora of miscellaneous prizes.&nbsp;</em></strong>Over <span style="color:#e67e22"><strong>$1500</strong></span> worth of&nbsp;<a href="https://coscon.princeton.edu/prizes/#misc-prizes" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://coscon.princeton.edu/prizes/%23misc-prizes&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNECxlS4BgF2wyfyyNtMaTGA1fGksw">special prizes</a> that you can win even if you don't win a placement prize!<br>
+<strong><em>Free food, boba, and swag.</em></strong>&nbsp;You get free boba if you <a href="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://fed.princeton.edu/cas/login?service%3Dhttps://coscon.princeton.edu/registration&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNH2kPGej2V_VJTYiXEDEl1JSYgK0g">REGISTER QUICKLY</a>, and free pizza will be provided for the <em>entire&nbsp;duration of the competition</em> to keep you going!&nbsp;SIG swag will be provided&nbsp;for ALL PARTICIPANTS. Everyone also gets a free COSCON tumbler and sticker!*<br>
+<strong><em>Get some exposure to what's going on in&nbsp;CS. </em></strong>COSCON is an excellent introduction to computer science as a field if you're unsure of it as a major (P.S. we also have a best freshman/sophomore team award).</span><br>
+<span style="font-size:30px"><strong>I'm in — what should I do?</strong></span><br>
+<span style="font-size:22px">Find two teammates (it's also OK if you don't have two) and <a href="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://fed.princeton.edu/cas/login?service%3Dhttps://coscon.princeton.edu/registration&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNH2kPGej2V_VJTYiXEDEl1JSYgK0g">register</a> right now so you get that free boba (first 25 teams).&nbsp;Also check out our <a href="https://coscon.princeton.edu" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://coscon.princeton.edu&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNEMenwdfRpVzsXOUqtmnPoBOnWi7g">website</a>&nbsp;for more information!</span><br>
+<span style="font-size:30px"><strong>I did COSCON last year and it was too hard :(</strong></span><br>
+<span style="font-size:22px">This was almost a universal sentiment.&nbsp;That's why we're allowing teams of size three and giving you a total of seven hours to do the competition. We've also cut back on problems that would've benefitted from knowing niche, field-specific knowledge. We'll also be hosting office hours <em>the entire duration of the competition</em>&nbsp;(12:30 PM-7:30 PM) to give you hints if you get stuck!&nbsp;</span><br>
+<span style="font-size:30px"><strong>How can I learn more?</strong></span><br>
+<span style="font-size:22px">Visit our <a href="https://coscon.princeton.edu" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://coscon.princeton.edu&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNEMenwdfRpVzsXOUqtmnPoBOnWi7g">website</a>&nbsp;and <a href="mailto:ptonacm@princeton.edu" target="_blank">email us</a>&nbsp;if you have any questions!</span><br>
+<span style="font-size:16px">*as long as supplies last</span></p>
+
+---
+
 <a name = "interviews-1"></a>
 ## **Let ACM help you with your tech interview prep!**
 *October 5, 2021 at 12:30 PM*
@@ -39,7 +70,7 @@ You after your mock interview:
 ---
 
 <a name = "robustai"></a>
-## **Robust Intelligence @ Princeton 10/7 - 10/8**
+## **Robust Intelligence @ Princeton 10/7-10/8**
 *September 30, 2021 at 3:30 PM*
 
 *Passing this message on for Jerry Liu '17:*
