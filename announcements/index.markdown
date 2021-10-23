@@ -22,6 +22,20 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "c@n-10-29"></a>
+## **Come learn about the database industry with Yugabyte!**
+*October 22, 2021 at 4:53 PM*
+
+<a href="https://www.yugabyte.com" target="_blank"><img src="/images/logos/yugabyte.svg" style="width: 70%; margin: auto; display: block; padding-top: 15px; padding-bottom: 15px"></a>
+
+Do you find yourself interested in algorithmic challenges, systems, machine learning, and/or cloud computing? Do you want to learn about what it's like to work in the hip, new companies of the **database industry** (#OverthrowOracle)? Are you looking for an **internship or job**? Or do you just like **boba**? If any of the above apply, then you should
+
+<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Join us next Friday (October 29th) at 4:00 PM for a talk on the cool work YugabyteDB does! <a href="https://forms.gle/q8TwfRHhJwdfpYqMA" target="_blank">RSVP HERE</a>
+
+The talk will be virtual (Zoom details will be updated on this post later), with breakout rooms after the talk if you want to chat with engineers or recruiters (hint: this might help your application prospects!). Afterward, **we'll be handing out BOBA in-person for the first thirty people who signed up and attended the talk**. What are you waiting for? Here's the raw RSVP link: <a href="https://forms.gle/DC6veaccRC15LZfZA" target="_blank">https://forms.gle/DC6veaccRC15LZfZA</a>. Hope to see you there!
+
+---
+
 <a name = "coscon-1"></a>
 ## **COSCON is back — stake your claim in a prize stash worth over $15K!**
 *October 18, 2021 at 12:30 PM*
