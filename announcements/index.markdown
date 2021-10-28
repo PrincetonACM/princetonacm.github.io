@@ -34,6 +34,8 @@ Do you find yourself interested in algorithmic challenges, systems, machine lear
 
 The talk will be virtual (Zoom details will be updated on this post later), with breakout rooms after the talk if you want to chat with engineers or recruiters (hint: this might help your application prospects!). Afterward, **we'll be handing out BOBA in-person for the first thirty people who signed up and attended the talk**. What are you waiting for? Here's the raw RSVP link: <a href="https://forms.gle/DC6veaccRC15LZfZA" target="_blank">https://forms.gle/DC6veaccRC15LZfZA</a>. Hope to see you there!
 
+***Tell me more about Yugabyte!*** Yugabyte is a company on a mission to build the default database for cloud-native applications in a multi-cloud world. They're well underway on this journey with YugabyteDB, the open-source, high-performance, distributed SQL database that runs on any cloud and enables developers to get instantly productive using well-known APIs! They're also looking for talented and driven people to join them on their ambitious mission and help them build a lasting and impactful company.  
+
 ---
 
 <a name = "coscon-1"></a>
