@@ -22,6 +22,28 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "alinea"></a>
+## **See what it's like in the tech startup world with Alinea!**
+*November 8th, 2021 at 4:21 PM*
+
+<a href="https://www.yugabyte.com" target="_blank"><img src="/images/logos/alinea_2.png" style="width: 40%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
+
+Maybe you're tired of big tech and want to know what it's like in the startup world. Or maybe you want to found your own startup. Or maybe you just like donuts and the warm fuzzy feeling of sipping hot chocolate while it's sub-freezing outside. If any of these applies to you, then you should 
+
+<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Join us THIS FRIDAY, NOVEMBER 12 from 5:00-5:30 PM in Lewis Library 121 for a talk with the co-CEOs of Alinea! <a href="https://forms.gle/ro3EPDFLMUnTb3ys8" target="_blank">RSVP HERE</a>
+
+Anam and Eve (the co-CEOs) will be talking about what it was like to go from an idea to a minimum viable product (MVP), their experience with Y-Combinator, what software development in the startup world is like, and more! They're also here to answer any of the questions you may have!
+
+***What's Alinea?*** Alinea is a recently founded Fintech looking to capture the wave of Gen-Z investors who are looking to invest in things that matter to them (aka not oil companies). By offering stacks, bundles of stocks based on a theme or strategy — think playlists for investing — users can invest in causes and ideas that are personal to them. Learn more about their founders below:
+
+<img src="/images/announcements/alinea_founders.png" style="width: 50%; margin: auto; display: block; padding-top: 15px; padding-bottom: 15px">
+
+Previously, *Eve Halimi* was working in Strategy at Contentsquare, a growth stage data analytics startup, and held multiple positions in banks and hedge funds. She graduated from Barnard College, Columbia University with a Bachelors in Economics.
+
+Prior to Alinea, *Anam Lakhani* worked at Citigroup as an investment banker in Equity Capital Markets. Anam received her bachelor’s degree from Barnard College of Columbia University in May of 2019, and graduated cum laude with a major in Economics. 
+
+---
+
 <a name = "c@n-10-29"></a>
 ## **Come learn about the database industry with Yugabyte!**
 *October 22, 2021 at 4:53 PM*
@@ -51,7 +73,7 @@ Unlike hackathons or your run-of-the-mill programming competitions, our contest 
 <a href="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration" style="border-radius:40px;color:#d4414d;font-size:32px;text-align:center;font-family:sans-serif;background:linear-gradient(135deg,#fff5cb,#b6e3d4 50%,#33a7b5);border:.2rem solid currentColor;padding:calc(0.8em - .2rem) calc(1.25em - .2rem);display:block;margin:auto; width: 400px; font-weight: strong" target="_blank" data-saferedirecturl="https://fed.princeton.edu/cas/login?service=https://coscon.princeton.edu/registration">REGISTER NOW!</a>
 
 <p style="font-weight:normal"><span style="font-size:30px"><strong>When/where is it?</strong></span><br>
-<span style="font-size:22px">It's going to be held on <strong>November&nbsp;6th, 2021</strong> from <strong>12:30&nbsp;PM&nbsp;to 7:30&nbsp;PM ET</strong>. We'll host an intro session at&nbsp;<strong>11:30 AM</strong>&nbsp;the day of in Friend 101, but during the competition, you can work anywhere as the problems will be accessible online!</span><br>
+<span style="font-size:22px">It's going to be held on <strong>November&nbsp;6th, 2021</strong> from <strong>12:30&nbsp;PM&nbsp;to 7:30&nbsp;PM ET</strong>. We'll host an intro session at&nbsp;<strong>11:30 AM</strong>&nbsp;the day of in McDonnell A02 and the surrounding Brush Gallery, but during the competition, you can work anywhere as the problems will be accessible online!</span><br>
 <span style="font-size:30px"><strong>Why should I participate?</strong></span><br>
 <span style="font-size:22px"><strong><em>Cool challenges. </em></strong>Problems are from many active areas in computer science: data structures and algorithms,&nbsp;machine learning, systems, crypto, complexity theory — you name it, we got it!<br>
 <em><strong>Very exciting <a href="https://coscon.princeton.edu/prizes/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://coscon.princeton.edu/prizes/&amp;source=gmail&amp;ust=1634704165442000&amp;usg=AFQjCNGY_btxiwq1Eas75nF1996c-Yt-tA">prizes</a>.</strong></em>&nbsp;We're giving away over <span style="color:#e67e22"><strong>$10,000</strong></span> to top teams. First place undergrad team gets&nbsp;<strong><span style="color:#e67e22">$3000</span>&nbsp;</strong>to spend, no questions asked! First place grad team gets&nbsp;<span style="color:#e67e22"><strong>$1500</strong></span>&nbsp;to spend!<br>
