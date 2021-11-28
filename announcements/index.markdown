@@ -22,15 +22,33 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "omc-talk"></a>
+## **Come learn C++ with Old Mission Capital!**
+*November 14th, 2021 at 8:21 PM*
+
+<a href="https://www.oldmissioncapital.com" target="_blank"><img src="/images/announcements/omc_office.png" style="width: 80%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
+
+Are you interested in picking up a language that is used by over 6 million developers and is deployed ubiquitously in computer systems, high-frequency trading, game development, IoT devices, and more? Or have you ever wondered if COS 217, or systems programming in general, could be interesting? Then you should
+
+<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Join us THIS FRIDAY, NOVEMBER 19 at 8:00 PM in Lewis Library 138 for a Systems Intro to C++ with Andrew Wonnacott '19! <a href="https://forms.gle/FEzCdKi9L47qJnq9A" target="_blank">RSVP HERE</a></span>
+
+<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Food from Local Greek and Old Mission Capital swag will be provided!</span>
+
+Former Princeton ACM Vice President Andrew Wonnacott (currently at Old Mission Capital, ex-Hudson River Trading/DE Shaw) will introduce systems programming with C++. Andrew will demonstrate how C++ allows software engineers to build large-scale systems without the mental overhead of C-style memory management or the performance overhead of Java garbage collection. Andrew will assume familiarity with Java, but C experience is strictly not required! Afterward, we'll have time to socialize, eat, talk about COSCON, and more, like any Code@Night!
+
+Read more about Old Mission Capital <a href="https://oldmissioncapital.com" target="_blank">here</a>. Hope to see you there!
+
+---
+
 <a name = "alinea"></a>
 ## **See what it's like in the tech startup world with Alinea!**
 *November 8th, 2021 at 4:21 PM*
 
-<a href="https://www.yugabyte.com" target="_blank"><img src="/images/logos/alinea_2.png" style="width: 40%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
+<a href="https://alinea-invest.com" target="_blank"><img src="/images/logos/alinea_2.png" style="width: 40%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
 
 Maybe you're tired of big tech and want to know what it's like in the startup world. Or maybe you want to found your own startup. Or maybe you just like donuts and the warm fuzzy feeling of sipping hot chocolate while it's sub-freezing outside. If any of these applies to you, then you should 
 
-<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Join us THIS FRIDAY, NOVEMBER 12 from 5:00-5:30 PM in Lewis Library 121 for a talk with the co-CEOs of Alinea! <a href="https://forms.gle/ro3EPDFLMUnTb3ys8" target="_blank">RSVP HERE</a>
+<span style="font-size: 32px; text-align: center; font-weight: strong; color: #f58025">Join us THIS FRIDAY, NOVEMBER 12 from 5:00-5:30 PM in Lewis Library 120 for a talk with the co-CEOs of Alinea! <a href="https://forms.gle/ro3EPDFLMUnTb3ys8" target="_blank">RSVP HERE</a>
 
 Anam and Eve (the co-CEOs) will be talking about what it was like to go from an idea to a minimum viable product (MVP), their experience with Y-Combinator, what software development in the startup world is like, and more! They're also here to answer any of the questions you may have!
 
