@@ -22,6 +22,47 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "c1-spring"></a>
+## **Announcement on Correlation One's Spring Competitions!**
+*February 21st, 2022 at 5:30 PM*
+
+This spring, we’re inviting you to compete in the East Coast Terminal and the East Coast Regional Datathon. This is a great learning opportunity for those who are interested in coding/data science and want to showcase their skills in a team-based setting. 
+
+Apply NOW to either of these competitions or both and win a chance at **$15k** & recruiting opportunities at Citadel!  
+
+Find more event details below, and feel free to email <a href="mailto:yusra@correlationone.com" target="_blank">yusra@correlationone.com</a> if you have any questions. We look forward to reviewing your application! **Deadline: February 24th at 5PM EST** 
+  
+:video_game: :joystick: <span style="color: #8DD8FF; font-size: 28px">East Coast Terminal (coding focused)</span> :video_game: :joystick:
+
+**When**:  February 28th - March 7th (flexible structure)
+
+**Where**: Virtual
+
+**Prizes**:  $15,000 + Exclusive recruiting opportunities with Citadel LLC and Citadel Securities 
+
+**Who**:  Undergraduates, graduates, Ph.D., and post-doc researchers
+
+Terminal is a one of a kind games-based AI challenge, where players code strategies to automate gameplay, battling team vs team for prize money and job opportunities. For more information,  check out this brief clip to see Terminal in action!
+
+<span style="color: #8DD8FF; font-size: 28px"><a href="https://terminal.c1games.com/east" target="_blank">Here's the link to sign up!</a></span>
+
+
+:bar_chart: :computer: <span style="color: #f58025; font-size: 28px">East Coast Regional Datathon (data science focused)</span> :bar_chart: :computer:
+
+**When**:  March 21st to 28th (flexible structure)
+
+**Where**: Virtual
+
+**Prizes**:  $15,000 + Exclusive recruiting opportunities with Citadel LLC and Citadel Securities 
+
+**Who**:  Undergraduates, graduates, Ph.D., and post-doc researchers
+
+Datathons are world premier data science competitions, bringing students to work on challenging problems with real-world data in a team-based setting.
+
+<span style="color: #f58025; font-size: 28px"><a href="https://www.citadel.com/careers/the-data-open/apply/?apply_to=east-coast-regional-datathon-3" target="_blank">Here's the link to sign up!</a></span>
+
+---
+
 <a name = "omc-talk"></a>
 ## **Come learn C++ with Old Mission Capital!**
 *November 14th, 2021 at 8:21 PM*
