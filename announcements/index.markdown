@@ -22,6 +22,20 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "icpc-1"></a>
+## **ICPC Practice Materials**
+*February 25th, 2022 at 8:28 PM*
+
+<a href="https://icpc.global" target="_blank"><img src="/images/icpc.png" style="width: 70%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
+
+Thanks to all that came for today's ICPC practice! The materials that we went over, including code solutions to every problem we did, can be found <a href="https://drive.google.com/drive/folders/1EGAn_o8Xa3rSHta7vzYPrJzwRU56JHwL?usp=sharing" target="_blank">here</a>.
+
+Remember that the last day to register is February 28th. You'll have to fill out <a href="https://forms.gle/FWg1yVvc7ArFSsLf8" target="_blank">this form</a> and also create an account on <a href="https://icpc.global" target="_blank">icpc.global</a> for each participating teammate. (We have a couple of teams that might need an extra teammate...)
+
+Reach out with any questions, and good luck with midterms! You got this!
+
+---
+
 <a name = "c1-spring"></a>
 ## **Announcement on Correlation One's Spring Competitions!**
 *February 21st, 2022 at 5:30 PM*
