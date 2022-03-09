@@ -22,6 +22,50 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "elections-22"></a>
+## **ACM Officer Elections for the 2022-2023 Year**
+*March 9, 2022 at 2:28 PM*
+
+ACM officers have the unique opportunity to influence, lead and represent Princeton University's computer science club — so if you enjoyed events that we held in the past two semesters or are eager to implement your own ideas to better the COS community, you should consider joining the board the next year! 
+
+<span style="color: #f58025; font-size: 28px"><strong>Here is <a href="https://forms.gle/gdTUGVRGnGm3udTx9" target="_blank">the form</a> to declare your candidacy. The deadline to fill it out is 3/26/2022, and elections will be held on 3/31/2022 <em>in person</em>.</strong></span>
+
+***Candidate Eligibility.*** With the exception of the graduate liaison (who must be a grad student) and the competitions chair (who can be a grad or an undergrad), all candidates must be undergraduates graduating in 2023 or later. You also must have attended <u>at least two ACM events or have spent more than 5 hours at one ACM event</u> within the past two semesters: COSCON, ICPC, Code@Nights, Socials, and Mock Interviews all count!
+
+***Voting Eligibility.*** You can vote if you've attended <u>at least one ACM event</u> in the past two semesters.
+
+***Open Positions and Responsibilities.***
+
+***Chair (President).*** Head of the club, responsible for organizing meetings/events, and charting the course for ACM. In the past, the chair has also taken a very active role in organizing COSCON, though they may choose to bring on another team to help out. Also partially responsible for developing a financial plan for the coming year.
+
+***Vice-Chair (Vice President).*** Aids the chair in distributing/completing tasks and in logistical-related work. 
+
+***Secretary-Treasurer.*** Manage the budget and oversee fundraising. *This is a very important position!* 
+
+***Competitions Chair.*** Run ICPC (both the competition itself and practices for it) and help organize COSCON.
+
+***Careers Chair.*** Manage relationships with outside companies, and work with the Workshops Chair to organize Code@Nights that further members' career prospects.
+
+***Workshops Chair.*** Coordinate workshops for Code@Nights and other events. *We'd love to engage more with the academia side of computer science this coming year!*
+
+***Tech Chair.*** Maintain the website and aid in sending out publicity.
+
+***Graduate Liaison.*** A new position that we're including so we can better connect with our Graduate community!
+
+<span style="color: #f58025; font-size: 28px"><strong>Frequently Asked Questions</strong></span>
+
+***Do I have to show up in person to the elections if I'm running?*** Yes. Exceptions will only be made in extraordinary extenuating circumstances. 
+
+***Do I have to show up in person to the elections if I'm just voting?*** Again, yes. Exceptions will be made more generously, though: email <a href="mailto:ptonacm@princeton.edu" target="_blank">ptonacm@princeton.edu</a> if this applies to you.
+
+***How are winners decided?*** If there are only two candidates for a position, the candidate receiving a majority of the votes wins. Otherwise, there will be a primary election: if a candidate receives a majority of the votes, they win; otherwise, the top two primary finishers will be sent to a runoff.
+
+***Do I have to give a speech to run?*** Not required, but you're more than welcome to! We highly recommend that you submit a candidate statement (50-300 words) on the application though.
+
+***What is ACM's financial situation like?*** Very good. There are plenty of funds to support whatever ideas you may have. (Of course, this doesn't mean that the next board won't have to fundraise.) You can contact Nalin (nranjan@) if you want to know more for some reason.
+
+---
+
 <a name = "icpc-1"></a>
 ## **ICPC Practice Materials**
 *February 25th, 2022 at 8:28 PM*
