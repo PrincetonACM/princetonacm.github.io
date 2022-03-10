@@ -22,6 +22,26 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "meta-1"></a>
+## **Interview Prep and Advising with Meta!**
+*March 10, 2022 at 1:32 PM*
+
+<a href="https://metacareers.com" target="_blank"><img src="/images/logos/cool_meta.png" style="width: 70%; margin: auto; display: block; padding-top: -25px; padding-bottom: -25px"></a>
+
+Still looking to sharpen your interviewing skills? Want to get the insider scoop on Big Tech hiring, or what life is like at Meta? Or maybe you just like free boba? If any of the above applies to you, then you should
+
+<span style="color: #2D6DFF; font-size: 24px">Join us for a virtual interview prep/advising session with Meta engineer Blake Dixon! <a href="https://forms.gle/78giahfSvPS4TnEEA" target="_blank">RSVP here</a></span>
+
+<span style="color: #2D6DFF; font-size: 24px">When: March 16, 2022, at 5:00 PM EDT</span>
+
+<span style="color: #2D6DFF; font-size: 24px">Where: Virtual at <a href="https://bit.ly/acm_meta_316" target="_blank">this link</a> (<a href="https://bit.ly/acm_meta_316" target="_blank">bit.ly/acm_meta_316</a>)</span>
+
+Engineer Blake Dixon will be going over a couple of practice technical problems, explain how to approach behavioral interviews, and give some general advice about how to maximize your chances of scoring a job with Meta. Blake will also stick around for a little bit if you have any questions. ***<a href="https://forms.gle/78giahfSvPS4TnEEA" target="_blank">RSVP</a> soon — the first 20 people to RSVP will also get boba from Kung Fu Tea after the event!***
+
+Hope to see you there!
+
+---
+
 <a name = "elections-22"></a>
 ## **ACM Officer Elections for the 2022-2023 Year**
 *March 9, 2022 at 2:28 PM*
