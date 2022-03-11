@@ -32,9 +32,9 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
         <a class="option" style="--optionBackground:url(/images/COSCON_dark_background.png); background-position: 20px 15px" data="/announcements#coscon-writing-1">
             <div class="shadow"></div>
             <div class="label">
-                <div class="icon">
+                <!-- <div class="icon">
                     <i class="fa fa-exclamation-circle"></i>
-                </div>
+                </div> -->
                 <div class="info">
                     <div class="main"><h2 style="color: white; font-weight: bold">Write Problems for COSCON</h2></div>
                 </div>
@@ -76,9 +76,9 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
         <a class="option" style="--optionBackground:url(/images/18-19-officers.jpg);" data="/officers">
             <div class="shadow"></div>
             <div class="label">
-                <!-- <div class="icon">
+                <div class="icon">
                     <i class="fas fa-walking"></i>
-                </div> -->
+                </div>
                 <div class="info">
                     <div class="main"><h2 style="color: white; font-weight: bold">Join the Board</h2></div>
                 </div>
@@ -100,9 +100,9 @@ We'd love to plan some amazing events with you! See below for some ideas — you
     <a class="option active" style="--optionBackground:url(/images/COSCON_white_background.png); background-size: 520px 330px" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
         <div class="shadow"></div>
         <div class="label">
-            <div class="icon">
+            <!-- <div class="icon">
                 <i class="fas fa-exclamation-circle"></i>
-            </div>
+            </div> -->
             <div class="info">
                 <div class="main"><h2 style="color: white; font-weight: bold">Connect at/Support COSCON</h2></div>
             </div>
@@ -133,9 +133,9 @@ We'd love to plan some amazing events with you! See below for some ideas — you
     <a class="option" style="--optionBackground:url(/images/nyc.jpg); background-size: 590px 420px;" data="/sponsors/sponsor_info#hq">
         <div class="shadow"></div>
         <div class="label">
-            <div class="icon">
+            <!-- <div class="icon">
                 <i class="fas fa-exclamation-circle"></i>
-            </div>
+            </div> -->
             <div class="info">
                 <div class="main"><h2 style="color: white; font-weight: bold">Organize an HQ Tour</h2></div>
             </div>
