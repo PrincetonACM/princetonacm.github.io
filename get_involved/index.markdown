@@ -77,7 +77,7 @@ The first step is to become a member by filling out <a href="https://forms.gle/7
             <div class="shadow"></div>
             <div class="label">
                 <div class="icon">
-                    <i class="fas fa-walking"></i>
+                    <i class="fas fa-exclamation-circle"></i>
                 </div>
                 <div class="info">
                     <div class="main"><h2 style="color: white; font-weight: bold">Join the Board</h2></div>
