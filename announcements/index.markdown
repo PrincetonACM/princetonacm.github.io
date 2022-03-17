@@ -22,6 +22,20 @@ Announcement details
 
 {% endcomment %}
 
+<a name = "meta-2"></a>
+## **Interview Prep Debrief + Chill Q&A with Meta Engineers**
+*March 16, 2022 at 11:32 PM*
+
+Thanks so much to all that came to our interview prep event with Meta! I hope you all found it helpful and insightful. A couple of things:
+
+- Princeton's Meta recruiter has offered to share her emails with Princeton students. Reach out to <a href="mailto:ptonacm@princeton.edu" target="_blank">ptonacm@princeton.edu</a> if you'd like to contact her. If you do, please keep general email courtesy in mind.
+- For those who couldn't attend, we were able to take some notes of what was said. They can be accessed <a href="https://docs.google.com/document/d/1NjcfDrRiKY7oNfBdjTT530Bf2KjRfUjPSaWb0Ysuui0/edit" target="_blank">here</a>. Unfortunately, they refused to record the event or share their slides.
+- As a follow-up, we'll be having a chill Q&A session with some Meta Engineers on 3/23! Come with any questions about the recruiting process, what it's like to work at Meta, which offices are the best, the food at the Meta cafeteria, etc. Anything is fair game! <span style="color: #2D6DFF; font-size: 30px"><a href="https://forms.gle/yHbv2w4zcTrYVGxU7" target="_blank">RSVP HERE</a></span> ***Note: Even if you can't make it, you can submit questions via the RSVP form, and we'll try to ask them and write any answers down.***
+
+Have a great rest of your week, and don't hesitate to reach out if you have any questions!
+
+---
+
 <a name = "meta-1"></a>
 ## **Interview Prep and Advising with Meta!**
 *March 10, 2022 at 1:32 PM*
