@@ -214,7 +214,7 @@ The talk will be virtual (Zoom details will be updated on this post later), with
 <a name = "coscon-1"></a>
 ## **COSCON is back — stake your claim in a prize stash worth over $15K!**
 *October 18, 2021 at 12:30 PM*
-<img src="/images/COSCON_white_background_nomargins.png" style="display: block; margin: auto; padding-bottom: 10px; width: 70%">
+<img src="/images/COSCON_white_background_nomargins_with_chapter.png" style="display: block; margin: auto; padding-bottom: 10px; width: 70%">
 <p>
 <span style="font-size:30px"><strong>What is COSCON?</strong></span><br>
 <span style="font-size:22px"><a href="https://coscon.princeton.edu" target="_blank" data-saferedirecturl="https://coscon.princeton.edu">COSCON</a> is Princeton University's Computer Science Contest!&nbsp;It is designed to get Princeton students of all walks excited and thinking about a variety of topics that arise in computer science.<br>
@@ -479,7 +479,7 @@ Let ACM help you find jobs! Submit your resume <a href="https://forms.gle/3B4YY1
 ## **Join the COSCON Problem Writing Team!**
 *July 31, 2021 at 2:19 PM*
 
-<img src="/images/COSCON_white_background_nomargins.png" style="display: block; margin: auto; padding-bottom: 30px; width: 60%">
+<img src="/images/COSCON_white_background_nomargins_with_chapter.png" style="display: block; margin: auto; padding-bottom: 30px; width: 60%">
 
 That's right, COSCON is making a bigger and badder comeback later this fall, with more prizes, more opportunities to meet new people, and yes, more food. But we need your help! Judging from the feedback we received last year, some of the problems were too difficult and a little inaccessible, so we are opening up problem writing this year to anyone with an idea! If you're interested, please fill out <a href="https://forms.gle/ZjzKZds7mxNYSCSQ9" target="_blank">this form</a>. Filling out the form doesn't oblige you to write a problem, so fill it out even if you're slightly interested!
 

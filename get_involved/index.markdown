@@ -97,7 +97,7 @@ We'd love to plan some amazing events with you! See below for some ideas — you
 
 <div class="accordion-gallery" style="margin-left: 80px">
     <div class="options org-gallery">
-    <a class="option active" style="--optionBackground:url(/images/COSCON_white_background.png); background-size: 520px 330px" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
+    <a class="option active" style="--optionBackground:url(/images/COSCON_white_background_with_chapter.png); background-size: 520px 330px" href="/events/coscon#sponsor" data="/events/coscon#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <!-- <div class="icon">
@@ -108,7 +108,7 @@ We'd love to plan some amazing events with you! See below for some ideas — you
             </div>
         </div>
     </a>
-    <a class="option" style="--optionBackground:url(/images/code-at-night_logo_dark.png); background-size: contain" data="/events/code-at-night#sponsor">
+    <a class="option" style="--optionBackground:url(/images/code-at-night_logo_dark_with_chapter.png); background-size: contain" data="/events/code-at-night#sponsor">
         <div class="shadow"></div>
         <div class="label">
             <div class="icon">
