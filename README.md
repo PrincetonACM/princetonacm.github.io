@@ -1,6 +1,6 @@
 # princetonacm.github.io
 
-The official website for the Princeton University student chapter of the Association for Computing Machinery.
+The official website for the Princeton University student chapter of the Association for Computing Machinery. The website can be found at [princeton.acm.org](https://princeton.acm.org).
 
 To build the new version of your website, first make sure you have Ruby, Rake (`gem install rake`), and Bundler
 (`gem install bundler`) installed. Then do the following:
