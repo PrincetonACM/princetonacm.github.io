@@ -18,81 +18,91 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 
 <div class="grid officer-grid pt-lg-3">
 <div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
-  <div class="col-lg-4">
+  <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/nalinranjan.png" alt="Nalin" style="width:100%; height: 350px">
+      <img src="/images/officers/2022-2023/frederickqiu.jpg" alt="Frederick" style="width:100%; height: 350px">
       <div class="officer-container">
-        <h2>Nalin Ranjan '22</h2>
+        <h2> Frederick Qiu '24</h2>
         <p class="title" style="margin-top: -30px; margin-bottom: 30px">Chair</p>
-        <p><button class="button"><a href="mailto: nranjan@princeton.edu" class="color-white">Contact</a></button></p>
+        <p><button class="button"><a href="mailto: fqiu@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
 
-  <div class="col-lg-4">
+  <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/howardyen.jpg" alt="Howard" style="width:100%; height: 350px">
+      <img src="/images/officers/2022-2023/ruijiefang.png" alt="Ruijie" style="width:100%; height: 350px">
       <div class="officer-container">
-        <h2>Howard Yen '23</h2>
+        <h2>Ruijie Fang '23</h2>
         <p class="title" style="margin-top: -30px; margin-bottom: 30px">Vice Chair</p>
-        <p><button class="button"><a href="mailto: hyen@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4">
-    <div class="card">
-      <img src="/images/officers/2021-2022/sacheth.jpg" alt="Sacheth" style="width:100%; height: 350px">
-      <div class="officer-container">
-        <h4 style="margin-top: 18px">Sacheth Sathyanarayanan '22</h4>
-        <p class="title" style="margin-top: -10px; margin-bottom: 33px;">Advisor and Treasurer</p>
-        <p><button class="button"><a href="mailto: sacheths@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/henrytang.jpg" alt="Henry" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h2>Henry Tang '23</h2>
-        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Competitions Chair</p>
-        <p><button class="button"><a href="mailto: hrtang@princeton.edu" class="color-white">Contact</a></button></p>
+        <p><button class="button"><a href="mailto: ruijief@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
 
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/michaeltang.jpg" alt="Michael" style="width:100%; height: 320px">
+      <img src="/images/officers/2022-2023/hassanabioye.jpg" alt="Hassan" style="width:100%; height: 350px">
+      <div class="officer-container">
+        <h4 style="margin-top: 18px">Hassan Abioye '23</h4>
+        <p class="title" style="margin-top: -10px; margin-bottom: 33px;">Tech Chair</p>
+        <p><button class="button"><a href="mailto: habioye@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3">
+    <div class="card">
+      <img src="/images/officers/2022-2023/michaeltang.jpg" alt="Michael" style="width:100%; height: 320px">
       <div class="officer-container">
         <h2>Michael Tang '24</h2>
-        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Outreach Chair</p>
+        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Treasurer</p>
         <p><button class="button"><a href="mailto: mwtang@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
 
+</div>
+
+<div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/austenmazenko.jpg" alt="Austen" style="width:100%; height: 320px">
+      <img src="/images/officers/2022-2023/aryamaheshwari.png" alt="Arya" style="width:100%; height: 320px">
       <div class="officer-container">
-        <h4 style="font-size: 22px; margin-top: 16px">Austen Mazenko '24</h4>
+        <h2>Arya Maheshwari '23</h2>
+        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Competitions Chair</p>
+        <p><button class="button"><a href="mailto: arya@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-3">
+    <div class="card">
+      <img src="/images/officers/2022-2023/aatmikgupta.jpg" alt="Aatmik" style="width:100%; height: 320px">
+      <div class="officer-container">
+        <h4 style="font-size: 22px; margin-top: 16px">Aatmik Gupta '24</h4>
         <p class="title" style="margin-top: -10px; margin-bottom: 22px">Careers Chair</p>
-        <p><button class="button"><a href="mailto: amazenko@princeton.edu" class="color-white">Contact</a></button></p>
+        <p><button class="button"><a href="mailto: aatmikg@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
   
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/dangelycanabal.jpeg" alt="Dangely" style="width:100%; height: 320px">
+      <img src="/images/officers/2022-2023/sacheth.jpg" alt="Sacheth" style="width:100%; height: 320px">
       <div class="officer-container">
-        <h4 style="font-size: 22px; margin-top: 16px">Dangely Canabal '23</h4>
-        <p class="title" style="margin-top: -9px; margin-bottom: 20px">Tech/Design Chair</p>
-        <p><button class="button"><a href="mailto: dcanabal@princeton.edu" class="color-white">Contact</a></button></p>
+        <h4 style="font-size: 22px; margin-top: 16px">Sacheth Sathyanarayanan '22</h4>
+        <p class="title" style="margin-top: -9px; margin-bottom: 20px">Board Member</p>
+        <p><button class="button"><a href="mailto: sacheths@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3">
+    <div class="card">
+      <img src="/images/officers/2022-2023/henrytang.jpg" alt="Henry" style="width:100%; height: 320px">
+      <div class="officer-container">
+        <h2>Henry Tang '23</h2>
+        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Board Member</p>
+        <p><button class="button"><a href="mailto: hrtang@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
@@ -101,79 +111,33 @@ ACM is fundamentally run by its members, as detailed in our [constitution](/abou
 <div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/vickyfeng.png" alt="Vicky" style="width:100%; height: 320px">
+      <img src="/images/officers/2022-2023/adityagollapudi.jpg" alt="Aditya" style="width:100%; height: 320px">
       <div class="officer-container">
-        <h2>Vicky Feng '24</h2>
-        <p class="title" style="margin-top: -30px; margin-bottom: 20px">COSCON Advisor</p>
-        <p><button class="button"><a href="mailto: vyfeng@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/younghayoo.jpg" alt="Young Ha" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h4 style="font-size: 25px; margin-top: 16px">Young Ha Yoo '24</h4>
-        <p class="title" style="margin-top: -10px; margin-bottom: 19px">Career/Course Mentor</p>
-        <p><button class="button"><a href="mailto: yyoo@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/adityagollapudi.jpg" alt="Aditya" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h4 style="font-size: 23px; margin-top: 16px">Aditya Gollapudi '23</h4>
-        <p class="title" style="margin-top: -10px; margin-bottom: 22px">Career/Course Mentor</p>
+        <h4 style="font-size: 25px; margin-top: 16px">Aditya Gollapudi '23</h4>
+        <p class="title" style="margin-top: -10px; margin-bottom: 19px">Board Member</p>
         <p><button class="button"><a href="mailto: adityakg@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
+
+  <div class="col-lg-3">
+    <div class="card">
+      <img src="/images/officers/2022-2023/vaibhavmehta.png" alt="Vaibhav" style="width:100%; height: 320px">
+      <div class="officer-container">
+        <h4 style="font-size: 23px; margin-top: 16px">Vaibhav Mehta '23</h4>
+        <p class="title" style="margin-top: -10px; margin-bottom: 22px">Board Member</p>
+        <p><button class="button"><a href="mailto: vaibhavm@princeton.edu" class="color-white">Contact</a></button></p>
+      </div>
+    </div>
+  </div>
   
   <div class="col-lg-3">
     <div class="card">
-      <img src="/images/officers/2021-2022/haoyuanhe.jpg" alt="Haoyuan" style="width:100%; height: 320px">
+      <img src="/images/officers/2022-2023/younghayoo.jpg" alt="Young Ha" style="width:100%; height: 320px">
       <div class="officer-container">
-        <h4 style="font-size: 24px; margin-top: 15px">Haoyuan He '22</h4>
-        <p class="title" style="margin-top: -9px; margin-bottom: 20px">Career/Course Mentor</p>
-        <p><button class="button"><a href="mailto: haoyuanh@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row" style="flex-wrap: nowrap; margin-bottom: 30px">
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/hollisma.jpg" alt="Hollis" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h2>Hollis Ma '22</h2>
-        <p class="title" style="margin-top: -30px; margin-bottom: 20px">Interview Tutor</p>
-        <p><button class="button"><a href="mailto: hollism@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/hannahhuh.jpg" alt="Hannah" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h4 style="font-size: 25px; margin-top: 16px">Hannah Huh '22</h4>
-        <p class="title" style="margin-top: -10px; margin-bottom: 19px">Interview Tutor</p>
-        <p><button class="button"><a href="mailto: hannahh@princeton.edu" class="color-white">Contact</a></button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="card">
-      <img src="/images/officers/2021-2022/chloechen.jpg" alt="Chloe" style="width:100%; height: 320px">
-      <div class="officer-container">
-        <h4 style="font-size: 25px; margin-top: 16px">Chloe Chen '23</h4>
-        <p class="title" style="margin-top: -10px; margin-bottom: 19px">Interview Tutor</p>
-        <p><button class="button"><a href="mailto: cc68@princeton.edu" class="color-white">Contact</a></button></p>
+        <h4 style="font-size: 24px; margin-top: 15px">Young Ha Yoo '24</h4>
+        <p class="title" style="margin-top: -9px; margin-bottom: 20px">Board Member</p>
+        <p><button class="button"><a href="mailto: yyoo@princeton.edu" class="color-white">Contact</a></button></p>
       </div>
     </div>
   </div>
