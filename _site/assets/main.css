@@ -6945,8 +6945,8 @@ iframe {
   .site-nav .caret {
     opacity: 0.2; }
   .site-nav .brand {
-    padding-left: calc(var(--default-left-padding) - 65px);
-    padding-right: 290px;
+    padding-left: calc(var(--default-left-padding) - 95px);
+    padding-right: 90px;
     display: inline-block; }
   .site-nav .brand img {
     width: 62px;
@@ -6958,7 +6958,7 @@ iframe {
     padding: 1.4% 0 0; }
   .site-nav #cssmenu {
     display: inline-block;
-    width: 870px; }
+    width: 1370px; }
   .site-nav #navigation {
     padding-right: 0;
     position: relative;
