@@ -7400,6 +7400,9 @@ article {
     article .meta a {
       border: 0;
       color: #848484; }
+  article img {
+    max-width: 100%;
+    margin: 1em 0; }
   article .title {
     margin: 0.2em 0; }
     article .title a {
@@ -8380,6 +8383,20 @@ time.icon span {
 @media (min-width: 991px) {
   .events-section .left-right-arrows {
     bottom: 0px; } }
+.officer-image {
+  width: 100%;
+  border-radius: 32px;
+  margin-bottom: 8px; }
+
+.officer-name {
+  margin: 0;
+  font-size: x-large;
+  font-weight: bold; }
+
+.officer-info {
+  margin: 0;
+  font-size: large; }
+
 .officer-grid {
   text-align: left !important;
   /* Display the columns below each other instead of side by side on small screens */
@@ -8392,17 +8409,6 @@ time.icon span {
     .officer-grid .column {
       width: 100%;
       display: block; } }
-  .officer-grid .officer-image {
-    width: 100%;
-    border-radius: 32px;
-    margin-bottom: 8px; }
-  .officer-grid .officer-name {
-    margin: 0;
-    font-size: x-large;
-    font-weight: bold; }
-  .officer-grid .officer-info {
-    margin: 0;
-    font-size: large; }
   .officer-grid .container::after, .officer-grid .row::after {
     content: "";
     clear: both;

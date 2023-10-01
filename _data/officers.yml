@@ -1,0 +1,88 @@
+- netid: am6723
+  name: Arya Maheshwari
+  year: 2025
+  major: COS
+  position: Chair
+  links: []
+
+- netid: mtouil
+  name: Amir Touil
+  year: 2024
+  major: COS
+  position: Treasurer
+  links:
+    - url: https://matouil.me
+      type: portfolio
+
+- netid: cy7466
+  name: Charles Yu
+  year: 2026
+  major: MAT
+  position: Workshop Chair
+  links: []
+
+- netid: mtsahas
+  name: Mary Tsahas
+  year: 2024
+  major: COS
+  position: Outreach Chair
+  links:
+    - url: https://mtsahas.github.io/portfolio
+      type: portfolio
+
+- netid: arthurts
+  name: Arti Schmidt
+  year: 2024
+  major: COS
+  position: Tech Chair
+  links:
+    - url: https://aschmidt.me
+      type: portfolio
+
+- netid: avg3
+  name: Xander Gardner
+  year: 2024
+  major: ORF
+  position: Competition Chair
+  links:
+    - url: https://github.com/XanderGardner
+      type: github
+
+- netid: in5787
+  name: Ijay Narang
+  year: 2025
+  major: COS
+  position: Competition Chair
+  links: []
+
+- netid: dy5251
+  name: Daniel Yang
+  year: 2026
+  major: COS
+  position: Competition Chair
+  links: []
+
+- netid: ds6237
+  name: Devan Shah
+  year: 2026
+  major: COS
+  position: Competition Chair
+  links:
+    - url: https://github.com/devs-cs
+      type: github
+
+- netid: pm2751
+  name: Pranav Mathur
+  year: 2026
+  major: ECE
+  position: Competition Chair
+  links: []
+
+- netid: aning
+  name: August Ning
+  year: Grad
+  major: ECE
+  position: Grad Liaison
+  links:
+    - url: https://augustning.com
+      type: portfolio
