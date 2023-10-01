@@ -6849,12 +6849,6 @@ iframe {
   margin: 0 auto;
   display: block; }
 
-.officer-image {
-  max-width: 50%;
-  margin: 0 auto;
-  display: block;
-  padding-top: 3%; }
-
 @media (max-width: 991px) {
   .announcements h2 {
     border-bottom: none; } }
@@ -7406,9 +7400,6 @@ article {
     article .meta a {
       border: 0;
       color: #848484; }
-  article img {
-    max-width: 100%;
-    margin: 1em 0; }
   article .title {
     margin: 0.2em 0; }
     article .title a {
@@ -8401,12 +8392,17 @@ time.icon span {
     .officer-grid .column {
       width: 100%;
       display: block; } }
-  .officer-grid .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); }
-    .officer-grid .card img {
-      margin: 0; }
-  .officer-grid .officer-container {
-    padding: 0 16px; }
+  .officer-grid .officer-image {
+    width: 100%;
+    border-radius: 32px;
+    margin-bottom: 8px; }
+  .officer-grid .officer-name {
+    margin: 0;
+    font-size: x-large;
+    font-weight: bold; }
+  .officer-grid .officer-info {
+    margin: 0;
+    font-size: large; }
   .officer-grid .container::after, .officer-grid .row::after {
     content: "";
     clear: both;

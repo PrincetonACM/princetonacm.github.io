@@ -323,16 +323,29 @@ time.icon span
 
 /* Add some shadows to create a card effect */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  // border: 1px solid red;
+}
 
-  img {
-    margin: 0;
-  }
+.officer-image {
+  width: 100%;
+  border-radius: 32px;
+  margin-bottom: 8px;
+}
+
+.officer-name {
+  margin: 0;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.officer-info {
+  margin: 0;
+  font-size: large;
 }
 
 /* Some left and right padding inside the container */
 .officer-container {
-  padding: 0 16px;
+  // padding: 0 16px;
 }
 
 /* Clear floats */
