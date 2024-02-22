@@ -6854,7 +6854,7 @@ iframe {
     border-bottom: none; } }
 /* CSS for sponsorship banner */
 .sponsorship-banner {
-  height: 1000px;
+  height: 1250px;
   width: max(100%, 1450px);
   background: #eeeeee;
   float: left; }
