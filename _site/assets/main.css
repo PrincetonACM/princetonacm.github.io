@@ -6854,7 +6854,7 @@ iframe {
     border-bottom: none; } }
 /* CSS for sponsorship banner */
 .sponsorship-banner {
-  height: 1250px;
+  height: 550px;
   width: max(100%, 1450px);
   background: #eeeeee;
   float: left; }
@@ -6864,6 +6864,16 @@ iframe {
 
 .no-justify {
   text-align: left; }
+
+.sponsor-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px; }
+
+.sponsor-logos img {
+  max-width: 200px;
+  max-height: 100px; }
 
 /* Image Slideshows */
 .mySlides {
