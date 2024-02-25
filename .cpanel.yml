@@ -8,7 +8,7 @@ deployment:
     - /bin/cp -R _site/announcements $DEPLOYPATH
     - /bin/cp -R _site/events $DEPLOYPATH
     - /bin/cp -R _site/images $DEPLOYPATH
-    - /bin/cp -R _site/sponsors $DEPLOYPATH
+    - /bin/cp -R _site/contributors $DEPLOYPATH
     - /bin/cp -R _site/contact $DEPLOYPATH
     - /bin/cp -R _site/officers $DEPLOYPATH
     - /bin/cp -R _site/assets $DEPLOYPATH
