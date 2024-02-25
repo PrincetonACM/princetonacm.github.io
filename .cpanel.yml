@@ -1,0 +1,15 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/princetonhosting/public_html/
+    - /bin/cp _site/index.html $DEPLOYPATH
+    - /bin/cp -R _site/about $DEPLOYPATH
+    - /bin/cp -R _site/get_involved $DEPLOYPATH
+    - /bin/cp -R _site/announcements $DEPLOYPATH
+    - /bin/cp -R _site/events $DEPLOYPATH
+    - /bin/cp -R _site/images $DEPLOYPATH
+    - /bin/cp -R _site/contributors $DEPLOYPATH
+    - /bin/cp -R _site/contact $DEPLOYPATH
+    - /bin/cp -R _site/officers $DEPLOYPATH
+    - /bin/cp -R _site/assets $DEPLOYPATH
+    - /bin/cp favicon.ico $DEPLOYPATH
