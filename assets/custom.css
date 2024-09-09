@@ -1,0 +1,10 @@
+/* Banner styles */
+#event-banner {
+    background-color: #f8d7da;
+    color: #721c24;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    width: 100%;
+    font-size: 16px;
+}
