@@ -6962,7 +6962,7 @@ iframe {
     padding: 1.4% 0 0; }
   .site-nav #cssmenu {
     display: inline-block;
-    width: 1370px; }
+    /* width: 1370px; */ }
   .site-nav #navigation {
     padding-right: 0;
     position: relative;
