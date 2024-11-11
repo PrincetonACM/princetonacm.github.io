@@ -22,60 +22,17 @@
 </head>
 
 <body>
-<div class="overall-container">
-<section class="site-nav">
-    <header style="white-space: nowrap">
-        <nav id="navigation">
-            <div class="brand">
-            <a href="/">
-                <img src="/images/acm_with_chapter.png" alt="Princeton ACM">
-            </a>
-            </div>
-            <div id='cssmenu'>
-                <ul>
-                    <li><a href='/'>Home</a></li>
-                    <li><a href='/about/index.html'>About</a>
-                    </li>
-                    <li><a href='https://competitive-programming.cs.princeton.edu/'>Competitive Programming</a>
-                    </li>
-
-                    <li class='has-sub'><a href='/events/index.html'>Events</a>
-                        <ul>
-                            <li><a href="/events/coscon/index.html">COSCON</a></li>
-                            <li><a href="/events/code-at-night/index.html">Code@Night</a></li>
-                            <li><a href="/events/icpc/index.html">ICPC Training</a></li>
-                            <li><a href="/events/interview_prep/index.html">Interview Prep</a></li>
-                            <li><a href="/events/advising/index.html">Advising</a></li>
-                        </ul>
-                    </li>
-                    <li class='has-sub'><a href='/contributors/index.html'>Contributors</a>
-                        <ul>
-                            <li><a style="width: 165px" href="/contributors/contributor_info">Contributor Info</a></li>
-                        </ul>
-                    </li>
-                    <li><a href='/get_involved/index.html'>Get Involved</a>
-                        <!--<ul>
-                            <li><a href='/officers/2020-2021/index.html'>2020-2021</a></li>
-                            <li><a href='/officers/2019-2020/index.html'>2019-2020</a></li>
-                            <li><a href='/officers/2018-2019/index.html'>2018-2019</a></li>
-                            <li><a href='/officers/2017-2018/index.html'>2017-2018</a></li>
-                            <li><a href='/officers/2016-2017/index.html'>2016-2017</a></li>
-                            <li><a href='/officers/2015-2016/index.html'>2015-2016</a></li>
-                            <li><a href='/officers/2014-2015/index.html'>2014-2015</a></li>
-                            <li><a href='/officers/2013-2014/index.html'>2013-2014</a></li>
-                            <li><a href='/officers/2012-2013/index.html'>2012-2013</a></li>
-                            <li><a href='/officers/2011-2012/index.html'>2011-2012</a></li>
-                            <li><a href='/officers/2010-2011/index.html'>2010-2011</a></li>
-                            <li><a href='/officers/elections/index.html'>Elections</a></li>
-                        </ul>-->
-                    </li>
-                    <li><a href="/contact/index.html">Contact</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header>
-</section>
-</div>
+  <div id="navbar"></div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch("/components/navbar.html")
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById("navbar").innerHTML = data;
+              })
+              .catch(error => console.error("Error loading navbar:", error));
+      });
+  </script>
 
 <div class="overall-container">
 
@@ -91,7 +48,7 @@
       <section>
         <section class="gallery picture-gallery events-gallery" style="width: var(--article-page-width)">
     <div class="grid">
-      <div class="row" style="flex-wrap: nowrap">
+      <!-- <div class="row" style="flex-wrap: nowrap">
       <div class="col-xs-12 col-md-12 small-side-pad">
         <figure class="img-container">
         <a href="/events/sutter_hill">
@@ -102,11 +59,11 @@
         </a>
         </figure>
       </div>
-      </div>
+      </div> -->
       <div class="row" style="flex-wrap: nowrap">
       <div class="col-xs-12 col-md-6 small-side-pad">
         <figure class="img-container">
-          <a href="/events/coscon">
+          <a href="https://princetonacm.github.io/coscon2024/" target="_blank">
             <img src="/images/COSCON_dark_background.png" style="height: 450px" />
             <h3 class="gallery-caption-1" style="margin-top:-165px">
               COSCON: Princeton's Own Student-Run Computer Science Contest
@@ -116,6 +73,17 @@
       </div>
       <div class="col-xs-12 col-md-6 small-side-pad">
         <figure class="img-container">
+          <a href="https://www.cs.princeton.edu/~ri8992/plaintext/" target="_blank">
+            <img src="/images/plaintext_p.png" />
+            <h3 class="gallery-caption-1" style="margin-top:-214px; color: black">
+              <span style="color: orange;">p</span> l a i n t e x t: Cryptography Club <br>
+              <span style="font-size: 1.1rem">Every Tuesday at 4:30pm in Frist 309</span>
+            </h3>
+          </a>
+        </figure>
+      </div>
+      <!-- <div class="col-xs-12 col-md-6 small-side-pad">
+        <figure class="img-container">
           <a href="/events/code-at-night/index.html">
             <img src="/images/code-at-night_logo_dark_tall_with_chapter.png" style="object-fit: fill; border: 18px #000 solid" />
             <h3 class="gallery-caption-1" style="margin-top:-214px">
@@ -123,7 +91,7 @@
             </h3>
           </a>
         </figure>
-      </div>
+      </div> -->
     </div>
 
     </div>
