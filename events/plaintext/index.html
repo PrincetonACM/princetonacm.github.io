@@ -1,0 +1,208 @@
+<html lang="en">
+    <head>
+        <title>ｐｌａｉｎｔｅｘｔ</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+
+            body {
+                background-color: #FAF9F6;
+            }
+             #main {
+                max-width: 800px;
+                padding: 1em;
+                margin: auto;
+                font-family: Courier;
+            }
+            #title {
+                margin-top: 0.5em;
+                font-size: 3em;
+                text-align: center;
+            }
+            #main-subtitle {
+                margin-top: 0.3em;
+                font-size: 1.3em;
+                text-align: center;
+            }
+            #main-info {
+                margin-top: 1em;
+                margin-bottom: 1em;
+                text-align: center;
+            }
+            #main-credits {
+                margin-top: 2em;
+                text-align: center;
+                font-size: 0.9em;
+            }
+            .first-char {
+                color: #E77500;
+            }
+            #subtitle {
+                text-align: left;
+                font-size: 1.5em;
+                margin-top: 1em;
+            }
+            #event-title {
+                text-align: right;
+                margin-top: 1em;
+                font-size: 1.2em;
+                font-weight: bold;
+            }
+            #event-details {
+                text-align: justify;
+                line-height: 2em;
+                margin: 1em;
+                
+            }
+            #event-links {
+                margin-right: 0;
+                margin-left: auto;
+                margin-bottom: 2em;
+                width: 100%;
+                text-align: left;
+                margin-left: 1em;
+            }
+            a {
+                color: #E77500;
+            }
+            a:hover {
+                color: gray;
+            }
+
+            span.line {
+                display: inline-block;
+            }
+
+            #secret {
+                margin-top: 1em;
+                text-align: center;
+                font-size: 0.6em;
+                opacity: 0.33;
+            }
+
+            @media screen and (max-width: 800px) {
+                #event-title {
+                    text-align: center;
+                }
+                #title{
+                    font-size:9vw
+                }
+                .non-mobile-break {
+                    display: none;
+                }
+                .mobile-break {
+                    display: inline !important;
+                }
+
+            }
+
+            .mobile-break {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="main">
+            <div id="title"><span class="first-char">ｐ</span>ｌａｉｎｔｅｘｔ</div>
+            <br>
+            <div id="main-subtitle">Cryptography Club<br class="mobile-break"> @ Princeton University</div>
+            <div id="main-info">Every <b>Tuesday</b> at <b>4:30pm</b> in <b>Frist 309</b>. Join our <a href="https://signal.group/#CjQKIGCTvd1W0LoVKBmN9lJBUCInwD688_SqV0jszVl0qXBYEhDaXvRP7McgQQ0x8UJicgH3" target="_blank">Signal chat</a>.</div>
+            <hr>
+            <div id="subtitle"><span class="first-char">U</span>pcoming</div>
+
+            <div id="event-title"> 02/04: Error Correcting Codes and McEliece</div>
+            <div id="event-details">
+                Stay tuned! 
+            </div>
+            
+            <!-- Left as an exmaple but not used
+            <div id="event-links">
+                <a href="https://www.google.com/">Meeting Slides</a> - 
+                <a href="https://en.wikipedia.org/wiki/Paillier_cryptosystem">Paillier cryptosystem</a> -
+                <a href="https://eprint.iacr.org/2016/421.pdf">CKKS Paper</a>
+            </div>
+            -->
+            <hr>
+            <div id="subtitle"><span class="first-char">P</span>ast</div>
+
+            <div id="event-title"> 01/28: Linear Cryptanalysis</div>
+            <div id="event-details">
+                Welcome to Season 2 of <span class="first-char">p</span>laintext! To kick off the semester, we will be diving into linear cryptanalysis. Come to learn about this powerful technique for attacking symmetric ciphers, and explore how statistical biases in encryption can be exploited to recover secret keys. 
+            </div>
+
+            <div id="event-title"> 12/03: Fully Homomorphic Encryption</div>
+            <div id="event-details">
+                Would it be possible to devise an encryption scheme such that adding two ciphertexts would correspond to an encryption of the addition of both the plaintexts? Or does this necessarily compromise on security? To answer these questions, come learn about fully homomorphic encryption, an idea first formulated in 1978, but one that has now become a topic of cutting edge research in the 21st century! (<a href="https://docs.google.com/presentation/d/1PdRFq765Q2HKjNFDDlhJWgJUEYvSBvf3cLWahGiaO3U/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+            
+
+            <div id="event-title"> 11/19: Randomness (and lack thereof)</div>
+            <div id="event-details">
+                Almost every cryptosystem we've discussed, or will discuss, presupposes that you can generate a "random number". But how do you do this with inherently deterministic machines, anyway? In this presentation we'll discuss randomness in cryptography from single numbers to entire streams, and see how some systems can fall short. (<a href="https://docs.google.com/presentation/d/1WHmtwdYI-vEUUqhKyKg0qWkzr-W16V46XIAd6PMP6yU/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+
+            <div id="event-title"> 11/12: Graduate Talk on Quantum Cryptography!</div>
+            <div id="event-details">
+                <a href="https://www.cs.princeton.edu/~bnehoran/" target="_blank">Barak Nehoran</a>, Princeton CS PhD candidate, will be giving an introduction to quantum cryptography, including: pseudorandom quantum states/unitaries, one-way quantum state generators, quantum commitments, and more! Quantum computing supercharges cryptography, and even if <b>P=NP</b>, it is possible to build secure quantum-based cryptosystems! Come and learn how!
+            </div>
+
+            <div id="event-title"> 11/05: CTF Cryptography Special feat. OrangeHat</div>
+            <div id="event-details">
+                This week we'll be teaming up with the OrangeHat Cybersecurity Collective to host a hands-on introduction to CTF-style cryptography challenges! Don't forget your PC!
+            </div>
+
+            <div id="event-title"> 10/29: Zero Knowledge Proofs: A Deep Dive</div>
+            <div id="event-details">
+                You might have heard the acronym zkSNARK before, but what does it really mean? In this exciting <span class="first-char">p</span>laintext presentation, we will be introducing the awesome field of zero knowledge cryptography. It will be almost completely math free, covering sigma protocols, the Fiat-Shamir transform, R1CS, Circom, and more! (<a href="https://docs.google.com/presentation/d/1bh6k_DDl2A9Pjgso9VAlZaSsEqcNoJvaX_BS3sAT-_8/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+            
+            <div id="event-title"> 10/22: Discrete Logarithm Problem and Pohlig-Hellman</div>
+            <div id="event-details">
+                The Diffie-Hellman system enables ciphers like AES to encrypt data across the internet, from protocols like HTTPS to SSH. This week, we'll learn about the Discrete Logarithm Problem and how its difficulty allows two parties to agree on a secret key without ever sending it. With more modular arithmetic and a little group theory, we'll see how Pohlig-Hellman can make hard problems easy, and leave things exposed. (<a href="https://docs.google.com/presentation/d/1BgGl1BOk_FmomLGmUctOXUEtbRpS5F6lDkeP0wirrpM/edit#slide=id.p" target="_blank">Slides</a>) (<a href="meeting2.jpg" target="_blank">Photo</a>)
+            </div>
+            
+            <div id="event-title"> 10/01: Web3 Security Special, feat. PBC</div>
+            <div id="event-details">
+                You don't want to miss this special collaboration between <span class="first-char">p</span>laintext and <a href="https://princeton.cargo.site/" target="_blank">Princeton Blockchain Club</a>! We'll be introducing smart contract security fundamentals through the hands-on  platform Ethernaut - don't forget your PC! (<a href="https://docs.google.com/presentation/d/1ayQnr_2E4HDBn-zLiKh-5TiLpuSzDi7MZE1sKpd_kRs/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+
+            <div id="event-title"> 09/24: The BB84 Protocol and Quantum Cryptography</div>
+            <div id="event-details">
+                Quantum computing and quantum technology are poised to take the world by storm in the coming decades. Learn more about the fundamentals behind quantum cryptography as we delve into qubits, quantum entanglement, and the famous BB84 protocol -- a cryptographic protocol where the security guarantees come from the laws of physics! (<a href="https://docs.google.com/presentation/d/1QKJxpw3KLuRvSi-HLht3Ddo1OkRGLAwyVnsU6zyj8jo/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+
+            <div id="event-title"> 09/17: AES-ECB and Padding Oracle Attacks</div>
+            <div id="event-details">
+                The block cipher AES has withstood cryptanalytic attacks for ages, and is being used everywhere right now! However, like all block ciphers, AES requires a "mode of operation" to work properly. This is where things go wrong... At <span class="first-char">p</span>laintext this week, you'll learn about AES, the ECB mode of operation, the PKCS#1 scheme, and the ECB padding oracle attack!
+                (<a href="https://docs.google.com/presentation/d/1xp-1dTKCuDlLqGQDZeDxKiVCTvDqNWyeBpA1tHpAz68/edit?usp=sharing" target="_blank">Slides</a>)
+            </div>
+            
+            <div id="event-title"> 09/10: RSA and Coppersmith's Method</div>
+            <div id="event-details">
+                We can attack RSA, the most important encryption system in the world, using linear algebra! This technique is called Coppersmith's method and is incredibly versatile.
+                Come to the inaugural <span class="first-char">p</span>laintext meeting for an introduction to RSA, followed by a deep dive into lattices, the LLL algorithm, modular polynomials, Estonian ID cards, and more! (<a href="https://docs.google.com/presentation/d/1Vl_iJNbRJ9k3gBWzx5rnEMdgLG1fTkoIzXUNG-fNgxg/edit?usp=sharing" target="_blank">Slides</a>)  (<a href="coppersmith.ipynb" target="_blank">Demo .ipynb</a>) (<a href="meeting1.webp" target="_blank">Photo</a>)
+            </div>
+
+                <!--
+                <div id="event-title"> 09/10: Multivariate cryptography</div>
+                <div id="event-details">
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br> <a href="https://www.google.com/">[Slides]</a> 
+                </div>
+                <div id="event-title"> 09/17: Linear cryptanalysis</div>
+                <div id="event-details">
+                    Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?<br> <a href="https://www.google.com/">[Slides]</a> 
+                </div>
+                <div id="event-title"> 09/24: Verifiable Random Functions</div>
+                <div id="event-details">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.<br><a href="https://www.google.com/">[Slides]</a>  
+                </div>
+                -->
+            <footer>
+            <div id="main-credits">Brought to you by Raheem Idowu '26, Eliyahu Yablon '27 and Isaac Badipe '28.<br>Supported by <a href="https://princeton.acm.org/">Princeton ACM</a>.</div>
+            <div id="secret">Yml0Lmx5L0lxVDZ6dA==</div>
+            </footer>
+
+        </div>
+        
+    </body>
+</html>
