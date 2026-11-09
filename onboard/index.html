@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ACM Onboarding for New Workshop Chairs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f8f8;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: #ff8c00; /* Orange */
+      color: #000; /* Black */
+      text-align: center;
+      padding: 0.5em 0;
+      position: relative;
+    }
+    header img {
+      max-width: 100px;
+      margin-bottom: 0.2em;
+    }
+    .acm-logo {
+      font-family: 'Courier New', monospace;
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #000;
+      margin-bottom: 0.2em;
+    }
+    nav {
+      background: #fff; /* Changed from black to white */
+      text-align: center;
+      padding: 0.5em 0;
+      border-bottom: 2px solid #ff8c00; /* Added border for separation */
+    }
+    nav a {
+      color: #ff8c00; /* Orange */
+      margin: 0 1em;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: 2em auto;
+      background: #fff;
+      padding: 2em;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    section {
+      margin-bottom: 2em;
+    }
+    h1, h2, h3 {
+      color: #ff8c00; /* Orange */
+    }
+    h1 {
+      margin: 0.2em 0;
+      font-size: 1.5em;
+    }
+    ul {
+      margin-left: 1.5em;
+    }
+    .button {
+      display: inline-block;
+      background: #fff; /* Changed from black to white */
+      color: #ff8c00; /* Orange */
+      padding: 0.5em 1em;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1em;
+      border: 2px solid #ff8c00; /* Added border for visibility */
+    }
+    footer {
+      background: #000; /* Black */
+      color: #ff8c00; /* Orange */
+      text-align: center;
+      padding: 1em 0;
+    }
+    @media (max-width: 600px) {
+      nav a {
+        display: block;
+        margin: 0.5em 0;
+      }
+    }
+    /* Snake Game Styles */
+    #snake-game {
+      width: 400px;
+      height: 400px;
+      margin: 0 auto 2em auto;
+      border: 2px solid #ff8c00;
+      position: relative;
+    }
+    #game-canvas {
+      background-color: #f8f8f8;
+    }
+    .game-controls {
+      text-align: center;
+      margin-bottom: 2em;
+    }
+    .game-controls button {
+      background: #ff8c00;
+      color: #000;
+      border: none;
+      padding: 8px 16px;
+      margin: 0 5px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .game-score {
+      text-align: center;
+      font-size: 1.2em;
+      margin-bottom: 1em;
+      color: #ff8c00;
+    }
+    /* ACM Trivia Styles */
+    .trivia-container {
+      margin-bottom: 2em;
+      text-align: center;
+    }
+    .trivia-question {
+      font-size: 1.2em;
+      margin-bottom: 1em;
+      font-weight: bold;
+    }
+    .trivia-options {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 1em;
+    }
+    .trivia-option {
+      background: #ff8c00;
+      color: #000;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      min-width: 150px;
+    }
+    .trivia-answer {
+      margin-top: 1em;
+      font-weight: bold;
+      display: none;
+    }
+    .show-answer {
+      display: block;
+      color: #ff8c00;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="acm-logo">Princeton ACM</div>
+    <h1>Welcome New Workshop Chairs!</h1>
+    <p style="margin: 0.2em 0;">We're excited to have you join us at ACM!</p>
+  </header>
+
+  <nav>
+    <a href="#about">About ACM</a>
+    <a href="#meetings">Meetings</a>
+    <a href="#communication">Communication</a>
+    <a href="#projects">Projects</a>
+    <a href="#checklist">Checklist</a>
+    <a href="#contacts">Contacts</a>
+    <a href="#events">Event Types</a>
+  </nav>
+
+  <div class="container">
+    <!-- About ACM -->
+    <section id="about">
+      <h2>About ACM</h2>
+      <p>
+        Welcome new workshop chairs! We're really excited to have you with us at ACM, and this will be a brief document to outline the organization of the club and our workshop program.
+      </p>
+      <p>
+        First, note that we're one of the groups changing the COS experience here at Princeton. Our events help bring together students, promote research in certain areas, and bring awareness to everything from projects to career paths! As an ACM officer, you'll be able to meet more people on campus and help shape the CS experience at Princeton. ACM also forms a robust network between schools and is recognized outside of Princeton (in fact, it's the largest and most well-known CS society). We're also excited to work with other groups on campus to make events happen (such as COS Council, PCA, the Career Center, Hoagie, etc.)!
+      </p>
+    </section>
+
+    <!-- Meetings -->
+    <section id="meetings">
+      <h2>Meetings</h2>
+      <p>
+        <strong>When:</strong> We'll have meetings every other week at 5:45pm on Wednesdays, starting with next week (2/26).
+      </p>
+      <p>
+        <strong>Where:</strong> Frist Class of 1952 Room, which is in the late meal area.
+      </p>
+      <p>
+        <strong>Duration:</strong> Typically 45 minutes (although the first meeting might be slightly longer). Beyond that, we might have additional meetings for large events (such as COSCON) or have smaller group meetings.
+      </p>
+      <p>
+        During the meetings, we'll discuss the progress of events and any issues that we are facing. To keep the meetings short, each team will write out the changes they've made, issues they are facing, and things left to be done for their events on a shared meeting doc, which we will review before the meeting.
+      </p>
+      <p>
+        <a class="button" href="" target="_blank">ACM Meeting Notes Spring 2025</a>
+      </p>
+      <p>
+        <strong>First Meeting:</strong> Wednesday 2/26, 5:45pm at the Frist Class of 1952 Room.
+      </p>
+    </section>
+
+    <!-- Communication -->
+    <section id="communication">
+      <h2>Communication</h2>
+      <p>
+        We generally use discord for communication, you can join the ACM Discord here:
+        <a href="" target="_blank">ACM Discord</a>.
+      </p>
+      <p>
+        Make sure you have notifications on! When you join the discord, change your server nickname to your real name. Feel free to introduce yourself in the #general channel as a new workshop officer!
+      </p>
+      <p>
+        Whenever you want to contact ACM officers, the easiest way to do so is on discord/in the appropriate channel or over email.
+      </p>
+    </section>
+
+    <!-- Google Drive -->
+    <section id="google-drive">
+      <h2>Google Drive</h2>
+      <p>
+        All ACM documents are stored in a shared Google Drive (including this document). The only exception is for forms with file upload, as Google Drive won't let us store those in a shared drive, so you'll have to ask for access to any of those.
+      </p>
+      <p>
+        I'll be adding you in the next week or so to the drive.
+      </p>
+    </section>
+
+    <!-- Projects & Initiatives -->
+    <section id="projects">
+      <h2>Projects & Initiatives</h2>
+      <p>
+        Here are the projects and partners we have in mind for all of you! We anticipate the projects largely being driven by the new officers, with the experienced officers providing support along the way.
+      </p>
+      <ul>
+        <li>
+          <strong>John Wu and August Ning (Grad Liason)</strong>
+          <ul>
+            <li>Research and Graduate School Talk</li>
+            <li>Graduate Student Panel / Dinner with Graduate Students</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Grace Liu and Daniel Yang (Tech Chair)</strong>
+          <ul>
+            <li>GeoGuessrAI Workshop (assisted by Devan, Armita)</li>
+            <li>Perplexity Workshop</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Emily Zou and Joshua Lin (Comp. Chair)</strong>
+          <ul>
+            <li>Resume Workshop (w/ Career Center)</li>
+            <li>Study Breaks (perhaps oriented around sticker design)</li>
+            <li>ACM Community Initiatives (1-1 interview prep matching, COS Chats)</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Sakthi Vijayakumar, David Yan, and Devan Shah (President)</strong>
+          <ul>
+            <li>Technical Talks / Workshops</li>
+            <li>Industry Talks / Sponsor Talks</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Armita Kazemi and Freddy Qiu (Former President)</strong>
+          <ul>
+            <li>Graduate Student Meets</li>
+            <li>Independent Work Panel</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Marvin Chen and Devan Shah (President)</strong>
+          <ul>
+            <li>COS Council Collaborative Events</li>
+            <li>COS Chats (assisted by Emily)</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Nick Feng and Daniel Yang (Tech Chair)</strong>
+          <ul>
+            <li>Website redesign</li>
+            <li>Lab Visits (with Devan, August, and Freddy)</li>
+            <li>Small group dinners (with Devan)</li>
+            <li>Hoagie.io Agent Collaboration</li>
+          </ul>
+        </li>
+      </ul>
+      <p>
+        Once you have a date in mind for your event, reach out and I'll add you to the calendar!
+      </p>
+    </section>
+
+    <!-- Event Preparation Checklist -->
+    <section id="checklist">
+      <h2>Event Preparation Checklist</h2>
+      <ul>
+        <li>Select a time for the event (and add to calendar)</li>
+        <li>Write a bio for the event</li>
+        <li>Find speakers and create content</li>
+        <li>Book a room</li>
+        <li>Find your food/boba budget (and create an RSVP form so we can estimate attendance)</li>
+        <li>Advertise the event</li>
+        <li>Create presentation materials</li>
+        <li>(optional) Talk to Daniel to create a webpage for the event</li>
+        <li>Find additional officers (or contact Devan) to help with the event / food and reach out to Alexa or Devan to order the food</li>
+      </ul>
+    </section>
+
+    <!-- Contacts -->
+    <section id="contacts">
+      <h2>Key Contacts</h2>
+      <p>
+        You can check out of all our officers on our <a href="https://princetonacm.github.io/about/index.html" target="_blank">website</a> and fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScRiUQXYj_B0vbW4XXGocEWQNqyGmWei6JBV7ohfFxbfGiC4w/" target="_blank">form here</a> so we can add you as an officer on our website.
+      </p>
+      <p>
+        Some officers you'll interact frequently with are:
+      </p>
+      <p>
+        <strong>President/Chair:</strong> Devan Shah<br>
+        You can go to me for any questions you have, any ideas you'd like to try, or for any advice. I generally try to help out as best I can in any way you would like for your event!
+      </p>
+      <p>
+        <strong>Treasurer:</strong> Alexa Wingate (awingate@princeton.edu)<br>
+        You can ask Alexa for any budgeting questions or questions on payment/purchases. For instance, "How much can I spend on boba for this event", "How should I purchase boba with ACM paying," "How can I get reimbursed for this purchase for my event," etc.
+      </p>
+      <p>
+        <strong>Outreach:</strong> Kia Ghods<br>
+        You can ask Kia any questions about sharing forms/information using the ACM email server, from Hoagie, or to any of the CS student listservs. Generally, you'll ask Kia to include your event description in an ACM email sent out 2 weeks and 1 week before the event.
+      </p>
+      <p>
+        <strong>Tech Chair:</strong> Daniel Yang<br>
+        Daniel can help with all things technical and relating to our website. For instance, if you'd like to put your event on our website, add it to our google calendar, or if you'd like to create technical materials relating to your event (i.e., a custom game or workshop materials), you can ask Daniel to help!
+      </p>
+    </section>
+
+    <!-- Event Types -->
+    <section id="events">
+      <h2>Event Types</h2>
+      <p>
+        Here are some event ideas we've hosted in the past:
+      </p>
+      <ul>
+        <li>
+          <strong>Study Breaks:</strong> We'll host ACM study breaks with trivia questions, snacks and/or boba, and prizes!
+        </li>
+        <li>
+          <strong>Research and Graduate School:</strong> August will host a talk discussing whether graduate school is right for students and the benefits of undergraduate research even if students do not plan to attend graduate school. This event was a large success last year, and we'd likely run it similarly.
+        </li>
+        <li>
+          <strong>Graduate Student Panel:</strong> A set of graduate students in ECE and COS (likely including August and Freddy) will talk about their experience, answer questions about why they chose graduate school, and answer audience questions!
+        </li>
+        <li>
+          <strong>Dinner with Graduate Students:</strong> We'll invite undergraduates for a paid meal with ACM's graduate students to ask questions and discuss graduate school.
+        </li>
+        <li>
+          <strong>Research Talks:</strong> Faculty, graduate, and undergraduate students can share their research with a large audience or introduce an audience to their field (ex. David Yan volunteered for Computer Vision).
+        </li>
+        <li>
+          <strong>Industry Talks:</strong> Interested alumni who work in industry or company representatives (i.e., ThetaData) can speak about the work they are doing, how they started working on that project, and how students can enter the field or work on similar projects.
+        </li>
+        <li>
+          <strong>Career Oriented Event:</strong> We've previously worked with David Belson from the career center and the COS Council to host panel discussions and presentations about the interview process. Some topics to discuss include what to do as a freshman or sophomore who hasn't secured an internship or how to prepare for the FAANG/Quant cycle next year.
+        </li>
+        <li>
+          <strong>Interest Groups:</strong> We currently support a few weekly subgroups, such as Princeton Competitive Programming (led by Prof. Paredes) and Plaintext (led by Raheem Idowu), which host weekly events for students interested in competitive programming or cryptography. This semester, we may also support an undergraduate NLP reading group (led by Brandon Cho) and potentially an undergraduate CV reading group (led by David Yan), if funds and interest permit.
+        </li>
+        <li>
+          <strong>Lab Visits:</strong> We'll host small sessions with grad students in their lab where undergraduates can see what a day (hour) in the life of a graduate student looks like!
+        </li>
+      </ul>
+    </section>
+
+    <!-- ACM Trivia -->
+    <section id="acm-trivia">
+      <h2>ACM Trivia</h2>
+      <p>Test your knowledge about the Association for Computing Machinery!</p>
+      
+      <div class="trivia-container">
+        <div class="trivia-question">Which of these are ACM publications?</div>
+        <div class="trivia-options">
+          <button class="trivia-option" onclick="toggleAnswer('publications')">Communications of the ACM</button>
+          <button class="trivia-option" onclick="toggleAnswer('publications')">ACM Transactions on Graphics</button>
+          <button class="trivia-option" onclick="toggleAnswer('publications')">Journal of Computer Science</button>
+          <button class="trivia-option" onclick="toggleAnswer('publications')">Computing Reviews</button>
+        </div>
+        <div id="publications-answer" class="trivia-answer">
+          Communications of the ACM, ACM Transactions on Graphics, and Computing Reviews are all ACM publications. Journal of Computer Science is not an ACM publication.
+        </div>
+      </div>
+      
+      <div class="trivia-container">
+        <div class="trivia-question">When was ACM founded?</div>
+        <div class="trivia-options">
+          <button class="trivia-option" onclick="toggleAnswer('founded')">1947</button>
+          <button class="trivia-option" onclick="toggleAnswer('founded')">1956</button>
+          <button class="trivia-option" onclick="toggleAnswer('founded')">1965</button>
+          <button class="trivia-option" onclick="toggleAnswer('founded')">1972</button>
+        </div>
+        <div id="founded-answer" class="trivia-answer">
+          ACM was founded in 1947, making it one of the oldest scientific and educational computing societies in the world.
+        </div>
+      </div>
+      
+      <div class="trivia-container">
+        <div class="trivia-question">What prestigious award does ACM present annually for contributions to computing?</div>
+        <div class="trivia-options">
+          <button class="trivia-option" onclick="toggleAnswer('award')">Nobel Prize in Computing</button>
+          <button class="trivia-option" onclick="toggleAnswer('award')">Turing Award</button>
+          <button class="trivia-option" onclick="toggleAnswer('award')">Fields Medal</button>
+          <button class="trivia-option" onclick="toggleAnswer('award')">Lovelace Medal</button>
+        </div>
+        <div id="award-answer" class="trivia-answer">
+          The ACM A.M. Turing Award, often referred to as the "Nobel Prize of Computing," is awarded annually by ACM to an individual for contributions of lasting and major technical importance to computing.
+        </div>
+      </div>
+    </section>
+
+    <!-- Snake Game -->
+    <section id="snake-game-section">
+      <h2>Snake</h2>
+      <p>Take a break and play snake</p>
+      <div class="game-score">Score: <span id="score">0</span></div>
+      <div id="snake-game">
+        <canvas id="game-canvas" width="400" height="400"></canvas>
+      </div>
+      <div class="game-controls">
+        <button id="start-button">Start Game</button>
+        <button id="reset-button">Reset Game</button>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Princeton ACM. Changing the COS Experience.</p>
+  </footer>
+  
+  <script>
+    // Function to toggle trivia answers (show/hide)
+    function toggleAnswer(id) {
+      const answerElement = document.getElementById(id + '-answer');
+      if (answerElement.classList.contains('show-answer')) {
+        answerElement.classList.remove('show-answer');
+      } else {
+        answerElement.classList.add('show-answer');
+      }
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+      const canvas = document.getElementById('game-canvas');
+      const ctx = canvas.getContext('2d');
+      const startButton = document.getElementById('start-button');
+      const resetButton = document.getElementById('reset-button');
+      const scoreElement = document.getElementById('score');
+      
+      const blockSize = 25;
+      const width = canvas.width / blockSize;
+      const height = canvas.height / blockSize;
+      
+      let snake, food, score, direction, gameLoop;
+      let gameRunning = false;
+      let walls = []; // Array to store wall positions
+      
+      function init() {
+        snake = [
+          {x: Math.floor(width / 2), y: Math.floor(height / 2)}
+        ];
+        walls = []; // Reset walls
+        generateFood();
+        score = 0;
+        direction = 'right';
+        scoreElement.textContent = score;
+        
+        // Clear any existing game loop
+        if (gameLoop) clearInterval(gameLoop);
+        gameRunning = false;
+        
+        // Draw initial state
+        draw();
+      }
+      
+      function generateFood() {
+        food = {
+          x: Math.floor(Math.random() * width),
+          y: Math.floor(Math.random() * height)
+        };
+        
+        // Make sure food doesn't appear on snake or walls
+        let needToRegenerate = false;
+        
+        // Check snake
+        for (let i = 0; i < snake.length; i++) {
+          if (snake[i].x === food.x && snake[i].y === food.y) {
+            needToRegenerate = true;
+            break;
+          }
+        }
+        
+        // Check walls
+        for (let i = 0; i < walls.length; i++) {
+          if (walls[i].x === food.x && walls[i].y === food.y) {
+            needToRegenerate = true;
+            break;
+          }
+        }
+        
+        if (needToRegenerate) {
+          generateFood();
+        }
+      }
+      
+      function generateWall() {
+        let wall = {
+          x: Math.floor(Math.random() * width),
+          y: Math.floor(Math.random() * height)
+        };
+        
+        // Make sure wall doesn't appear on snake, food, or existing walls
+        let needToRegenerate = false;
+        
+        // Check snake
+        for (let i = 0; i < snake.length; i++) {
+          if (snake[i].x === wall.x && snake[i].y === wall.y) {
+            needToRegenerate = true;
+            break;
+          }
+        }
+        
+        // Check food
+        if (food.x === wall.x && food.y === wall.y) {
+          needToRegenerate = true;
+        }
+        
+        // Check existing walls
+        for (let i = 0; i < walls.length; i++) {
+          if (walls[i].x === wall.x && walls[i].y === wall.y) {
+            needToRegenerate = true;
+            break;
+          }
+        }
+        
+        if (needToRegenerate) {
+          return generateWall();
+        }
+        
+        return wall;
+      }
+      
+      function draw() {
+        // Clear canvas
+        ctx.fillStyle = '#fff'; // Changed to white background
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        
+        // Draw snake
+        for (let i = 0; i < snake.length; i++) {
+          ctx.fillStyle = i === 0 ? '#ff8c00' : (i % 2 === 0 ? '#ff8c00' : '#000');
+          ctx.strokeStyle = '#fff';
+          ctx.fillRect(snake[i].x * blockSize, snake[i].y * blockSize, blockSize, blockSize);
+          ctx.strokeRect(snake[i].x * blockSize, snake[i].y * blockSize, blockSize, blockSize);
+        }
+        
+        // Draw food
+        ctx.fillStyle = '#ff8c00';
+        ctx.fillRect(food.x * blockSize, food.y * blockSize, blockSize, blockSize);
+        
+        // Draw walls
+        ctx.fillStyle = '#00cc00'; // Green color for walls
+        for (let i = 0; i < walls.length; i++) {
+          ctx.fillRect(walls[i].x * blockSize, walls[i].y * blockSize, blockSize, blockSize);
+          ctx.strokeStyle = '#fff';
+          ctx.strokeRect(walls[i].x * blockSize, walls[i].y * blockSize, blockSize, blockSize);
+        }
+      }
+      
+      // Track the last processed direction to prevent multiple direction changes per move
+      let lastProcessedDirection = 'right';
+      let nextDirection = 'right';
+      
+      function moveSnake() {
+        // Update direction only at the time of movement
+        direction = nextDirection;
+        lastProcessedDirection = direction;
+        
+        // Create new head based on direction
+        const head = {x: snake[0].x, y: snake[0].y};
+        
+        switch(direction) {
+          case 'up': head.y--; break;
+          case 'down': head.y++; break;
+          case 'left': head.x--; break;
+          case 'right': head.x++; break;
+        }
+        
+        // Check for wall collision
+        if (head.x < 0 || head.x >= width || head.y < 0 || head.y >= height) {
+          gameOver();
+          return;
+        }
+        
+        // Check for self collision
+        for (let i = 0; i < snake.length; i++) {
+          if (head.x === snake[i].x && head.y === snake[i].y) {
+            gameOver();
+            return;
+          }
+        }
+        
+        // Check for wall collision
+        for (let i = 0; i < walls.length; i++) {
+          if (head.x === walls[i].x && head.y === walls[i].y) {
+            gameOver();
+            return;
+          }
+        }
+        
+        // Add new head
+        snake.unshift(head);
+        
+        // Check if food eaten
+        if (head.x === food.x && head.y === food.y) {
+          score += 1;
+          scoreElement.textContent = score;
+          generateFood();
+          
+          // Add a new wall when food is eaten
+          walls.push(generateWall());
+        } else {
+          // Remove tail if no food eaten
+          snake.pop();
+        }
+        
+        draw();
+      }
+      
+      function gameOver() {
+        clearInterval(gameLoop);
+        gameRunning = false;
+        alert('Game Over! Your score: ' + score);
+      }
+      
+      function startGame() {
+        if (!gameRunning) {
+          gameRunning = true;
+          // Set random speed between 50 and 150
+          const randomSpeed = Math.floor(Math.random() * (150 - 50 + 1)) + 30;
+          gameLoop = setInterval(moveSnake, randomSpeed);
+        }
+      }
+      
+      // Event listeners
+      startButton.addEventListener('click', function() {
+        startGame();
+      });
+      
+      resetButton.addEventListener('click', function() {
+        init();
+      });
+      
+      document.addEventListener('keydown', function(e) {
+        if (!gameRunning) return;
+        
+        // Store the current direction to check against
+        const currentDirection = lastProcessedDirection;
+        
+        switch(e.key) {
+          case 'ArrowUp':
+            if (currentDirection !== 'down') nextDirection = 'up';
+            break;
+          case 'ArrowDown':
+            if (currentDirection !== 'up') nextDirection = 'down';
+            break;
+          case 'ArrowLeft':
+            if (currentDirection !== 'right') nextDirection = 'left';
+            break;
+          case 'ArrowRight':
+            if (currentDirection !== 'left') nextDirection = 'right';
+            break;
+        }
+        
+        // Prevent scrolling with arrow keys
+        if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(e.key)) {
+          e.preventDefault();
+        }
+      });
+      
+      // Initialize game
+      init();
+    });
+  </script>
+</body>
+</html>
