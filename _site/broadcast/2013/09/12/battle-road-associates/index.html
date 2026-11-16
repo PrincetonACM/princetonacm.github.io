@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton ACM</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/assets/main.css">
+    <link rel="icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/acm_with_chapter.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
+    <meta name="title" content="Battle Road Associates ">
+    <link rel="canonical" href="http://princeton.acm.org/broadcast/2013/09/12/battle-road-associates/">
+    <meta property="og:title" content="Battle Road Associates "/>
+    <meta property="og:url" content="http://princeton.acm.org/broadcast/2013/09/12/battle-road-associates/"/>
+    
+    <meta property="og:site_name" content="Princeton ACM">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/84d2c1acac.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="navbar"></div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch("/components/navbar.html")
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById("navbar").innerHTML = data;
+              })
+              .catch(error => console.error("Error loading navbar:", error));
+      });
+  </script>
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                <time pubdate datetime="2013-12-September" title="September 12, 2013">September 12, 2013</time>
+            </div>
+            <h1 class="title">Battle Road Associates</h1>
+            
+        </header>
+
+        <section>
+            <p>Our company, Battle Road Associates, LLC., is a small two-man operation started just over a year ago. We're developing a web- and mobile-based application to handle certain kinds of aggregation and processing functions for event data. To start with, we're looking for an intern or two to develop a simple iOS-based front-end to an existing REST API. That project will probably not take the entire summer, and as the project develops we're going to be adding extending the API and adding some additional server-side functionality. Depending on interest and availability, there could be additional part-time or full-time work available after the summer is over as well. We're located in Princeton, but we're looking for someone who can primarily work from home, so location over the summer is not an issue, and we'll also consider someone who already has some summer plans but would be interested in working for us part-time.</p>
+<p>Contact Jeff Bagdis '08 &lt;jbagdis@gmail.com&gt; for additional details.</p>
+
+        </section>
+    </div>
+</article>
+
+
+
+
+<div id="footer"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/components/footer.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("footer").innerHTML = data;
+            })
+            .catch(error => console.error("Error loading footer:", error));
+    });
+</script>
+
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/main.js"></script>
+
+
+</body>
+</html>

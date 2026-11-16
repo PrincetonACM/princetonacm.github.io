@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton ACM</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/assets/main.css">
+    <link rel="icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/acm_with_chapter.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
+    <meta name="title" content="Our Contributors ">
+    <link rel="canonical" href="http://princeton.acm.org/contributors/">
+    <meta property="og:title" content="Our Contributors "/>
+    <meta property="og:url" content="http://princeton.acm.org/contributors/"/>
+    
+    <meta property="og:site_name" content="Princeton ACM">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/84d2c1acac.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="navbar"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch("/components/navbar.html")
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("navbar").innerHTML = data;
+                })
+                .catch(error => console.error("Error loading navbar:", error));
+        });
+    </script>
+
+<div class="overall-container">
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <h1 class="title">Our Contributors</h1>
+            
+        </header>
+
+        <section>
+            <p>Check out our wonderful contributors below, whose support made many things possible. If you are interested in supporting all the things we do here at ACM, check out some of our <a href="/get_involved#orgs">opportunities</a> for organizations to get involved. You can also view contributor details for the coming cycle <a href="/contributors/contributor_info">here</a>.</p>
+
+<div class="sponsor-logos">
+  <img src="/images/logos/jane-street.png" />
+  <img src="/images/logos/citadel.png" />
+  <img src="/images/logos/DESHAW.png" />
+  <img src="/images/logos/est.png" />
+  <img src="/images/logos/sig.png" />
+  <img src="/images/logos/scm.svg" />
+  <img src="/images/logos/quadrature.png" />
+  <img src="/images/logos/mat.png" />
+  <img src="/images/logos/cos.png" />
+  <img src="/images/logos/radix.png" />
+  <img src="/images/logos/old-mission.png" />
+  <img src="/images/logos/geo.png" />
+  <img src="/images/logos/pacm.jpg" />
+  <img src="/images/logos/orf.png" />
+  <img src="/images/logos/csml.png" />
+  <img src="/images/logos/prc.png" />
+  <img src="/images/logos/phy.png" />
+  <img src="/images/logos/hrt.png" />
+</div>
+
+        </section>
+    </div>
+</article>
+
+</div>
+
+<div id="footer"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/components/footer.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("footer").innerHTML = data;
+            })
+            .catch(error => console.error("Error loading footer:", error));
+    });
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/main.js"></script>
+
+
+</body>
+</html>

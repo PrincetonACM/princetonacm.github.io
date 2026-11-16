@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton ACM</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/assets/main.css">
+    <link rel="icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/acm_with_chapter.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
+    <meta name="title" content="Code@Night with Elections! ">
+    <link rel="canonical" href="http://princeton.acm.org/main/2016/03/04/code-at-night-with-elections/">
+    <meta property="og:title" content="Code@Night with Elections! "/>
+    <meta property="og:url" content="http://princeton.acm.org/main/2016/03/04/code-at-night-with-elections/"/>
+    
+    <meta property="og:site_name" content="Princeton ACM">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/84d2c1acac.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="navbar"></div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch("/components/navbar.html")
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById("navbar").innerHTML = data;
+              })
+              .catch(error => console.error("Error loading navbar:", error));
+      });
+  </script>
+
+<div class="overall-container">
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <h1 class="title">Code@Night with Elections!</h1>
+            
+        </header>
+
+        <section>
+            <p>Come to Code@Night tonight, flex your civic duty and vote for the new ACM board!</p>
+
+<iframe src="//giphy.com/embed/Rx9Norbj4EVy" width="240" height="240" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+<p><a href="http://giphy.com/gifs/vote-jeremy-sengly-Rx9Norbj4EVy"></a></p>
+
+<p>It will be this <strong>Friday, March 4th (today!)</strong> starting at <strong>8:00pm in the third floor of Sherrerd Hall</strong>. Sign up <a href="https://goo.gl/GIls7k">here</a> to run for office! RSVP <a href="https://www.facebook.com/events/538952839613275/">here</a> on the FB event! We’ll be hanging out, eating, and panicking about midterms.</p>
+
+<iframe src="//giphy.com/embed/lNMyVfxjfzIJO" width="480" height="269" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+<p><a href="http://giphy.com/gifs/save-button-doesnt-lNMyVfxjfzIJO"></a></p>
+
+        </section>
+    </div>
+</article>
+
+</div>
+
+<div id="footer"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/components/footer.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("footer").innerHTML = data;
+            })
+            .catch(error => console.error("Error loading footer:", error));
+    });
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/main.js"></script>
+
+
+</body>
+</html>

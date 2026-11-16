@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton ACM</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/assets/main.css">
+    <link rel="icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/acm_with_chapter.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
+    <meta name="title" content="Code@Night at TigerLabs ">
+    <link rel="canonical" href="http://princeton.acm.org/main/2013/09/25/codenight-at-tigerlabs/">
+    <meta property="og:title" content="Code@Night at TigerLabs "/>
+    <meta property="og:url" content="http://princeton.acm.org/main/2013/09/25/codenight-at-tigerlabs/"/>
+    
+    <meta property="og:site_name" content="Princeton ACM">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/84d2c1acac.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="navbar"></div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch("/components/navbar.html")
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById("navbar").innerHTML = data;
+              })
+              .catch(error => console.error("Error loading navbar:", error));
+      });
+  </script>
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                <time pubdate datetime="2013-25-September" title="September 25, 2013">September 25, 2013</time>
+            </div>
+            <h1 class="title">Code@Night at TigerLabs</h1>
+            
+        </header>
+
+        <section>
+            <p>This week's Code@Night is coming up, and it's at <strong>TigerLabs</strong>. :D</p>
+<p>The address of TigerLabs is 252 Nassau Street, 2nd floor, Princeton, NJ, 08542 -- it's right by Ivy Inn and Hoagie Haven.</p>
+<p>Come to Code@Night at TigerLabs on September 27, from 9pm to late.</p>
+<p>We'll have pizza, ping pong, and programming.</p>
+<p>Perhaps this week we'll order the pizza via our pizza-ordering Python script.</p>
+<p>Maybe we'll even get a totally random pizza.py!</p>
+<p><a href="https://www.facebook.com/events/170395019831706/">RSVP for the event on Facebook.</a></p>
+
+        </section>
+    </div>
+</article>
+
+<div id="footer"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/components/footer.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("footer").innerHTML = data;
+            })
+            .catch(error => console.error("Error loading footer:", error));
+    });
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/main.js"></script>
+
+
+</body>
+</html>

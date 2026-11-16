@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princeton ACM</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/assets/main.css">
+    <link rel="icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/myfavicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/acm_with_chapter.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Princeton ACM" />
+    <meta name="title" content="Ordering Pizza at Code@Night ">
+    <link rel="canonical" href="http://princeton.acm.org/main/2013/09/14/ordering-pizza-at-codenight/">
+    <meta property="og:title" content="Ordering Pizza at Code@Night "/>
+    <meta property="og:url" content="http://princeton.acm.org/main/2013/09/14/ordering-pizza-at-codenight/"/>
+    
+    <meta property="og:site_name" content="Princeton ACM">
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/84d2c1acac.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="navbar"></div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetch("/components/navbar.html")
+              .then(response => response.text())
+              .then(data => {
+                  document.getElementById("navbar").innerHTML = data;
+              })
+              .catch(error => console.error("Error loading navbar:", error));
+      });
+  </script>
+
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                <time pubdate datetime="2013-14-September" title="September 14, 2013">September 14, 2013</time>
+            </div>
+            <h1 class="title">Ordering Pizza at Code@Night</h1>
+            
+        </header>
+
+        <section>
+            <p>Every Code@Night we order a solid amount of pizza. 8, 10, 12 pies. Depends on the size of the crowd.</p>
+<p>Tonight, we collaboratively programmed a <a href="https://github.com/dbieber/acmpizza">pizza ordering script</a>. We hooked my computer up to the giant monitor in the CITP space in Sherrerd and made this script that would go through the whole pizza ordering process. Selenium allowed us to control the browser programmatically. Having the Selenium driven browser deal with JavaScript was difficult, so we ordered our programmatic pizza through Papa John's mobile site. There were no JavaScript issues there. The process was mostly <em>look up an xpath in chrome</em>, <em>do stuff on that element</em>, repeat. Pretty exciting to watch the script go through and order all our pizza all on its own.</p>
+<p>How does programmatic pizza taste compared to your ordinary Code@Night pizza? Couldn't tell you. It's Yom Kippur.</p>
+<p>As a side note to those planning future Code@Nights, these events will slow down sooner on Yom Kippur. Generally a good idea to plan around this.</p>
+<p>Next steps? Have our script order a completely random pizza. Or take preferences, and order the utility-maximizing combination of pizzas. Or expand to non-Papa-Johns foods. Or... get this... we turn pizza ordering into a one-button process with a Raspberry Pi, which we would of course affectionately name our Raspberry Pizza Pie.</p>
+<p>Want to actually implement some of these "next steps"? Dig into <a href="https://github.com/dbieber/acmpizza">the code on Github</a>.</p>
+<p>&nbsp;</p>
+
+        </section>
+    </div>
+</article>
+
+<div id="footer"></div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/components/footer.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("footer").innerHTML = data;
+            })
+            .catch(error => console.error("Error loading footer:", error));
+    });
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/main.js"></script>
+
+
+</body>
+</html>
